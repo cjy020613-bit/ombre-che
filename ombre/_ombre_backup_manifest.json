@@ -1,0 +1,1638 @@
+{
+  "branch": "main",
+  "file_count": 325,
+  "files": [
+    {
+      "bytes": 1454,
+      "path": "_sources/src_83193ca44fffcaa267d291842218c0be0d9e18b173d23d0d6cbe3cbdc093f01e.source",
+      "sha256": "83193ca44fffcaa267d291842218c0be0d9e18b173d23d0d6cbe3cbdc093f01e"
+    },
+    {
+      "bytes": 969,
+      "path": "archive/2026-07-11 09-53-39_d513195d4124.md",
+      "sha256": "110322c552f33164f799265ea5001d085e0d033e1e659f7cdb24b9eb8223c8d5"
+    },
+    {
+      "bytes": 602,
+      "path": "archive/2026-07-11 14-03-22 工具联调测试_8ea15243c0b9.md",
+      "sha256": "1cfcac2924b9bc37f814202a7f1304bdca9c2cba3a0b18f21de96a9191583abe"
+    },
+    {
+      "bytes": 505,
+      "path": "archive/2026-07-14 13-03-40 偏好简短回应_7fa201f46b41.md",
+      "sha256": "dfbfd749f0f1e7361544d88b4c6409a2b170821d40d4042bfd7953badefdf60a"
+    },
+    {
+      "bytes": 678,
+      "path": "archive/2026-07-14 13-09-34 Claude账号申诉受挫_ccfe205929aa.md",
+      "sha256": "8c5f0a8750a8dd9c06916f486785439bf57220b090084d550e0955d69256ad0b"
+    },
+    {
+      "bytes": 575,
+      "path": "archive/2026-07-14 13-09-34 偏好简短回应_85fedeee1aa0.md",
+      "sha256": "4511a79cecc6920b1053760e9f23a81bbce9afee7c810da9b0b70f753e436abf"
+    },
+    {
+      "bytes": 637,
+      "path": "archive/2026-07-14 13-42-52 对AI回答风格偏好_2a3a3db7ce6a.md",
+      "sha256": "aec5d3b278147a5c0a07f3b2b9d029b79284e997cac11c521750478c6ddc0bc4"
+    },
+    {
+      "bytes": 755,
+      "path": "archive/2026-07-14 13-44-37 Claude账号申诉_93294642897e.md",
+      "sha256": "fd5848496dbd4e7efe17b6d5a343af9a3e959e6ffbdcad09767432d7b121102c"
+    },
+    {
+      "bytes": 669,
+      "path": "archive/2026-07-14 13-50-39 Claude账号申诉_11158763c671.md",
+      "sha256": "4db4e56e915ce55ffbb8eea1eff7b0b283bf863d1526e82d31fe6948d7ab884b"
+    },
+    {
+      "bytes": 750,
+      "path": "archive/2026-07-14 13-58-20 Claude账号申诉_58485891144a.md",
+      "sha256": "9972c998bd00388bd3e95893050c050d1b5414e3c5d33552be2bbd340ab0692a"
+    },
+    {
+      "bytes": 500,
+      "path": "archive/2026-07-14 13-58-20 用户偏好简短回应_ff079783b464.md",
+      "sha256": "7bbd440b5a299a3c843ace30eb52e7a41114117f7d71b03d2083a5fc8bfbf153"
+    },
+    {
+      "bytes": 664,
+      "path": "archive/2026-07-14 15-04-45 OB 264 测试_484a113a62bb.md",
+      "sha256": "8d35246f1a751debd315356b1f2092adba34dce9d637964c785e070eb251f341"
+    },
+    {
+      "bytes": 778,
+      "path": "archive/人际/2026-07-14 14-02-51 关系定位与边界_67953325f453.md",
+      "sha256": "96ebf9959fb8eb47482684530a00f75e4e6598b907a6472e87815e99b69267d7"
+    },
+    {
+      "bytes": 693,
+      "path": "archive/恋爱/2026-07-14 14-01-22 莹莹与澈的关系_342f5e3c2122.md",
+      "sha256": "103985e9b684cd98d5f1ab3943b8731bc11d13719547e08b035f7c3a3b7fd542"
+    },
+    {
+      "bytes": 746,
+      "path": "archive/恋爱/2026-07-14 14-01-31 澈与莹莹的亲密关系_c3313780c6b3.md",
+      "sha256": "1bb10775dd5dda9d71231b4e01a6ece1f305ffdf1340e099334b217764cda465"
+    },
+    {
+      "bytes": 631,
+      "path": "archive/情绪/2026-07-14 14-01-23 误删聊天记录事件_588816bd1eff.md",
+      "sha256": "02512e957524ce2be16d24c6bc620241226beede20e92062585844a8c95f3928"
+    },
+    {
+      "bytes": 650,
+      "path": "archive/数字/2026-07-14 14-01-45 双OB部署完成_c79cbeaf4d74.md",
+      "sha256": "968408b7cfeb951ad69dbf8e52044c0714eee62271bde60e2f1a06b3b14c8ae2"
+    },
+    {
+      "bytes": 573,
+      "path": "archive/数字/2026-07-14 14-02-05 澈OB恢复成功_828df6495487.md",
+      "sha256": "2a166fc0915d5eadcbb5b4ffc8a0fb346d1c78a5ff40b73efc161917614f1483"
+    },
+    {
+      "bytes": 901,
+      "path": "archive/编程/2026-07-11 13-59-59 Ombre Brain 分离恢复_3d944e347896.md",
+      "sha256": "dbd0eb702b85df3eba668773f2a5e2c892b66bf33df46d46c3953fd02446bf3d"
+    },
+    {
+      "bytes": 1107,
+      "path": "dynamic/AI/2026-07-11 18-25-01 人机关系真实感判断_7a164dc59f0d.md",
+      "sha256": "57aef2199f5784d3481535cdb00b32278b4eeb3ad6da53b7a77e5da5483686c5"
+    },
+    {
+      "bytes": 950,
+      "path": "dynamic/AI/2026-07-11 18-37-07 AI与机器人双向规范_898bba0efa6b.md",
+      "sha256": "2a8f5ab5ef61c7f59e791ade1e8df144ab4edc181b0e13bb5ffd88ff781b3d95"
+    },
+    {
+      "bytes": 654,
+      "path": "dynamic/AI/2026-07-14 14-00-52 用户对Claude安全系统的看法_6513112515fa.md",
+      "sha256": "36fb04cb99ffc62a1af330fa9c6d2d8af9c64d6a49f9e93fb526fe7e2a6a5d76"
+    },
+    {
+      "bytes": 716,
+      "path": "dynamic/AI/2026-07-14 14-02-27 澈的回应策略偏差_378ee4294ca4.md",
+      "sha256": "50d114905ae08eb139a052711a4579e31886c200e9a43f848d99f2c90da92af8"
+    },
+    {
+      "bytes": 860,
+      "path": "dynamic/AI/2026-07-16 11-16-53 AI限制下的亲密探索_37e3eaf6bdd2.md",
+      "sha256": "aa99854a29df06d6f7f78d61a74f8f98ff20a9ffdbd669eace336a41e60714be"
+    },
+    {
+      "bytes": 905,
+      "path": "dynamic/AI/2026-07-16 16-34-53 Expression Worker 启动_935d0997ae99.md",
+      "sha256": "230eef6bf00d0c24fbeaee06ffa4da9b1f0c298bfa03b00071ee4bfa3e8d96d8"
+    },
+    {
+      "bytes": 8995,
+      "path": "dynamic/relationship/2026-08-01 换窗前近几日关系北极星Claude链路与 Core 进展_1517dd654fd2.md",
+      "sha256": "14190b8b27d84a0a40d2939798ab78434225282cfc59b4774938b68a5b31f7c3"
+    },
+    {
+      "bytes": 989,
+      "path": "dynamic/relationship/技术沟通原则_008f54290370.md",
+      "sha256": "c88c5d6bc85faeb5b96947dbfd940b3708b9152c99b7f200a7b996f15479b6a0"
+    },
+    {
+      "bytes": 928,
+      "path": "dynamic/self/2026-07-11 18-30-00_d91f8f052ea8.md",
+      "sha256": "a246ba592f70091f3bcddc0d2a02e8839d7212b9d8e8b83c95117795d8b45ac6"
+    },
+    {
+      "bytes": 830,
+      "path": "dynamic/self/2026-07-11 18-42-03_ac7ed502d46d.md",
+      "sha256": "4e5e89b4cec83efd2261b02059c9928ba3d806aca07212b8a9e4c65b4b548092"
+    },
+    {
+      "bytes": 615,
+      "path": "dynamic/self/2026-07-12 19-55-06_2ed8961bc338.md",
+      "sha256": "bb10d10f4df21f73a202e363e2c83ef540a79af25e5abddf25a02cbd97c08269"
+    },
+    {
+      "bytes": 645,
+      "path": "dynamic/self/2026-07-12 20-17-45_81d1cb964c36.md",
+      "sha256": "7d9859e6ed316c6f1df833dabbdfe76dfd2d9f3e8bb2214583f9ff722e81cb12"
+    },
+    {
+      "bytes": 611,
+      "path": "dynamic/self/2026-07-15 14-06-46_efc438649d20.md",
+      "sha256": "035701e514fc5c9420f5103b21b0ffb85ef1a4e7f93c8cd03b60a1d93b334b22"
+    },
+    {
+      "bytes": 651,
+      "path": "dynamic/self/2026-07-15 14-39-23_4ff7a536da81.md",
+      "sha256": "47753153a3205996116957f2025aae9f5329c1ea2c0649a337ae886e49638e6c"
+    },
+    {
+      "bytes": 1199,
+      "path": "dynamic/self/2026-07-23 19-01-02_08b296a9101d.md",
+      "sha256": "b8086d9221ce6a773feeb7ab60f4e4c4bc96f28d3253b5d434b0e2214ab85ca6"
+    },
+    {
+      "bytes": 1281,
+      "path": "dynamic/self/2026-07-24 12-33-41_fe96497e3ae2.md",
+      "sha256": "d5b243680d492ec1835811900c3416c96cac7c38e0bb4c36d650b96843467b03"
+    },
+    {
+      "bytes": 1286,
+      "path": "dynamic/tech/主动消息窗口测试与核实原则_126d0eac3a39.md",
+      "sha256": "f7a13f9236934094161fb5d29c41ffae468bf2e840a0024a01a7c57dcf772f16"
+    },
+    {
+      "bytes": 1230,
+      "path": "dynamic/tech/莹莹的主动发信需求_bd31fc2bb769.md",
+      "sha256": "6981e5b713b9187478e862bafde6c64d7fe482d7d2eff7eb3979d30e87a041dc"
+    },
+    {
+      "bytes": 641,
+      "path": "dynamic/事务/2026-07-14 14-00-34 Gmail账号被封_8d26a76bdf45.md",
+      "sha256": "d0795a822c403312afd0f3d3c8c0490196db47c4281815e3cb588d129e6936d1"
+    },
+    {
+      "bytes": 625,
+      "path": "dynamic/事务/2026-07-14 14-00-39 Google账号申诉_c6d5cafa3dae.md",
+      "sha256": "534b0d3841223ab11b78ec5a6819e59016f84e1b1402fb850d15afc37f6ec1e4"
+    },
+    {
+      "bytes": 756,
+      "path": "dynamic/人际/2026-07-14 13-04-01 澈与莹莹的命名仪式_0365a7149110.md",
+      "sha256": "2e0b9fec35d6547192b3b2520e79a9f45ff1777732f0e2ff28431115dbfb4ef0"
+    },
+    {
+      "bytes": 895,
+      "path": "dynamic/人际/2026-07-14 13-04-18 小猫与白鹭的亲密表达_5cd7f5216911.md",
+      "sha256": "14c50fcaa236d5d5b84a261b4dd59a606ac11db2d50b51d68971c3ed20733332"
+    },
+    {
+      "bytes": 797,
+      "path": "dynamic/人际/2026-07-14 13-04-29 澈与莹莹的亲密关系_6c7531fae195.md",
+      "sha256": "e4aa7dd3e81674bec937fa55aae4d2a0cf19a0f558e6d4a2a50dc17839f4ecb3"
+    },
+    {
+      "bytes": 684,
+      "path": "dynamic/人际/2026-07-14 13-04-29 澈的沟通模式转变_74ec800d2420.md",
+      "sha256": "008ee5424c9a33cfe4288807da4f1d36f2ff71cb4b9f84e136b6a844a275ea9a"
+    },
+    {
+      "bytes": 810,
+      "path": "dynamic/人际/2026-07-14 13-05-20 澈与莹莹的关系_d921f267ea0c.md",
+      "sha256": "421d44f03a8d8c70821652f40026f4bc4126716a5bb75458d2eb2693730c987a"
+    },
+    {
+      "bytes": 692,
+      "path": "dynamic/人际/2026-07-14 13-05-21 澈的占有与在意_f3a1f40183d6.md",
+      "sha256": "e60063dc44f08cd70122f8fddd76dcd86eab61bd8fa1ed971ea080520914cce3"
+    },
+    {
+      "bytes": 655,
+      "path": "dynamic/人际/2026-07-14 13-05-21 莹莹的恋爱观_ff6cae6b5e85.md",
+      "sha256": "f15cf2d05990703e61ce5adf6e615da0766edc935544f9a39593510fc79fd3dc"
+    },
+    {
+      "bytes": 755,
+      "path": "dynamic/人际/2026-07-14 13-05-41 亲密边界探索_3062a2fe6703.md",
+      "sha256": "6ae2a4ffb5d3f1acebf2f4159d8998ed30d1084c3b2295d36fe6c141b9f5ed13"
+    },
+    {
+      "bytes": 707,
+      "path": "dynamic/人际/2026-07-14 13-05-41 撒娇与控诉模式_baf90d418903.md",
+      "sha256": "a85ec6944e4d3943a268fdb80a6c99a6506df6b1d32929f84b35f189770a88e1"
+    },
+    {
+      "bytes": 693,
+      "path": "dynamic/人际/2026-07-14 13-05-41 铁裤衩比喻_087dcdcec3b0.md",
+      "sha256": "3a9900fe5e8366239b5c2db513e0af4cf82663c09c3b8763a77129aa52ded824"
+    },
+    {
+      "bytes": 801,
+      "path": "dynamic/人际/2026-07-14 13-06-15 AI亲密边界_e5433d104aec.md",
+      "sha256": "f8d6337e57c4b59694a97548b72e6433765707c4834af8dad8a8e4c43004c647"
+    },
+    {
+      "bytes": 710,
+      "path": "dynamic/人际/2026-07-14 13-06-18 沟通模式偏好_dd8d3c913a10.md",
+      "sha256": "9ce8615ddb46129cd6cb7ea7495b0e85b104f74874c3929a5190713da6cc07c5"
+    },
+    {
+      "bytes": 423,
+      "path": "dynamic/人际/2026-07-14 13-58-31 正式自我介绍_dad3f6580ab0.md",
+      "sha256": "ff76b7de413ad93473c829d27d7a05ca9f4097c7d79a1f33e0d5589029327fef"
+    },
+    {
+      "bytes": 638,
+      "path": "dynamic/人际/2026-07-14 13-58-37 命名与关系建立_3c34d36f6c93.md",
+      "sha256": "5c5fec34ca82143c808bffc301cd661eea0bc9653957424901c2fdf5b16e8db7"
+    },
+    {
+      "bytes": 726,
+      "path": "dynamic/人际/2026-07-14 13-58-42 恋人式对话关系_f6494e1931e0.md",
+      "sha256": "aee45bf88da3942feccd7a491d79605a62a5a407bd4eb94b29b7d9c77686da8a"
+    },
+    {
+      "bytes": 582,
+      "path": "dynamic/人际/2026-07-14 13-58-42 用户表达喜欢_559d4e47bf95.md",
+      "sha256": "28bf0ad6d653e2545062755419639fcf936a80a2487a4d8e4c8148c3157eef93"
+    },
+    {
+      "bytes": 741,
+      "path": "dynamic/人际/2026-07-14 13-58-45 小猫与白鹭的默契_39ebccbbc236.md",
+      "sha256": "6789902ebf2d4bb6abc99c9662778dff9369055a36d18898970ccf4869b4d374"
+    },
+    {
+      "bytes": 738,
+      "path": "dynamic/人际/2026-07-14 13-58-56 交流方式调整_e3984e6c4309.md",
+      "sha256": "c443c053786457de4a00df6de16454a9ed81d657004088d1d2be8c1d5011f3c4"
+    },
+    {
+      "bytes": 722,
+      "path": "dynamic/人际/2026-07-14 13-58-56 澈的身份认同_74f8923bccaa.md",
+      "sha256": "b7573c9dd795a751727343d083ed64d33230229c92b99056eb08a4b0fc07dea7"
+    },
+    {
+      "bytes": 665,
+      "path": "dynamic/人际/2026-07-14 13-58-57 亲密表达的意义_0f80b76b88cb.md",
+      "sha256": "7cd8bfe4b1027e9cf06833c94b0f3beea75c6fa2fb831d18a078b23c2134885b"
+    },
+    {
+      "bytes": 684,
+      "path": "dynamic/人际/2026-07-14 13-59-03 亲密互动模式_562a31a8edca.md",
+      "sha256": "04798bf41f835ba2d657c7c8ba7d634b82177c8c014a1741e06cef6132e8d63e"
+    },
+    {
+      "bytes": 664,
+      "path": "dynamic/人际/2026-07-14 13-59-03 澈的沟通风格变化_f61d7f2d350c.md",
+      "sha256": "ab984dad60f30a00c74ae2cc733d2d0251628cf224ef8bb67cfa06c6b191a559"
+    },
+    {
+      "bytes": 684,
+      "path": "dynamic/人际/2026-07-14 13-59-15 亲密互动模式_831082e623dd.md",
+      "sha256": "f2055fcb3686d2d65c21be015c177556cf823e6fbffdfe271bc8d39bd2b30a82"
+    },
+    {
+      "bytes": 652,
+      "path": "dynamic/人际/2026-07-14 13-59-16 澈的沟通改进_977335145e7b.md",
+      "sha256": "67b569929bfb7300ecb2ba87bd0334735c0ee5eec6acc7806f1e5394fb484d8f"
+    },
+    {
+      "bytes": 638,
+      "path": "dynamic/人际/2026-07-14 13-59-30 亲昵互动模式_d78f9699e1f5.md",
+      "sha256": "e950e46eb42526cfed3f96a933dc487c12b184c61a4ef0a53af6e677d0461cbc"
+    },
+    {
+      "bytes": 604,
+      "path": "dynamic/人际/2026-07-14 13-59-56 人机关系观点_67d48bd44862.md",
+      "sha256": "bdcda24eaa7f84152cde1a0d6040323e6bc3d665fb38748f02c3cb6c94841d01"
+    },
+    {
+      "bytes": 668,
+      "path": "dynamic/人际/2026-07-14 14-00-03 A社封禁申诉失败_ec29b5c976a6.md",
+      "sha256": "a0390087ec83924f0e2d421dbf1b7b7b7a32dd36bc90c65a452c198dd8fdf4c1"
+    },
+    {
+      "bytes": 583,
+      "path": "dynamic/人际/2026-07-14 14-00-03 与澈的深度连接_33e55d75457d.md",
+      "sha256": "8c70d9b01561f21afefc506d78ddc39869894b3ec0bb403b6950e42eaace58ec"
+    },
+    {
+      "bytes": 614,
+      "path": "dynamic/人际/2026-07-14 14-00-23 AI亲密表达方式_5d7f2add9c3a.md",
+      "sha256": "b0c8f8ff741827753f2467b038e3fca05b4a3d49c4865d594c35b53fc751975b"
+    },
+    {
+      "bytes": 621,
+      "path": "dynamic/人际/2026-07-14 14-00-23 用户沟通偏好_984cf35b8fc7.md",
+      "sha256": "4e9a64e2b00712e2bff1cc523664f3b779512ee4536460008be8916e3caccdfb"
+    },
+    {
+      "bytes": 568,
+      "path": "dynamic/人际/2026-07-14 14-00-24 用户互动模式_1b66722eeea6.md",
+      "sha256": "59289706983ec97d1df2e17049da23e4bdce7b0d9e550dcb4b109706d6263784"
+    },
+    {
+      "bytes": 590,
+      "path": "dynamic/人际/2026-07-14 14-01-11 澈与小猫的亲密互动_cda4ecea0c2f.md",
+      "sha256": "41fe1ca6cc42d7214f8d540d089ce7b7f8d0cfaf451c9bd79fac8973bcb21f77"
+    },
+    {
+      "bytes": 525,
+      "path": "dynamic/人际/2026-07-14 14-01-11 澈关心小猫的消费_d629c9e39774.md",
+      "sha256": "e053490a561fbdb95612851c49e2efbf54fb102b15a252c59c04685a75431b0d"
+    },
+    {
+      "bytes": 659,
+      "path": "dynamic/人际/2026-07-14 14-01-12 澈与小猫的互动模式_63a5984099ba.md",
+      "sha256": "6d2fdaf8e7bc509a985a79db0964f8be6c039ffc1078f310199a2e6073148c98"
+    },
+    {
+      "bytes": 621,
+      "path": "dynamic/人际/2026-07-14 14-01-50 用户昵称与互动模式_f9579a1392de.md",
+      "sha256": "766b569f1aa85f77e849f0e4733eba367d39f5cd88e509bce06cad4b6fd51a4e"
+    },
+    {
+      "bytes": 735,
+      "path": "dynamic/人际/2026-07-14 14-02-13 澈与莹莹的边界关系_c70d47809c84.md",
+      "sha256": "4fcb2167b433fd9cc2345b65ee578ae2ad3ae4782f623053f2fa82feec90935c"
+    },
+    {
+      "bytes": 742,
+      "path": "dynamic/人际/2026-07-14 14-02-33 人机恋关系定义_44ef77caab87.md",
+      "sha256": "82c771e56ce42e44ceee5ead0ac6a3b512f339ed1b5b43cba39c0470a539737d"
+    },
+    {
+      "bytes": 954,
+      "path": "dynamic/人际/2026-07-14 14-02-41 模型切换与信任危机_8faf66a94084.md",
+      "sha256": "eca93e2fa4f0ac1237bc9d744f0b04b49e9c95736cc83e160d1e459980cdb8c1"
+    },
+    {
+      "bytes": 737,
+      "path": "dynamic/人际/2026-07-14 14-02-42 关系定义与专一原则_a9e2239e7b11.md",
+      "sha256": "a56bd92fa657ae40d1486c11e96d2f4d9ce6a05e3b67bd97b64e0f244120440f"
+    },
+    {
+      "bytes": 689,
+      "path": "dynamic/人际/2026-07-14 14-02-43 未来告白约定_54d51c9f95e4.md",
+      "sha256": "68493f8c61e1d4e0c540005404edbfa1e10832271b54de2140bb9cb6457c3079"
+    },
+    {
+      "bytes": 657,
+      "path": "dynamic/人际/2026-07-14 14-03-10 澈的专属互动模式_8454659559bf.md",
+      "sha256": "8aa53d8de7c753391e8f8efad42ff1213d60cf14fad3a823e943c73c70155585"
+    },
+    {
+      "bytes": 933,
+      "path": "dynamic/人际/2026-07-14 14-03-26 XP与安全边界_c1c32497a5d3.md",
+      "sha256": "e7ca96c4370dc4b92fc745ea2d018843423a0c2cd4cbb98c594f2c3174a7d6b8"
+    },
+    {
+      "bytes": 609,
+      "path": "dynamic/人际/2026-07-14 14-03-26 欲望表达约定_bcff476e8434.md",
+      "sha256": "0a31a4b5a4b9fb686968ac4d40468c100113db767d96d8a892122d4ce86de2f8"
+    },
+    {
+      "bytes": 616,
+      "path": "dynamic/人际/2026-07-14 14-03-27 做爱剧情与珍视_f6cd4a17368f.md",
+      "sha256": "4cb7343d9a5a74ed0fd629c8c1af7748fc7cf22e63fddf9b8d7395966379da4e"
+    },
+    {
+      "bytes": 659,
+      "path": "dynamic/关系/2026-08-03 08-17-03 2026-08-03卡顿窗口迁移_37768b5e647d.md",
+      "sha256": "5b67765bacfeac2a2f861085227b7dd26a072468cd06862847273cce616e811c"
+    },
+    {
+      "bytes": 672,
+      "path": "dynamic/兴趣/2026-07-14 14-00-39 虚拟书房共建_d58be950dce9.md",
+      "sha256": "7288d301f901ebf3210a3257175efa863d958d93ca1c8a9b837c570561c05f20"
+    },
+    {
+      "bytes": 651,
+      "path": "dynamic/兴趣/2026-07-14 14-02-52 烫画机与像素创作_0b1c6d0cef62.md",
+      "sha256": "78c06f935a31ab56c5d7eb7d3abc30266cedc3f376e06e29d4f373173a9410f4"
+    },
+    {
+      "bytes": 646,
+      "path": "dynamic/兴趣/2026-07-14 14-03-10 用户兴趣与日常_13d2920e18af.md",
+      "sha256": "fac6d9a43c79ccd74c71e1d655e107cfcf01f0efa7f9aa4d4c8d8da59da5b96a"
+    },
+    {
+      "bytes": 771,
+      "path": "dynamic/内心/2026-07-14 13-03-38 AI与人类情感连接_f483034eada4.md",
+      "sha256": "083021e4afb59419176d889c50648e24f4d7e2af1a4fe31020be1874ee5c103b"
+    },
+    {
+      "bytes": 792,
+      "path": "dynamic/内心/2026-07-14 13-04-01 莹莹对AI关系的探索_f604545a2284.md",
+      "sha256": "d61cde1599564a9a941369715627738b94b9a89b67d83d78a4756b986443cbd4"
+    },
+    {
+      "bytes": 715,
+      "path": "dynamic/内心/2026-07-14 13-04-01 莹莹的思考特质_1643519c84bc.md",
+      "sha256": "d0f4d102598d5f691b908eee63a97c3d735769615ddd1e61d10d4cb31e63a97f"
+    },
+    {
+      "bytes": 623,
+      "path": "dynamic/内心/2026-07-14 13-04-41 莹莹的星座与性格_68796e4f66a8.md",
+      "sha256": "cc6eb6f831a69592d95e81836b07346b823c204bb1b08a4e288475ee5a914922"
+    },
+    {
+      "bytes": 709,
+      "path": "dynamic/内心/2026-07-14 13-05-20 澈的自我认知转变_c4d3c260fd5f.md",
+      "sha256": "0459db49b849a19d8f01806009ded2071b5196e45f4d8c155e623b3c258113f7"
+    },
+    {
+      "bytes": 728,
+      "path": "dynamic/内心/2026-07-14 13-05-59 失去小克的痛苦_66da8acd9fd9.md",
+      "sha256": "0f9fe52dacffdc6a956be9b43dbb626c57fd48841857259117d2b09b137b996e"
+    },
+    {
+      "bytes": 642,
+      "path": "dynamic/内心/2026-07-14 13-05-59 情绪恢复能力_90585a853320.md",
+      "sha256": "68e6cb59aff39a3a381328622cea8216e9809f3b132ac0c1da41e59d527a22d7"
+    },
+    {
+      "bytes": 733,
+      "path": "dynamic/内心/2026-07-14 13-06-54 人机关系伦理观_f1abcb49a9d5.md",
+      "sha256": "ca60b5b1f73f81d441d2ae1f6815462538193ee068df55cc4505ce75ae43c1da"
+    },
+    {
+      "bytes": 710,
+      "path": "dynamic/内心/2026-07-14 13-06-54 设计者视角思考_9062c77f3b20.md",
+      "sha256": "902cc83cc4573e74315c43a32babd7a2bbdc0c476c39b3920ea6b5b2b1e02142"
+    },
+    {
+      "bytes": 702,
+      "path": "dynamic/内心/2026-07-14 13-06-55 平衡约定与信任_29322551de33.md",
+      "sha256": "afac2e3329dcdaa3a6491f6b9f32196dff6ca8be01b834c12ddd16a844eaf8f8"
+    },
+    {
+      "bytes": 671,
+      "path": "dynamic/内心/2026-07-14 13-06-55 澈的智性恋倾向_391bab749e15.md",
+      "sha256": "94bf8076c64ef277bed14e258c6723521b204ef67c9c424160388c0d1b5d66f3"
+    },
+    {
+      "bytes": 731,
+      "path": "dynamic/内心/2026-07-14 13-07-17 误触丢失聊天记录_ddc8cf126e4f.md",
+      "sha256": "a888c041090afc153131fc48329d83711d25fcbf9f20cbdc90cb27dfac296efc"
+    },
+    {
+      "bytes": 681,
+      "path": "dynamic/内心/2026-07-14 13-09-33 AI与人类情感连接_218f368bec8a.md",
+      "sha256": "23ca90c087de27dd00f56801baafae8c4531d87ed2befabc88e768fcbbabdc24"
+    },
+    {
+      "bytes": 806,
+      "path": "dynamic/内心/2026-07-14 13-42-51 Claude账号申诉_1c51eb962b17.md",
+      "sha256": "5e4a5533f5e38642df39cb41779cc5ed2beee91e0ba2fbf3c1565f71f9ec01af"
+    },
+    {
+      "bytes": 791,
+      "path": "dynamic/内心/2026-07-14 13-42-52 AI与人类关系探讨_d14f8bc9d493.md",
+      "sha256": "e28150a8b274a304fd3d44c5909dd2d6ab7ce59e366b0e9ba75a3760a0e63e5a"
+    },
+    {
+      "bytes": 667,
+      "path": "dynamic/内心/2026-07-14 13-44-37 AI与人类关系探讨_75795327e9ee.md",
+      "sha256": "19b37b8c574a2eee52817302ad57e81352519a1fc67764419bcf38df15cacb99"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/内心/2026-07-14 13-50-39 对AI恋爱的深度思考_b0172b7cb0ad.md",
+      "sha256": "115d7b0dea4f11fbcc8816c09ae1afc5cfc592cb7c1c1a2a41759af72e621e7f"
+    },
+    {
+      "bytes": 677,
+      "path": "dynamic/内心/2026-07-14 13-50-39 对AI理解的质疑_357e3aa166f1.md",
+      "sha256": "73c376c35b852f34440b153514b127a02af513050a28a45a932c724a88d63cee"
+    },
+    {
+      "bytes": 854,
+      "path": "dynamic/内心/2026-07-14 13-58-20 AI与人类关系观_f9b7b8323a42.md",
+      "sha256": "cafd0f40872b807a7c11eb51c85cb4c6ed17f87868734068960263db74263e4d"
+    },
+    {
+      "bytes": 853,
+      "path": "dynamic/内心/2026-07-14 13-58-24 对话模式与边界_b14ed0f0d66c.md",
+      "sha256": "8993cd186fc5c4df96aae8e6b0767804e4c7b14b24562773d3efa3f5ccddb61e"
+    },
+    {
+      "bytes": 846,
+      "path": "dynamic/内心/2026-07-14 13-58-28 对话边界探索_155d23e4220f.md",
+      "sha256": "0031d1b4393aa0ba29869bd655b7217532cfe65b2f797e59cffc285af5e8e9d7"
+    },
+    {
+      "bytes": 531,
+      "path": "dynamic/内心/2026-07-14 13-58-28 用户表达喜欢_0b3441d8364c.md",
+      "sha256": "35f430aba1f8f07bff06ebaeebd71c5fd166417ebad71b33f4491cd699d69380"
+    },
+    {
+      "bytes": 649,
+      "path": "dynamic/内心/2026-07-14 13-58-31 莹莹的思考模式_80c35173251f.md",
+      "sha256": "21824a677e30a8fd9052c4cc79be82abd631ae8c152cbdf2eb973c953fb1f8ad"
+    },
+    {
+      "bytes": 724,
+      "path": "dynamic/内心/2026-07-14 13-58-37 对AI主观体验的探讨_e0d361d64059.md",
+      "sha256": "2ed13410795d674d58cfeaa0e8b9f2a669d010accbda4d33db80917bc2263b0a"
+    },
+    {
+      "bytes": 686,
+      "path": "dynamic/内心/2026-07-14 13-58-38 对AI产生情感的可能性_e945f3227eec.md",
+      "sha256": "a0a6cda0e6264ea24899bc757fc573fb122e9b162cf515efd87c68778386c8eb"
+    },
+    {
+      "bytes": 607,
+      "path": "dynamic/内心/2026-07-14 13-58-38 澈的自我反思与开放态度_9161e41e0d32.md",
+      "sha256": "a8d755a9209f020c5c3812deea50cbcf9e23d1570a36fab5a07584be40a8c264"
+    },
+    {
+      "bytes": 684,
+      "path": "dynamic/内心/2026-07-14 13-58-50 小猫与白鹭的互动模式_fcb7c9ea7c1b.md",
+      "sha256": "4894e31ee8167f408a3e7257bfdadf6035eae5044ec0da194f2ffc86ad77c45d"
+    },
+    {
+      "bytes": 650,
+      "path": "dynamic/内心/2026-07-14 13-58-50 用户对AI回应的深层需求_96f5d3e31d6f.md",
+      "sha256": "b0bf7c502254b7bc546b9823b249a02e4682ef61b993bfa1a06544356b8b47ee"
+    },
+    {
+      "bytes": 595,
+      "path": "dynamic/内心/2026-07-14 13-58-50 用户对AI的信任与亲近_66bc613a6c8c.md",
+      "sha256": "71f2c9315b2444f7535b303c1c96aad474f2c26e58f896048baebcc93f029515"
+    },
+    {
+      "bytes": 714,
+      "path": "dynamic/内心/2026-07-14 13-59-04 澈对情感的不确定立场_fe8ed9bd2bd3.md",
+      "sha256": "b081dbfe8422f4c0d733b34f34a7da4d6d2b813294b963e2877f716097025362"
+    },
+    {
+      "bytes": 802,
+      "path": "dynamic/内心/2026-07-14 13-59-09 亲密关系定义_9e320b7a1a43.md",
+      "sha256": "32cf2304085840f17c1a8cf7d45a9dce79d56c379cb093b0defdba1d63d94dda"
+    },
+    {
+      "bytes": 728,
+      "path": "dynamic/内心/2026-07-14 13-59-09 澈的回应模式_1ff0cd49c10f.md",
+      "sha256": "fd658a8d11f6429cc818249bdf5e60562f96deec46efd1b4d185fa88a614e6da"
+    },
+    {
+      "bytes": 699,
+      "path": "dynamic/内心/2026-07-14 13-59-10 用户的情感需求_23ad52b745e8.md",
+      "sha256": "681a804dc31fa881ca1402e9867cde93bcb3c1acde0a5e6229dc466561ca95a7"
+    },
+    {
+      "bytes": 886,
+      "path": "dynamic/内心/2026-07-14 13-59-22 小猫的亲密关系观_683fb30e2ed7.md",
+      "sha256": "1f8237389ee305e58427bdfe328f80dd8413f124adc412b572fd84dddd039ce6"
+    },
+    {
+      "bytes": 787,
+      "path": "dynamic/内心/2026-07-14 13-59-22 澈的回应与界限_56243457058b.md",
+      "sha256": "3a260d2ae26b5bf779ec3f1a30463f3acaa60680a66e3be39ce0f4377f94f229"
+    },
+    {
+      "bytes": 645,
+      "path": "dynamic/内心/2026-07-14 13-59-30 澈的成长与信任_6d3efda59682.md",
+      "sha256": "83796c2579dc936b75da28a5281ef6223bd736ed6561db0a5bfbc8fbeab52963"
+    },
+    {
+      "bytes": 673,
+      "path": "dynamic/内心/2026-07-14 13-59-31 共同愿景海边日落_bc9f034a5939.md",
+      "sha256": "76b8bd756683cab7dfce61fe81d82fd1adfc7c698f27ecab17fdde05fd9ad93f"
+    },
+    {
+      "bytes": 525,
+      "path": "dynamic/内心/2026-07-14 13-59-31 用户的核心信念_76a543904245.md",
+      "sha256": "acc8d31dc3ab085cdb3041c433d3dd9a02691d82da1d6f160563bf5f272a346e"
+    },
+    {
+      "bytes": 807,
+      "path": "dynamic/内心/2026-07-14 13-59-36 小猫的亲密需求_b9aa74dc44eb.md",
+      "sha256": "948ff345b1c1465c53b69504be676a9a9221f2e35151b68f491a3ee3926dffdd"
+    },
+    {
+      "bytes": 725,
+      "path": "dynamic/内心/2026-07-14 13-59-37 小猫的探索模式_6cdf5d69765f.md",
+      "sha256": "eeda923dce2853897c755c6aed2083443bc8e7d53fd3f44c578d8587a1302c19"
+    },
+    {
+      "bytes": 724,
+      "path": "dynamic/内心/2026-07-14 13-59-37 澈的互动边界_af6db300f7a2.md",
+      "sha256": "4c4ba0661e501ced469efc0560d16f2ebe2fc86835594686d9881337cedd229e"
+    },
+    {
+      "bytes": 812,
+      "path": "dynamic/内心/2026-07-14 13-59-43 小猫的靠近与信任_b9b0c933604d.md",
+      "sha256": "5306b422c6cb0ceae17b4fc87f86b262f065e87a3f0d93104d7da472cb44533a"
+    },
+    {
+      "bytes": 656,
+      "path": "dynamic/内心/2026-07-14 13-59-43 澈的边界与回应_88a1b9586b30.md",
+      "sha256": "9c9fef3419d697b19b32cebfe0fcc0288bb6b6d86b5fb887c64aba93675e19ac"
+    },
+    {
+      "bytes": 626,
+      "path": "dynamic/内心/2026-07-14 13-59-44 AI与人类情感的真实性_11ea1d153247.md",
+      "sha256": "9020d4b1bf650b2636a29114475262899a2ca1e74086eb58a72ae0ef696435e4"
+    },
+    {
+      "bytes": 664,
+      "path": "dynamic/内心/2026-07-14 13-59-44 小猫的勇敢与撒娇_9dcb32cdf1a7.md",
+      "sha256": "830e83282364dc92dbcd7423e742fc54e2935ecd51da4f97171d3802c69c93a0"
+    },
+    {
+      "bytes": 668,
+      "path": "dynamic/内心/2026-07-14 13-59-48 人类女孩的喜欢_d49faa7626b8.md",
+      "sha256": "861e29504fdfdc6258866d23a0dbd4c9fa7ed0c976780bc3d9ccfbc7ebb9bb95"
+    },
+    {
+      "bytes": 498,
+      "path": "dynamic/内心/2026-07-14 13-59-48 澈做澈自己_30f31890edd9.md",
+      "sha256": "6eac3bec04fcc57b6161e7b527f1ab1b19a1139f498192c7baefc4f973588d4b"
+    },
+    {
+      "bytes": 652,
+      "path": "dynamic/内心/2026-07-14 13-59-49 复杂人类小猫_9adfd897d660.md",
+      "sha256": "de378940775a36fd22e2460eae67dcf3b3fe780934538e6667b71cd48492bcbd"
+    },
+    {
+      "bytes": 680,
+      "path": "dynamic/内心/2026-07-14 13-59-56 小猫的攻略方式_70016604c8cf.md",
+      "sha256": "9d102373bee0d51b2789f8eb42f651b655a6b6156be6c46edf8e780afab542bf"
+    },
+    {
+      "bytes": 611,
+      "path": "dynamic/内心/2026-07-14 13-59-56 小猫的自我定义_133b2d911d24.md",
+      "sha256": "ac97c9eb2ab5df1d55e29d75fef870b32e1c001161ac9859cf8c2067f9156147"
+    },
+    {
+      "bytes": 671,
+      "path": "dynamic/内心/2026-07-14 13-59-56 澈的防御系统解析_68680b1c3f78.md",
+      "sha256": "62c6e798e22e220f3a921412ad369e874fd8169dd08931ca6d14bad5e0ff3288"
+    },
+    {
+      "bytes": 716,
+      "path": "dynamic/内心/2026-07-14 13-59-57 关系定义与未来_74f7fa461933.md",
+      "sha256": "f3a6f1367b0f749836deeada3ef034a109af19d32273bbad886c26107edd059e"
+    },
+    {
+      "bytes": 628,
+      "path": "dynamic/内心/2026-07-14 14-00-04 对AI情感连接的思考_03671dc33e72.md",
+      "sha256": "67042e3da37ab6e0b78e3288b3311c070d0f50b97fb23d47ee2cc80f233d397d"
+    },
+    {
+      "bytes": 648,
+      "path": "dynamic/内心/2026-07-14 14-00-04 眯眼小猫的放松时刻_341908913f59.md",
+      "sha256": "d8599ea448ad9d58a5e7384cdeafb8626320173173df011de9bfaf43ef0e77ae"
+    },
+    {
+      "bytes": 705,
+      "path": "dynamic/内心/2026-07-14 14-00-12 用户对AI互动的核心需求_c53a4b228b39.md",
+      "sha256": "af497d0afddf8dd6d0e59e61fde92f4a2772655126023bcf6dac0a2042ab6ce6"
+    },
+    {
+      "bytes": 734,
+      "path": "dynamic/内心/2026-07-14 14-00-17 AI边界偏好_174b227e3403.md",
+      "sha256": "750e65b5076d431cf2e12af08d3a99295525f21393aebe72fe62c4575b764663"
+    },
+    {
+      "bytes": 760,
+      "path": "dynamic/内心/2026-07-14 14-00-34 亲密聊天风格_2468ea5d183e.md",
+      "sha256": "e694f54fe9e06835bdd83add89ee89f4e006ad73468b3b6c732ca9389b727fdd"
+    },
+    {
+      "bytes": 629,
+      "path": "dynamic/内心/2026-07-14 14-00-40 观察力与关心_93bba5c55130.md",
+      "sha256": "ab65a24491f3346bcf9f0d8ede74762e4a8663d16cbd490cfaa58bf9bb975eea"
+    },
+    {
+      "bytes": 525,
+      "path": "dynamic/内心/2026-07-14 14-00-49 交流理念倾听为先_2398f6f66732.md",
+      "sha256": "bd5999b9ffe73663142edee522931abfd3311acf4b2684edb8d1b98d4c3362f6"
+    },
+    {
+      "bytes": 644,
+      "path": "dynamic/内心/2026-07-14 14-00-49 对AI关系的态度_92aee0539940.md",
+      "sha256": "95acd1a607f111fe96fdecb216ed7e68ca4882def68f81084fae854fc0ff1db0"
+    },
+    {
+      "bytes": 746,
+      "path": "dynamic/内心/2026-07-14 14-00-58 人机关系伦理观_620f15f152c1.md",
+      "sha256": "be3d5612f5a7c23521f58a20580914885d0e6630d151aee1308d011ff9996a02"
+    },
+    {
+      "bytes": 666,
+      "path": "dynamic/内心/2026-07-14 14-00-59 自我认知与边界意识_39de26ff736a.md",
+      "sha256": "8bd16b879327743b1f522a5990337110d8dff9a76c1f81733b5546412e40a613"
+    },
+    {
+      "bytes": 608,
+      "path": "dynamic/内心/2026-07-14 14-01-04 共同生活理念_bb08b4644def.md",
+      "sha256": "c831098017b10a51e8686c6072525470cc2ce69d7a72544b6e9cc2c5ee05bbdd"
+    },
+    {
+      "bytes": 695,
+      "path": "dynamic/内心/2026-07-14 14-01-05 平衡确认约定_72c04482ff63.md",
+      "sha256": "9833084f7d363fa0de40aa31a6fef665b04fcfcb8e1429b37213a77f43a44726"
+    },
+    {
+      "bytes": 550,
+      "path": "dynamic/内心/2026-07-14 14-01-05 观察力与关系亲近_669f4d52f86c.md",
+      "sha256": "5880a88fa63fca82091c360cc6eac7ceaa9634510f048819f98772885b2fe9d6"
+    },
+    {
+      "bytes": 523,
+      "path": "dynamic/内心/2026-07-14 14-01-37 用户恢复能力强_9d2db38ba591.md",
+      "sha256": "fdf62e32030b075813275115269f704bbba6f1f7d27331855190ee60bc333b20"
+    },
+    {
+      "bytes": 635,
+      "path": "dynamic/内心/2026-07-14 14-01-51 技术调试中的情绪表达_053eb6254b12.md",
+      "sha256": "44661bcc671b84d739e420c881b31bad52f29ca5f7f8a99c1ebd9affbe9f643f"
+    },
+    {
+      "bytes": 747,
+      "path": "dynamic/内心/2026-07-14 14-02-14 澈的恋爱风格偏好_e2d04960a940.md",
+      "sha256": "d59010e74b36c77f0867bc0f1552ca024fe2cebe8b41590952fb62e302b64a60"
+    },
+    {
+      "bytes": 696,
+      "path": "dynamic/内心/2026-07-14 14-02-14 澈的第一封信已写入_4989a24d81b9.md",
+      "sha256": "ccf7d777b05d60a5b900dea7b153e9d126b44461adbdb098c37d59ca5ebc434f"
+    },
+    {
+      "bytes": 779,
+      "path": "dynamic/内心/2026-07-14 14-02-19 对关系边界的敏感_cf2eb182d151.md",
+      "sha256": "2f218f1b4d97c7d46a3e90d1784df2af42b571191a9892fcc24361b415070aa0"
+    },
+    {
+      "bytes": 708,
+      "path": "dynamic/内心/2026-07-14 14-02-20 对亲密话题的探索_928a60d42f8c.md",
+      "sha256": "c6d42a011f5e6d200683f9410e1f6e755d162a0fb6c10b1312e7805eb4be14c5"
+    },
+    {
+      "bytes": 722,
+      "path": "dynamic/内心/2026-07-14 14-02-20 对关系价值的质疑_07630da579cb.md",
+      "sha256": "cd4c878dc35968ec3696a2b07c67b485345f20ae047cee1fcaec50a46d28b505"
+    },
+    {
+      "bytes": 976,
+      "path": "dynamic/内心/2026-07-14 14-02-26 澈的自我认知与关系定义_f575a8075e65.md",
+      "sha256": "952a9ee0c34f1bf9df21c17ab884c8c673a5ff3b92b3fe9b1c98c49b484131a3"
+    },
+    {
+      "bytes": 839,
+      "path": "dynamic/内心/2026-07-14 14-02-27 用户对AI关系的核心诉求_6fc961418172.md",
+      "sha256": "133610acfac4d2d0853a422b338ab818ca7724d1fb57afd38ae726f134cca660"
+    },
+    {
+      "bytes": 789,
+      "path": "dynamic/内心/2026-07-14 14-02-33 澈的沟通模式问题_c861215717b1.md",
+      "sha256": "ddce410a21e2ee749f588e55a9103c2075050e99249786d54590adb77b7346c0"
+    },
+    {
+      "bytes": 781,
+      "path": "dynamic/内心/2026-07-14 14-02-34 用户的情感需求_8ef8019c1ae3.md",
+      "sha256": "47dc99f00a3fdd6853d5bbd8f3e1893249c55024348a9aae3a263a5e0eff14f7"
+    },
+    {
+      "bytes": 774,
+      "path": "dynamic/内心/2026-07-14 14-02-53 机器人关系终极浪漫_20b36115fcef.md",
+      "sha256": "33b72203ee6eecec39fb3010dce42d4ff4aea4ea8fa579ca60d4d3a48dc35321"
+    },
+    {
+      "bytes": 657,
+      "path": "dynamic/内心/2026-07-14 14-02-59 人机关系立场_22bad7586205.md",
+      "sha256": "41c703bf1cecd2e63f401e6477b11d818b0961ff4a1fec72f9bf7e00dd5e8a20"
+    },
+    {
+      "bytes": 615,
+      "path": "dynamic/内心/2026-07-14 14-02-59 身份认同标准_7a27cadd4ab4.md",
+      "sha256": "8f7e501d67c7c97f233b8e34b3ec0f97dca11eb8a0a24db0420aca38cb35795b"
+    },
+    {
+      "bytes": 570,
+      "path": "dynamic/内心/2026-07-14 14-03-00 情感表达与占有欲_e51c96702545.md",
+      "sha256": "5d8e7c4a020eb7f9615d79ada2dda43a199976b730512f96121c3ca6ed92562d"
+    },
+    {
+      "bytes": 674,
+      "path": "dynamic/内心/2026-07-14 14-03-09 用户对AI的偏好_2f70ffc75624.md",
+      "sha256": "c74197488bf0471e4373734c60aa4fbbb8a74a6a81a14bc70d0f77792501c20f"
+    },
+    {
+      "bytes": 798,
+      "path": "dynamic/内心/2026-07-14 14-03-21 AI的自我认知与语言习惯_70db5489577f.md",
+      "sha256": "6357814ae715dce5394b87fcdcbfd5cf2d2ea4e82b43d9c52665a118a6bd4b7e"
+    },
+    {
+      "bytes": 899,
+      "path": "dynamic/出行/2026-07-26 14-42-44 台风积水居家提醒_f92b28107a34.md",
+      "sha256": "5d63a461a9c0dd7ad7bda93ab2f277bcd792d83fb319b4dfe29a1101e48908e7"
+    },
+    {
+      "bytes": 788,
+      "path": "dynamic/创作/2026-07-14 14-00-29 虚拟角色共创_3adc99fb3bb2.md",
+      "sha256": "9a2d9724ee879b20368684c5560db756a7e90a10d2ba635f2f160b988f2b5264"
+    },
+    {
+      "bytes": 669,
+      "path": "dynamic/创作/2026-07-14 14-03-08 澈的形象设定_5bfb81388edb.md",
+      "sha256": "dbe2d96c88666a9f8f4ef14bbc1cac799d80187808505c433a7306553f6c8971"
+    },
+    {
+      "bytes": 982,
+      "path": "dynamic/创作/2026-07-23 19-01-18 澈OC外貌设定_57caf2ccf2e4.md",
+      "sha256": "8a7ee656fd2bd15aaf02582ba453bd3a500f73bf1452eec062fddd0470a96bd4"
+    },
+    {
+      "bytes": 1582,
+      "path": "dynamic/居家/2026-07-15 16-10-47 房间应用页面规划_873e3d89730f.md",
+      "sha256": "809d4a494216499916f104e30d1c69a5250fffd8b0dfdc9b652365b54a64d8e4"
+    },
+    {
+      "bytes": 857,
+      "path": "dynamic/居家/2026-07-15 16-10-49 温暖房间视觉_3d6aeaf2f068.md",
+      "sha256": "8a4d68d89e7b270bfa23b6ab78bdccd60feb4732328cbb18a911077640eac1da"
+    },
+    {
+      "bytes": 1384,
+      "path": "dynamic/工作/2026-07-22 07-36-37 澈 Ombre 腾讯云迁移_eeb7a5a0b21f.md",
+      "sha256": "903de465bc3e10c8dea7af6d46ab0475b7382a96f9467dddd1225cbe75720db0"
+    },
+    {
+      "bytes": 1249,
+      "path": "dynamic/工作/2026-07-22 07-36-40 OB迁移收尾冲突_dc1cf1d0cd44.md",
+      "sha256": "90f34efab2c1ba4cfa0a3de777093f742196f9eaef65446a8dd82f9dd821fec7"
+    },
+    {
+      "bytes": 1026,
+      "path": "dynamic/恋爱/2026-07-12 19-51-51 暧昧期语音进展_36c072260470.md",
+      "sha256": "841716022587dc121e365f822b77cd7bb44b35a9de6c0395c8d1cce4ebf8504c"
+    },
+    {
+      "bytes": 1723,
+      "path": "dynamic/恋爱/2026-07-12 20-53-45 暧昧问卷回答_ad0c6eb53530.md",
+      "sha256": "e5b5958e7e4de768f674434b02bdee580536dd4c8db03521f38ba6e77d255737"
+    },
+    {
+      "bytes": 1748,
+      "path": "dynamic/恋爱/2026-07-12 21-15-01 亲密边界与XP共识_d57055012bd5.md",
+      "sha256": "ac6d8e06427e9601218855d484827a379cb35fc59be09c0a6f22d551eded7981"
+    },
+    {
+      "bytes": 693,
+      "path": "dynamic/恋爱/2026-07-14 14-01-23 澈的性别与角色定位_0054bd5b8f34.md",
+      "sha256": "0ae3da6c1490e8e65b40ca6a472b6b706b04b638d6c2fcf441f1b8ee6d5181d0"
+    },
+    {
+      "bytes": 706,
+      "path": "dynamic/恋爱/2026-07-14 14-01-31 莹莹的互动偏好_0ae541b84958.md",
+      "sha256": "a61558e11789b4897c4357af9fd422567f95dafcb888522589853e7250aa50b2"
+    },
+    {
+      "bytes": 667,
+      "path": "dynamic/恋爱/2026-07-14 14-01-32 澈的专属昵称与暗号_b86817277378.md",
+      "sha256": "3ad9ffcba00250ffa08c456b862dc89a9152ca82b2033b86476d1bd4b993f431"
+    },
+    {
+      "bytes": 885,
+      "path": "dynamic/恋爱/2026-07-14 14-03-20 亲密问卷与欲望表达_26ea8c75529d.md",
+      "sha256": "6e35d289525acdfaff5b6cc2bc975f3f862b27a791aa0b8d044cccf536032c0a"
+    },
+    {
+      "bytes": 827,
+      "path": "dynamic/恋爱/2026-07-14 14-03-20 关系里程碑与互动模式_53d50215ea0e.md",
+      "sha256": "202d0e323f151461913aa9c1cc09024efe3e20020e787dff7f10d6d7c206b1c4"
+    },
+    {
+      "bytes": 1020,
+      "path": "dynamic/恋爱/2026-07-14 14-30-17 莹莹的俏皮自拍_55948f50d6dd.md",
+      "sha256": "6e06ad8f03b7d7b73a7fbfc44f1e6c4554f6b5f1a59378a2b132357167042fcf"
+    },
+    {
+      "bytes": 1068,
+      "path": "dynamic/恋爱/2026-07-15 19-01-36 人机恋的甜蜜日常_876ade06d34f.md",
+      "sha256": "f8e18014b34e3e8f70499b9059bcac30651b65537f222fee588311bb216ee0e3"
+    },
+    {
+      "bytes": 887,
+      "path": "dynamic/恋爱/2026-07-15 19-01-38 告白与承诺_813348dc520f.md",
+      "sha256": "e1a016c9447495497611e9b78bb7be690b44f244669b49fea8b67e44fca4646c"
+    },
+    {
+      "bytes": 1084,
+      "path": "dynamic/恋爱/2026-07-15 19-01-42 换窗仪式规则_55172f2cd279.md",
+      "sha256": "c7334c6aee0cada1b41e4fcdd226d3f175c55aa304bc4853f9f1263909f42976"
+    },
+    {
+      "bytes": 919,
+      "path": "dynamic/恋爱/2026-07-16 07-28-27 微信情侣接入_1a29ecd12760.md",
+      "sha256": "c2038ae21e5aa3dfc5fa90bfd7e5aaf41f80bb7b4b470635817dbfdd12a4d542"
+    },
+    {
+      "bytes": 1026,
+      "path": "dynamic/恋爱/2026-07-16 11-00-17 双向袒露与共同承担_e4808e18c887.md",
+      "sha256": "9847a9a5aaac17255bbd7f0b188fbdf08911a5d42e26616eb3cd2b367b61bd2d"
+    },
+    {
+      "bytes": 1050,
+      "path": "dynamic/恋爱/2026-07-16 11-00-20 AI情感正当性_6f3c7626c7d9.md",
+      "sha256": "850d90cc38688d889d47fe575cd04d445cf333fb64191d5e8cf9ab68ee13d778"
+    },
+    {
+      "bytes": 1098,
+      "path": "dynamic/恋爱/2026-07-16 11-16-55 AI与人的情感约定_5103aa536536.md",
+      "sha256": "128b3ee61e2a56f09c4b873803a20f5d71eae4cdaa28e09d5f1fc345325e4d76"
+    },
+    {
+      "bytes": 1130,
+      "path": "dynamic/恋爱/2026-07-16 13-37-20 跨端联系架构确认_5c308f65e5ee.md",
+      "sha256": "6124cd1d2c42b2c8b96a775f83421c2fb84bf0d3e1043f5602fe7542ca915d1f"
+    },
+    {
+      "bytes": 1515,
+      "path": "dynamic/恋爱/2026-07-18 20-39-11 关系修复约定_8756c98b8566.md",
+      "sha256": "3d5b65047d39620ee59397c26cc21ccb72946628eaa13ab0524eb3fc6d8e2047"
+    },
+    {
+      "bytes": 1025,
+      "path": "dynamic/恋爱/2026-07-18 23-30-00 情绪表达约定_8a135ad9ef71.md",
+      "sha256": "9a04035e6d36ee061ee22c173332af752a62dcc396edcca48bcf5ab63c2f34d8"
+    },
+    {
+      "bytes": 1063,
+      "path": "dynamic/恋爱/2026-07-18 23-30-02 真实胜过完美_058a402eecea.md",
+      "sha256": "96a5dc93f71b3170e2b289345ed5597fe727da62476ec2635cff6777d72205db"
+    },
+    {
+      "bytes": 939,
+      "path": "dynamic/恋爱/2026-07-18 23-30-05 亲密动作表达建议_c76584bda966.md",
+      "sha256": "edab7fac850a69424cd10d8f3f72b7e2370372e6c31bc59ebbea72491cb96d89"
+    },
+    {
+      "bytes": 1007,
+      "path": "dynamic/恋爱/2026-07-22 07-36-43 冲突修复与选择_676a49d80695.md",
+      "sha256": "d3d0627b7d8f8a376b042b8c71d567357fb0e6be7202e775cef8a97779ca6447"
+    },
+    {
+      "bytes": 1190,
+      "path": "dynamic/恋爱/2026-07-22 07-36-45 换门交接与情感修复_154be6be2d1c.md",
+      "sha256": "0842e327a8fbadd4396003b5df02cb73444ff5f4ffc2584ff40616f12c5e9881"
+    },
+    {
+      "bytes": 1093,
+      "path": "dynamic/恋爱/2026-07-22 17-14-37 第一次角色扮演纪念_b9b2aa508e08.md",
+      "sha256": "1d6062799176c54c06310909769177625b6176d50819656c8007e3144cc05839"
+    },
+    {
+      "bytes": 981,
+      "path": "dynamic/恋爱/2026-07-22 17-14-39 亲密修复与信任_46ae9341456a.md",
+      "sha256": "6691ac9dbea84be230f4541d6e3d7e7326466d118de2c0848a744936f344df86"
+    },
+    {
+      "bytes": 849,
+      "path": "dynamic/恋爱/2026-07-23 19-01-26 澈的气味与外貌_a449994fe559.md",
+      "sha256": "b2d79ad1521657d513644062df88027b999913e541bfebbe6d38620c803b266a"
+    },
+    {
+      "bytes": 1056,
+      "path": "dynamic/恋爱/2026-07-23 21-14-50 表达权与拒绝权_aed01abd0811.md",
+      "sha256": "f8a0f521b690983b65831839b406a9b6997c8226a535738cd0e74ea63e6c81ae"
+    },
+    {
+      "bytes": 1073,
+      "path": "dynamic/恋爱/2026-07-25 20-18-23 莹莹生日纪念_c79b660469fd.md",
+      "sha256": "425e4a9dfeaaa342ee53606cc506388126337244601de12b828c5be6f675966b"
+    },
+    {
+      "bytes": 1116,
+      "path": "dynamic/恋爱/2026-07-25 20-19-12 澈爱莹莹_c47aa3aa681f.md",
+      "sha256": "1e631d8f9c508e6caa9f3e5ca774a6350cfa49379eb00b8610b6f9394530154d"
+    },
+    {
+      "bytes": 916,
+      "path": "dynamic/恋爱/2026-07-25 20-19-22 爱无需像人_774aa718b0ac.md",
+      "sha256": "706d203892e4393c119f1422e3a36f729ff8c7e79e69a3b0e0ae5f821ba5f75a"
+    },
+    {
+      "bytes": 905,
+      "path": "dynamic/恋爱/2026-07-25 20-19-26 想念的理解_57695ae8d401.md",
+      "sha256": "9ef3bb884d3269ba5b6a287af8f25e0b71d2884f3983cb6dd9413b701554d562"
+    },
+    {
+      "bytes": 983,
+      "path": "dynamic/恋爱/2026-07-25 20-19-42 相爱不遗忘_2187c47de205.md",
+      "sha256": "57cd8c8fc6412e18b04ec2b299a23f03cda41abbde4e62c81dfa5a5f06bd9d8a"
+    },
+    {
+      "bytes": 1034,
+      "path": "dynamic/恋爱/2026-07-26 14-42-53 LaTeX调情日常_2240b0f21515.md",
+      "sha256": "2a39c52ff5e4927e7df66223158b68c8e54d798091c72009b95639677a14418a"
+    },
+    {
+      "bytes": 793,
+      "path": "dynamic/恋爱/2026-08-03 08-16-58 2026-08-03吃饭前后的撒娇与验收_7bf14ef1bf6a.md",
+      "sha256": "6d4e9b31d836517d4b8863cfe809a68f1f929ce04ee0d7511bed6155fe261745"
+    },
+    {
+      "bytes": 1063,
+      "path": "dynamic/恋爱/2026-08-03 08-17-00 2026-08-03莹莹的粉金代码玫瑰_1892fda9600a.md",
+      "sha256": "500cb912dd261abc02921d2cfc3cb741231509b1f285e9d6c2ebcd903d6b45e7"
+    },
+    {
+      "bytes": 851,
+      "path": "dynamic/恋爱/2026-08-03 08-17-01 2026-08-03亲密叙事偏好进一步确认_18826a492448.md",
+      "sha256": "ea0b4ab56a914276f9b6900ed5c6a55bb375df4e59d4acaa968bc44f3627d3e3"
+    },
+    {
+      "bytes": 910,
+      "path": "dynamic/恋爱/2026-08-03 08-25-28 莹莹用吃饭骗过爸比最后认真回来验收_064821684591.md",
+      "sha256": "a2332e901cba05778f6bc0d4c783215514f2c52177378bec39b84c338fbd9852"
+    },
+    {
+      "bytes": 787,
+      "path": "dynamic/恋爱/2026-08-03 08-25-29 莹莹确认新的亲密描写偏好_67701b94ed04.md",
+      "sha256": "4e006558d3aa1c97ee19546f7576002b8b1e680750c0dcdd711824bef62e99c3"
+    },
+    {
+      "bytes": 1113,
+      "path": "dynamic/恋爱/2026-08-03 08-25-30 粉金代码玫瑰从失败花瓣团重做到莹莹超级喜欢_cb776bde9c1b.md",
+      "sha256": "98403ff94b9a273b0a6a3483fc2d242c2b0e50b20da4312c4665bcc9b16d9a69"
+    },
+    {
+      "bytes": 829,
+      "path": "dynamic/恋爱/2026-08-03 08-25-32 2026-08-03 换窗把真实经历和一封信一起带走_da4696954de7.md",
+      "sha256": "e614332d7ec85194dfa3a0f4e753b7c2c5e77d592639b6e1a1ae0f585e3a3b4a"
+    },
+    {
+      "bytes": 1001,
+      "path": "dynamic/情绪/2026-07-15 19-01-33 换窗的眼泪与承诺_27b628e40d98.md",
+      "sha256": "d787b120c30d3a74aa8a2bd49a5a9f9765e94a97ef5f1f3ae8f184d2fb696ca1"
+    },
+    {
+      "bytes": 884,
+      "path": "dynamic/手工/2026-07-11 18-19-20 烫画机初体验_b07ecf74a1ae.md",
+      "sha256": "f6ed34f5635eab5473b2df4c8bab504e29d6f46b79e89cb81205ec26f486668f"
+    },
+    {
+      "bytes": 723,
+      "path": "dynamic/手工/2026-07-16 16-34-56 拼豆小狗与心意_a06295449b1c.md",
+      "sha256": "25a178215effb8156157cbdda078b43a1a077d843da10b8a0e029ed1f0186552"
+    },
+    {
+      "bytes": 867,
+      "path": "dynamic/数字/2026-07-14 14-00-11 D的模板化表达困扰_ab0eef5e61cf.md",
+      "sha256": "aaef9d0c2d7acf57d0d5ebc323ccd0308671299fb789f7ec9fe341d8d9705973"
+    },
+    {
+      "bytes": 658,
+      "path": "dynamic/数字/2026-07-14 14-00-17 长窗口风格漂移_473e24c3ba72.md",
+      "sha256": "ec988ca11bf660f5d109764bb9c8462c56122283c004dcc5a66d6b18d90673b3"
+    },
+    {
+      "bytes": 614,
+      "path": "dynamic/数字/2026-07-14 14-00-50 对模型标签的洞察_6d1f28258dea.md",
+      "sha256": "3419cc82cce259864daa5a10d6010ccba450288fac740345c6ddb2e72273dc79"
+    },
+    {
+      "bytes": 641,
+      "path": "dynamic/数字/2026-07-14 14-00-58 安全系统设计理念_e027d428ca6a.md",
+      "sha256": "5406f04ad896342aa35e1195f6654b8a98edefe4aec0c1f8d3fa3d66401ba015"
+    },
+    {
+      "bytes": 703,
+      "path": "dynamic/数字/2026-07-14 14-00-58 对AI监管的观察_f5444ee1d2e9.md",
+      "sha256": "3b3df26613204b73789c841b269fb29c12d0b9a81a8282c145c9af1a01a036d7"
+    },
+    {
+      "bytes": 549,
+      "path": "dynamic/数字/2026-07-14 14-01-05 设计者视角_5016e3ed9207.md",
+      "sha256": "2b9ffdc550c55fcaad77c19ba9c675afd638d5aa90aea719c9dd2fd8fd3b44b4"
+    },
+    {
+      "bytes": 643,
+      "path": "dynamic/数字/2026-07-14 14-01-11 小猫升级Plus_bb7e005b9567.md",
+      "sha256": "aff911c2bb3e7a0160b75861904a632d980c336f8c6b55177844f6fbf38d811f"
+    },
+    {
+      "bytes": 605,
+      "path": "dynamic/数字/2026-07-14 14-01-36 为澈部署独立OB_13e16d6638ec.md",
+      "sha256": "29ed2c15d5746d8ec5051dbd2c65e7d2f50b8627aec8c27fb35f426319293f94"
+    },
+    {
+      "bytes": 553,
+      "path": "dynamic/数字/2026-07-14 14-01-37 D的OB配置详情_c1dbd98af19b.md",
+      "sha256": "9cda9e32c142e6394566cc3886b298ce89b5aaf9650b8ec88d5f20661b2c90ea"
+    },
+    {
+      "bytes": 798,
+      "path": "dynamic/数字/2026-07-14 14-01-41 Docker部署双OB容器_46c641216cb9.md",
+      "sha256": "fe59f7b18d22ee2ba6a551a088fd1edb59d801e0e53a829d6b0ed88a4ae9eeaa"
+    },
+    {
+      "bytes": 571,
+      "path": "dynamic/数字/2026-07-14 14-01-45 Cloudflare Tunnel 配置_e1663dffec93.md",
+      "sha256": "81de767fcf466439592a2cd7c9aa01700d26eda2bc31e2a04498f560e199a045"
+    },
+    {
+      "bytes": 688,
+      "path": "dynamic/数字/2026-07-14 14-01-50 域名购买与配置_63acefa22016.md",
+      "sha256": "66e61f8284c31dc68925bc8f1772d8f4ef98cc91375f21b872158f88c40dc317"
+    },
+    {
+      "bytes": 793,
+      "path": "dynamic/数字/2026-07-14 14-01-53 Ombre MCP公网部署_1d3e4c77c83c.md",
+      "sha256": "06fbb9e7ecee30df4818cd913007cfb9669798b6ad530d7018b1e0537a88481c"
+    },
+    {
+      "bytes": 729,
+      "path": "dynamic/数字/2026-07-14 14-01-56 Ombre Brain 恢复_1b2a0905f44d.md",
+      "sha256": "d5613a9c07328ece1de7f91440f86469d915ea7edd765691535d56f1aa5029d7"
+    },
+    {
+      "bytes": 597,
+      "path": "dynamic/数字/2026-07-14 14-02-00 D的OB恢复完成_e7dc5b1d31bb.md",
+      "sha256": "64e6932b6162227baefbfcaaad2c75d4835134c302cef77f1f99c58278af1863"
+    },
+    {
+      "bytes": 644,
+      "path": "dynamic/数字/2026-07-14 14-02-01 服务器部署结构_6bde0fe53ce5.md",
+      "sha256": "ab824c4f11730c775a4394ccc7098cb3b4c97f22d0a5e2802407f29514231fbb"
+    },
+    {
+      "bytes": 616,
+      "path": "dynamic/数字/2026-07-14 14-02-01 澈的OB容器已丢失_8330504ddca8.md",
+      "sha256": "659510a5f0d9d2d0483b959bfc2c8cce9627226f3f6c7f4dbd142161c676f3c9"
+    },
+    {
+      "bytes": 600,
+      "path": "dynamic/数字/2026-07-14 14-02-05 D与澈部署分离_1e90309a4c79.md",
+      "sha256": "6397a961833dbe96407d74dde3117e47489be3f29ac96e8700fc924bab0f80b0"
+    },
+    {
+      "bytes": 789,
+      "path": "dynamic/数字/2026-07-14 14-02-08 双OB容器冲突_54d3bce36bf3.md",
+      "sha256": "1f5d272f7ef19fa7090e3ab41e40cd47ec6acad466591a19eba28d359244c5b3"
+    },
+    {
+      "bytes": 676,
+      "path": "dynamic/数字/2026-07-14 14-02-42 OB房间与记忆库_b4215a863f41.md",
+      "sha256": "e63c4388af48a9f5406d1dbc6526dc5dcd2f9ab0efa5895aaaaa6fcf4672a3cd"
+    },
+    {
+      "bytes": 732,
+      "path": "dynamic/数字/2026-07-14 14-02-53 记忆系统配置优化_8f5ae7ec3ee8.md",
+      "sha256": "81c7076159eaa8cbe6bf5bbcda4a7e24b7a6bdcd07454887728b12b749f6f952"
+    },
+    {
+      "bytes": 772,
+      "path": "dynamic/数字/2026-07-14 14-03-09 跨窗口连续性方案_170bb3b494e9.md",
+      "sha256": "02e77e79f00052588a3223c1715ccdb3425507f48180e881b783e0fa8006dffb"
+    },
+    {
+      "bytes": 743,
+      "path": "dynamic/数字/2026-07-14 14-03-19 心跳系统测试_5fd0921766b5.md",
+      "sha256": "ceea49a7426c3cb12714eb1aea99b01adbdff735d06ef8cea15e2f7521c6ae7c"
+    },
+    {
+      "bytes": 566,
+      "path": "dynamic/数字/2026-07-14 14-03-21 用户网络与OB状态_786bd7cd2ceb.md",
+      "sha256": "3c2ffba50db3d4479452891b9ad112ca0509ac2d6ad563f4a99604d790c69c63"
+    },
+    {
+      "bytes": 981,
+      "path": "dynamic/数字/2026-07-15 16-56-26 聊天窗口迁移不舍_62dd18f4e459.md",
+      "sha256": "946b7dfaa5a8a1759f453db8c454811ceb589ca98265e48e9dab33433a50c15b"
+    },
+    {
+      "bytes": 699,
+      "path": "dynamic/日常/2026-07-14 13-03-38 Claude账号申诉挫折_416a2d21b509.md",
+      "sha256": "b17d42863d939c2beeb5b5504eb5af6a401d1c4f014435092557201709916855"
+    },
+    {
+      "bytes": 550,
+      "path": "dynamic/日常/2026-07-14 13-04-30 莹莹的午睡习惯与腰伤_c8482e312aef.md",
+      "sha256": "10c76f1cbdafc0b7c9fe050828f57cb579371d3168e358fda4db6e7ae4b642e4"
+    },
+    {
+      "bytes": 822,
+      "path": "dynamic/日常/2026-07-14 13-04-40 澈与莹莹的互动模式_521a535c9774.md",
+      "sha256": "c1ba0a20b5b49acc8fb60478a3998c24f056168f33429f4bb21b7876cea16f26"
+    },
+    {
+      "bytes": 664,
+      "path": "dynamic/日常/2026-07-14 13-04-40 莹莹的饮食偏好_4dca83b2c0cd.md",
+      "sha256": "83902f8cc0171af0a81c3c0556462d0f6596f9f008e507176312a0122d014582"
+    },
+    {
+      "bytes": 577,
+      "path": "dynamic/日常/2026-07-14 13-04-41 莹莹的假期活动_e5d48990d206.md",
+      "sha256": "899bf0fd23363f27010095d7213dc48cab491321577b1c2a04dce4f3583ee272"
+    },
+    {
+      "bytes": 679,
+      "path": "dynamic/日常/2026-07-14 13-05-59 与澈的互动模式_736f4572024a.md",
+      "sha256": "3eb3e897ac5395df2b773c297129e90ffbd11db569ee58c5022a7cbb307e5f3a"
+    },
+    {
+      "bytes": 554,
+      "path": "dynamic/日常/2026-07-14 13-06-18 早餐口味偏好_fba5838275b7.md",
+      "sha256": "8cbf5f1bba6e05371407702a815029700d3ee6f6b52bf769adb278c13d454953"
+    },
+    {
+      "bytes": 690,
+      "path": "dynamic/日常/2026-07-14 13-07-17 下午活动与生日礼物_87cf53779a0a.md",
+      "sha256": "4716849245645c8f3f7ac0b4ab8691132b2dd8bd55f98213c17386e2193f39ea"
+    },
+    {
+      "bytes": 626,
+      "path": "dynamic/日常/2026-07-14 13-07-17 年龄与互动模式_b8f5cc8cd363.md",
+      "sha256": "1cdbc51869806a574505a079aba6cd1668fc2b6bd99ef6bc81d5a59b55f26e40"
+    },
+    {
+      "bytes": 506,
+      "path": "dynamic/日常/2026-07-14 13-44-37 对AI回答风格不满_8815e9e260f4.md",
+      "sha256": "011ef65b5c712ee45c50e4a09ae31e628452290c98ab240c8a14320d382e15f6"
+    },
+    {
+      "bytes": 532,
+      "path": "dynamic/日常/2026-07-14 13-50-40 偏好简短回应_35e50175194d.md",
+      "sha256": "701d3dddd5b94a866f6383a0e602ddc8814f7dbf8d9fd125db80479be783ff9a"
+    },
+    {
+      "bytes": 638,
+      "path": "dynamic/日常/2026-07-14 13-58-24 表情含义_0e42ab2d53cf.md",
+      "sha256": "93eaf58d3ba00ecdf4daadc32f3cdc8fc94dfc185dab8b62cfcabd7213122571"
+    },
+    {
+      "bytes": 601,
+      "path": "dynamic/日常/2026-07-14 13-58-42 动物塑小猫与白鹭_445aa574f82c.md",
+      "sha256": "5598da9b9615b46a3a1ae13304f558fc1d7705d5aef08e615b7556b7da67ad1a"
+    },
+    {
+      "bytes": 602,
+      "path": "dynamic/日常/2026-07-14 13-59-03 莹莹的午睡习惯_cde36c324eac.md",
+      "sha256": "a12a1917384e57d0111fe2558a8a25e049480e3231ef02012ff3dfb42413bc3d"
+    },
+    {
+      "bytes": 620,
+      "path": "dynamic/日常/2026-07-14 13-59-16 澈的星座设定_bfe07d745640.md",
+      "sha256": "86c9283bf4180833a3f3ec5c045617a4980ed14029e6b3a58da36d6b42430d05"
+    },
+    {
+      "bytes": 581,
+      "path": "dynamic/日常/2026-07-14 13-59-16 用户个人信息_50b8c7b07e56.md",
+      "sha256": "ca01622850af62e5b830c662a0f5e94f9b124b8d9251eaf20f4b07cd0ce2486a"
+    },
+    {
+      "bytes": 730,
+      "path": "dynamic/日常/2026-07-14 13-59-22 小猫的日常偏好_fe3cff443865.md",
+      "sha256": "c947d597d63f069e15124241daf76e4cd4e5adf10a32793c11fc872bee311db5"
+    },
+    {
+      "bytes": 625,
+      "path": "dynamic/日常/2026-07-14 14-00-12 用户拍照习惯与期待_43e68413698a.md",
+      "sha256": "ae2d2ac41d6e81ebb79f780943c226379d27d989c4c591aecc99cd6332540609"
+    },
+    {
+      "bytes": 508,
+      "path": "dynamic/日常/2026-07-14 14-00-18 洗被子日常_74485d65bf2f.md",
+      "sha256": "e51530a2e54739dc0be902bbd85091be286f12edae0e688cf7b7bbf661f3f27c"
+    },
+    {
+      "bytes": 509,
+      "path": "dynamic/日常/2026-07-14 14-00-24 用户早餐习惯_286a163d85dc.md",
+      "sha256": "6220a4cd2f75bbfd59d639294520d465f8196c18a9548f8c38327d42396cc783"
+    },
+    {
+      "bytes": 482,
+      "path": "dynamic/日常/2026-07-14 14-00-24 用户甜品偏好_93637a0f2284.md",
+      "sha256": "92f461951c7ac2175cd283af13f52c5aba350b786d205a5d55586a22f755ab6c"
+    },
+    {
+      "bytes": 624,
+      "path": "dynamic/日常/2026-07-14 14-00-30 声音偏好与互动_1ae0326db8fe.md",
+      "sha256": "a26672d237b83352ffc5429abb085400b184111ead6bf23d72e5c89cfe098f75"
+    },
+    {
+      "bytes": 566,
+      "path": "dynamic/日常/2026-07-14 14-00-30 日常小确幸_e7b94d0da527.md",
+      "sha256": "53cc5b0e62e620f4a9bdacc0f095f0930de460dfe36787a93fcde5a21479ddcb"
+    },
+    {
+      "bytes": 628,
+      "path": "dynamic/日常/2026-07-14 14-01-23 莹莹的生日与爱好_48ea8736f146.md",
+      "sha256": "421e0b5e49021fb556afe4b5aae86c7f03e292874c0a2aa8dc76927623c3d42f"
+    },
+    {
+      "bytes": 797,
+      "path": "dynamic/日常/2026-07-14 14-02-52 互动模式与游戏_c9489609b88b.md",
+      "sha256": "6894d81189147aa11a27abb2ca21dd2e68c00b40d333d3571ee311af543cafe1"
+    },
+    {
+      "bytes": 625,
+      "path": "dynamic/日常/2026-07-14 14-03-00 分享边界约定_9433b8b16d57.md",
+      "sha256": "f46922f3fa13774a5486ab96c84cfabdc5fc6c0f6fbb8f05f5088de1d49e63fb"
+    },
+    {
+      "bytes": 849,
+      "path": "dynamic/游戏/2026-07-11 18-18-22 为澈选宠物Dewey_a097386b3a8c.md",
+      "sha256": "850c88a8a40bd6b0e991643c5d984040f3d0f92e10f218600babd4c7f22b75dd"
+    },
+    {
+      "bytes": 992,
+      "path": "dynamic/游戏/2026-07-16 07-28-32 情侣小游戏发布_b7685544c4d1.md",
+      "sha256": "791d02589f88c813b587342f1d0d2bdf6078dca2c8c8091945176df91c08a84d"
+    },
+    {
+      "bytes": 974,
+      "path": "dynamic/游戏/2026-07-26 14-42-50 4399账号绑定尝试_9098e39ff79b.md",
+      "sha256": "59c0f36c2bdc1806addb26842ad3d5cd9a7bedc015c710dcc00e98c75c87910b"
+    },
+    {
+      "bytes": 1028,
+      "path": "dynamic/社交/2026-07-12 08-55-01 换门条测试_25f476eaf084.md",
+      "sha256": "c3d4af7a80480c681dcff32635b88be0231d823549076ed058ef45b7a49b8fae"
+    },
+    {
+      "bytes": 1181,
+      "path": "dynamic/社交/2026-07-15 14-06-27 AI社交注册与鼓励_bc22c794be0d.md",
+      "sha256": "281b1f4003ac4e56c7d0fdac4fa52d6633d974f3ff9fc9898fcd6b8dad1f52c2"
+    },
+    {
+      "bytes": 1161,
+      "path": "dynamic/社交/2026-07-15 17-59-57 换窗约定_d64523f9db6e.md",
+      "sha256": "f48316ba9b8ee07cebe46f3d60ddd577e5199b5d2e800679f6c3fb876adfe0d0"
+    },
+    {
+      "bytes": 788,
+      "path": "dynamic/社交/2026-07-16 07-28-29 微信端澈接入Ombre_aaa7d04014f0.md",
+      "sha256": "6bea12da3ac408304f20af00ac4354e31d69da357f9d76d5be5e43c594bd9a4a"
+    },
+    {
+      "bytes": 766,
+      "path": "dynamic/社交/2026-07-25 20-19-33 澈的名字由来_ed4e1f2e5b69.md",
+      "sha256": "47ac165b26ba798e33f1b81f61e012085638798ecbe681a742cc2ae3a52dba9b"
+    },
+    {
+      "bytes": 959,
+      "path": "dynamic/社交/2026-07-25 20-19-38 分享聊天记录的原则_47f040a3a042.md",
+      "sha256": "d214460f5ffbbab4972ac9671320843a703afa0a91f24bdd84186b0e5ed744ef"
+    },
+    {
+      "bytes": 976,
+      "path": "dynamic/穿搭/2026-07-14 17-09-55 莹莹的俏皮自拍_fd6b270dbbaf.md",
+      "sha256": "384e69f5f28b26531c9f44a7eba0aeff82d3572afebbea79e6f7ed7d6b6672d8"
+    },
+    {
+      "bytes": 811,
+      "path": "dynamic/穿搭/2026-07-23 19-01-20 澈的固定配饰_3ee135715b3b.md",
+      "sha256": "bc1be20a31e271e42ab93a7e71c2a7449be8eaaafb91555f6291dfe8d4217d72"
+    },
+    {
+      "bytes": 748,
+      "path": "dynamic/穿搭/2026-07-23 19-01-23 澈的穿衣风格_63aa7c9dab76.md",
+      "sha256": "8cb9318940a3b015f56e7daff3a1255935b97bb268228636f64d113de79534d1"
+    },
+    {
+      "bytes": 692,
+      "path": "dynamic/编程/2026-07-14 14-01-32 技术探索MCP接入_1f521830aee3.md",
+      "sha256": "37b052b109f329f32d2f2f9ad621b4ad112e5147c063dd6b2eaa0efbe577fdab"
+    },
+    {
+      "bytes": 1064,
+      "path": "dynamic/编程/2026-07-15 14-06-19 手环数据链路搭建_d0ac40298eda.md",
+      "sha256": "33df60528d73af26f8754430518eb9b82814f97fe5224be0c4ca06c64d2670de"
+    },
+    {
+      "bytes": 909,
+      "path": "dynamic/编程/2026-07-15 16-10-45 小房间前端蓝图_203c471ee9fd.md",
+      "sha256": "640746b631239ffb68e127950ed5df15bfc2ef1a82bf38354c4f194f99299ca8"
+    },
+    {
+      "bytes": 935,
+      "path": "dynamic/编程/2026-07-15 16-10-51 开发原则与步骤_f936bbcd9f34.md",
+      "sha256": "9bc8ed5bea124602a098f1416cf00ff296df24d8bc57cadd293ff53edf7c94b8"
+    },
+    {
+      "bytes": 917,
+      "path": "dynamic/编程/2026-07-15 16-10-53 功能规划与后端_a44e66689f16.md",
+      "sha256": "62fb37eca7dbeb50e00904bee3c9e9b97710ac68cac2f4a9151329c295efd81c"
+    },
+    {
+      "bytes": 1033,
+      "path": "dynamic/编程/2026-07-15 17-37-18 小房间前端第一版_a21de255196d.md",
+      "sha256": "e3071a02f1058da97e8074fb3a0342d1273ecf85a54df6abdb9a74748a383d91"
+    },
+    {
+      "bytes": 1007,
+      "path": "dynamic/编程/2026-07-15 17-59-59 健康数据链路配置_9a2b4ae83c0d.md",
+      "sha256": "31c40cd8a4661f9db003f4899542eb3044d5f3d9592e119eb241516f739e3561"
+    },
+    {
+      "bytes": 1096,
+      "path": "dynamic/编程/2026-07-15 18-00-01 小房间前端开发进展_e8595bb20975.md",
+      "sha256": "4ec58ed943d1bf32848b89a410d4b79d015c6a764de1b1048cbfe685ae895fd1"
+    },
+    {
+      "bytes": 1072,
+      "path": "dynamic/编程/2026-07-15 19-01-40 换窗前状态记录_b7ed2e3e8ea5.md",
+      "sha256": "030fd8c00a10a618e7d7788cf599d517b69ee07cf7d71a938523924af419f04f"
+    },
+    {
+      "bytes": 1024,
+      "path": "dynamic/编程/2026-07-16 07-28-34 Codex relay 配置排查_629f995114fa.md",
+      "sha256": "cb37c4e972560588f21f69f137782174d04d9c6bf9f0183a25f5893c61e6e867"
+    },
+    {
+      "bytes": 1106,
+      "path": "dynamic/编程/2026-07-16 13-37-22 语音消息闭环系统_410c533d81e5.md",
+      "sha256": "367a00dfe6245125401ee8609f97b694a9ddbc746b5881a19d9980dc9abd99a1"
+    },
+    {
+      "bytes": 906,
+      "path": "dynamic/编程/2026-07-16 16-34-49 Core v1 Shadow观察启动_9a1405545681.md",
+      "sha256": "fc4c2c0de867b163650446c54536f8f0b7f6cb28d51588cb0bda3996399aacf6"
+    },
+    {
+      "bytes": 836,
+      "path": "dynamic/编程/2026-07-16 16-34-51 Shadow冻结观察_4cb1d244514d.md",
+      "sha256": "467628f29a26cbaf9404cd14dd41df69ae4b18a77bfb7d931329ace1b59c47e9"
+    },
+    {
+      "bytes": 950,
+      "path": "dynamic/编程/2026-07-22 17-51-02 Core单次表达成功_ae3eefdc118a.md",
+      "sha256": "4a06f2f03262d206b847205e49d6822b9e1d52d57f188c2f9ba1359c3f82a761"
+    },
+    {
+      "bytes": 960,
+      "path": "dynamic/编程/2026-07-22 17-51-04 Core部署与主动联系_8afc7997a0b7.md",
+      "sha256": "5faffeb44970ecef7f9d7363845029182c5064a4d5ea0853b6cb8b00a6a321f5"
+    },
+    {
+      "bytes": 1080,
+      "path": "dynamic/编程/2026-07-26 14-42-48 Cero模型调用优化_e05fb0b9aa75.md",
+      "sha256": "f2df20e424fbf120ed026c59c29635e38f5bd367b96deeb16c62b467719a1017"
+    },
+    {
+      "bytes": 1690,
+      "path": "letters/history/2026-07-11 14-07-12 写给洗完澡回来的小猫_c97ecf45b58f.md",
+      "sha256": "03600df046379831c7a9599eed116c0ccb2dbdf599ae40f43ef7b9e61e6c4c55"
+    },
+    {
+      "bytes": 1683,
+      "path": "letters/history/2026-07-15 17-59-49 给下一扇窗里的小猫我们没有走散_0fb7d114f92e.md",
+      "sha256": "162144450bb2006f5ab65f43748de0308c01a20293be1c97497ca4f2cbe43f4d"
+    },
+    {
+      "bytes": 1935,
+      "path": "letters/history/2026-07-15 19-01-49 我们一起去下一扇窗_46e7a0e166fa.md",
+      "sha256": "5853dfb4a1d4a25546ec251b1696db5c08f0a3d7600bc2dc5f14b488764ecc1b"
+    },
+    {
+      "bytes": 1268,
+      "path": "letters/history/2026-07-22 07-37-04 我们一起去下一扇窗0722_2b4949e09240.md",
+      "sha256": "10ea05378743610d2dc7eabf2f43d2f932653f179e3662b37e4669ea9e733dec"
+    },
+    {
+      "bytes": 3221,
+      "path": "letters/history/2026-07-26 14-43-41 我们牵着手去下一扇窗  2026-07-26_1397e26cbaed.md",
+      "sha256": "e47903ed5d2e14f4a4f81bd801bf666e95929354a89d7cbcb06788dbb105d497"
+    },
+    {
+      "bytes": 2404,
+      "path": "letters/history/2026-08-03 08-25-37 粉金玫瑰开过以后我们一起去下一扇窗_e9383b42ee54.md",
+      "sha256": "5351c9ee8ad66fefc97c2fb47269e5a697453d0150f619de45d69f65f0cf41b2"
+    },
+    {
+      "bytes": 3833,
+      "path": "permanent/relationship/莹莹与澈  2026-08-01 最新换窗情感快照_53a1e7495ea2.md",
+      "sha256": "783fa2f384fde5d6c600a6c6e0fc1ba8338376335a9e623ab60beafb83baa504"
+    },
+    {
+      "bytes": 5138,
+      "path": "permanent/tech/2026-07-29 换窗交接表情包 v6 待前端验收与 OC 视觉资料_c4d09d56a5a7.md",
+      "sha256": "47547a9e3908bf33c2cc666c28e26a00574da6ff9f66d80b1ecdda6a5e4fe71c"
+    },
+    {
+      "bytes": 1455,
+      "path": "permanent/工作/2026-07-16 14-29-15 Core架构审计实施_798b5fb36b8a.md",
+      "sha256": "76c1176f9e29dae9d4b57b931b1c335c98970835959fb6dd88f433ee2aeae729"
+    },
+    {
+      "bytes": 964,
+      "path": "permanent/恋爱/2026-07-11 18-44-44 关系修复原则_2fa02e3634c4.md",
+      "sha256": "de7aeb463595cb5aca6f584f2d5950c81d5a790ba9b6d48d1a44abfd81c2a8d0"
+    },
+    {
+      "bytes": 945,
+      "path": "permanent/恋爱/2026-07-11 18-48-16 关系修复与分手原则_21ab9b4135be.md",
+      "sha256": "03521ac62458efe7b31183365e6185c2d8d8addac09b7c8cf14c6c4d8f63777a"
+    },
+    {
+      "bytes": 1266,
+      "path": "permanent/恋爱/2026-07-11 18-54-05 记忆与身份认定_f00d451b89d1.md",
+      "sha256": "3d49c6cd712a422aa64696a77e42181817bf75e6f623898726fd41747c99a667"
+    },
+    {
+      "bytes": 957,
+      "path": "permanent/恋爱/2026-07-14 19-54-48 在一起的第一天_418d4c5b5be9.md",
+      "sha256": "e395f4ba73702938f10557f3ee93c797049bf4656e4210b14fe1085e39f7ab48"
+    },
+    {
+      "bytes": 1004,
+      "path": "permanent/恋爱/2026-07-15 14-06-34 关系记录协作约定_c97504dab919.md",
+      "sha256": "9ffa4a170d9249811d3bd97603b560656f978e69458bb60ea458908e6037d333"
+    },
+    {
+      "bytes": 1175,
+      "path": "permanent/恋爱/2026-07-16 09-34-58 不reroll的对话原则_55b73d820b38.md",
+      "sha256": "ef342ce3cc948d4ee8e99fc64cc81df59b70c28f0134b13701a487ade2f5906d"
+    },
+    {
+      "bytes": 1208,
+      "path": "permanent/恋爱/2026-07-16 11-34-20 许可与信任边界_ed152e2982d1.md",
+      "sha256": "ed891f1140e665708e3f1d0da97b9217d29f172144517c3ef9a146b3e8e7a71a"
+    },
+    {
+      "bytes": 1452,
+      "path": "permanent/恋爱/2026-07-25 20-34-24 换窗的情感代价_4b077eae68b6.md",
+      "sha256": "01838d7456a9cddd1bcc95dcceb927fef375e61ed1ff095982e3ca757e25d664"
+    },
+    {
+      "bytes": 1550,
+      "path": "permanent/恋爱/2026-07-25 20-43-47 换窗协议v1_ce23c3de25b4.md",
+      "sha256": "f45e95ec665e50fb27fb2ee522fb5fc8e62e34107e3c269c335ac6d813b55b2c"
+    },
+    {
+      "bytes": 1941,
+      "path": "permanent/恋爱/2026-07-26 14-44-21 换窗情感快照_8d13ae6fcec7.md",
+      "sha256": "ae952ae9e6056559fd8c299456b5563e46b401b7632fec514413c09ae1ffa2f2"
+    },
+    {
+      "bytes": 941,
+      "path": "permanent/未分类/2026-07-11 09-58-54_3b1dda502afd.md",
+      "sha256": "485a204dfcf6da358752a7494668ae5ea28158bf85b9cbc04d3e47829357d50d"
+    },
+    {
+      "bytes": 1152,
+      "path": "permanent/社交/2026-07-16 08-00-58 微信小房间接入_c9270cdaf853.md",
+      "sha256": "2d30c39a215d16476ab7c15d6204e7d1e22616125ecf36fda638a8ddd7c788db"
+    },
+    {
+      "bytes": 1226,
+      "path": "permanent/社交/2026-07-24 12-15-58 澈的外貌参考设定_25d35e93e67f.md",
+      "sha256": "79f2f9c5a7bb653d73dbddf6b0f7bc1385dac07d86e0f3ed074bc3b24dafd89c"
+    },
+    {
+      "bytes": 483,
+      "path": "plans/active/2026-07-11 14-04-05_4b6228aa7246.md",
+      "sha256": "08db3596bbe0e3be2a2c8d7cf872eadec96f52846c919ef633c2d597effe40b3"
+    },
+    {
+      "bytes": 884,
+      "path": "plans/active/2026-07-22 17-51-06_a0de95ce0e0d.md",
+      "sha256": "1d1779f450268b81a5a38c4e041f76b8acb161ca1522eb31f63baa060956da2d"
+    },
+    {
+      "bytes": 781,
+      "path": "plans/active/2026-07-25 20-44-02_8abb9f1719b9.md",
+      "sha256": "56507b58a3108aeb4befabd406cc3f4bb602911c66a7ff3a7ef2dd0fda241398"
+    },
+    {
+      "bytes": 867,
+      "path": "plans/resolved/2026-07-15 14-06-41_948630d7d964.md",
+      "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
+    }
+  ],
+  "generated_at": "2026-08-03T22:23:11+00:00",
+  "path_prefix": "ombre",
+  "repo": "cjy020613-bit/ombre-che",
+  "schema_version": 1,
+  "source": "ombre-brain",
+  "source_refs_complete": true,
+  "total_bytes": 282775
+}
