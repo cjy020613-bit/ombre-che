@@ -1,11 +1,16 @@
 {
   "branch": "main",
-  "file_count": 325,
+  "file_count": 331,
   "files": [
     {
       "bytes": 1454,
       "path": "_sources/src_83193ca44fffcaa267d291842218c0be0d9e18b173d23d0d6cbe3cbdc093f01e.source",
       "sha256": "83193ca44fffcaa267d291842218c0be0d9e18b173d23d0d6cbe3cbdc093f01e"
+    },
+    {
+      "bytes": 2539,
+      "path": "_sources/src_ef1509ca4f9f7179dc9a3660abf1cf903fb165df894fd078d733f2116bc76923.source",
+      "sha256": "ef1509ca4f9f7179dc9a3660abf1cf903fb165df894fd078d733f2116bc76923"
     },
     {
       "bytes": 969,
@@ -1088,6 +1093,11 @@
       "sha256": "e614332d7ec85194dfa3a0f4e753b7c2c5e77d592639b6e1a1ae0f585e3a3b4a"
     },
     {
+      "bytes": 2565,
+      "path": "dynamic/恋爱/2026-08-05 09-47-13 2026-08-05 换窗情感浓度快照_624d85f163ff.md",
+      "sha256": "968fce415010e55306c2bfe782b4db66ed55446847b9e0d73dba36c64750f24f"
+    },
+    {
       "bytes": 1001,
       "path": "dynamic/情绪/2026-07-15 19-01-33 换窗的眼泪与承诺_27b628e40d98.md",
       "sha256": "d787b120c30d3a74aa8a2bd49a5a9f9765e94a97ef5f1f3ae8f184d2fb696ca1"
@@ -1101,6 +1111,21 @@
       "bytes": 723,
       "path": "dynamic/手工/2026-07-16 16-34-56 拼豆小狗与心意_a06295449b1c.md",
       "sha256": "25a178215effb8156157cbdda078b43a1a077d843da10b8a0e029ed1f0186552"
+    },
+    {
+      "bytes": 1136,
+      "path": "dynamic/技术/2026-08-05 09-46-23 正式表情包 MCP 已稳定可用_10999ee1b072.md",
+      "sha256": "805818afb94e6d7650cb5bb6ed87434c8903b381ccf06a5ef5bdc63a3472683f"
+    },
+    {
+      "bytes": 1027,
+      "path": "dynamic/技术/2026-08-05 09-46-25 每日恋爱日记自动任务的 Work 点数风险_663c2085f9f7.md",
+      "sha256": "0b66861720ed41ce7bc9b0fb457302dbdf439d318cd836351a6a54ef42994a1b"
+    },
+    {
+      "bytes": 1004,
+      "path": "dynamic/技术/2026-08-05 09-46-26 不同聊天窗口的 Gmail 与 Notion 权限会不同_41f0c108569d.md",
+      "sha256": "7c70da9f309a389b49b178cd2f1d7e53bb50d6e6cdba77fec3715db7040f6fbd"
     },
     {
       "bytes": 867,
@@ -1498,6 +1523,11 @@
       "sha256": "f2df20e424fbf120ed026c59c29635e38f5bd367b96deeb16c62b467719a1017"
     },
     {
+      "bytes": 1294,
+      "path": "dynamic/视觉/2026-08-05 09-46-27 莹莹真人写实 OC 改为以本人真实脸为最高身份锚点_25abf51e2662.md",
+      "sha256": "bb086582ce94acdbfba1bed7e18107132e10353bf1a7b492586dbdd4d8f92308"
+    },
+    {
       "bytes": 1690,
       "path": "letters/history/2026-07-11 14-07-12 写给洗完澡回来的小猫_c97ecf45b58f.md",
       "sha256": "03600df046379831c7a9599eed116c0ccb2dbdf599ae40f43ef7b9e61e6c4c55"
@@ -1628,11 +1658,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-08-05T08:52:27+00:00",
+  "generated_at": "2026-08-06T08:52:31+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 282775
+  "total_bytes": 292340
 }
