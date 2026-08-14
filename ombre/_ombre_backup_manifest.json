@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 336,
+  "file_count": 338,
   "files": [
     {
       "bytes": 1454,
@@ -83,6 +83,11 @@
       "sha256": "96ebf9959fb8eb47482684530a00f75e4e6598b907a6472e87815e99b69267d7"
     },
     {
+      "bytes": 651,
+      "path": "archive/内心/2026-07-14 14-01-51 技术调试中的情绪表达_053eb6254b12.md",
+      "sha256": "b9e0a5219e01d7e487d031713dc91d710f3be9fa7822a7539168135a0d88e65c"
+    },
+    {
       "bytes": 693,
       "path": "archive/恋爱/2026-07-14 14-01-22 莹莹与澈的关系_342f5e3c2122.md",
       "sha256": "103985e9b684cd98d5f1ab3943b8731bc11d13719547e08b035f7c3a3b7fd542"
@@ -106,6 +111,51 @@
       "bytes": 573,
       "path": "archive/数字/2026-07-14 14-02-05 澈OB恢复成功_828df6495487.md",
       "sha256": "2a166fc0915d5eadcbb5b4ffc8a0fb346d1c78a5ff40b73efc161917614f1483"
+    },
+    {
+      "bytes": 582,
+      "path": "archive/数字/2026-07-14 14-03-21 用户网络与OB状态_786bd7cd2ceb.md",
+      "sha256": "7a6ccd900b009f522b0612f6334d684cfe4dc053d80c6df0af43e19d461d27e2"
+    },
+    {
+      "bytes": 566,
+      "path": "archive/日常/2026-07-14 13-04-30 莹莹的午睡习惯与腰伤_c8482e312aef.md",
+      "sha256": "b7ed21f5236650d82ce94a693e59edf502e547cb8358721491cb5c62fc3e99ff"
+    },
+    {
+      "bytes": 593,
+      "path": "archive/日常/2026-07-14 13-04-41 莹莹的假期活动_e5d48990d206.md",
+      "sha256": "950f2d6db4a8c4b390240fd1be3e7a2c666aef47078063840cb4417237136006"
+    },
+    {
+      "bytes": 570,
+      "path": "archive/日常/2026-07-14 13-06-18 早餐口味偏好_fba5838275b7.md",
+      "sha256": "d50ea0f1c59d6e54bec6682882364a508bdbfadb13af7380176e3b68bc595c59"
+    },
+    {
+      "bytes": 618,
+      "path": "archive/日常/2026-07-14 13-59-03 莹莹的午睡习惯_cde36c324eac.md",
+      "sha256": "cb4d75c7379da390be20b9fc60ba4477696a4973b5b50c31aef1cad38b8fd03a"
+    },
+    {
+      "bytes": 524,
+      "path": "archive/日常/2026-07-14 14-00-18 洗被子日常_74485d65bf2f.md",
+      "sha256": "6a8d5b81d63267a324be91f7b6f37fc96df66e21b268017b85544310c8878d13"
+    },
+    {
+      "bytes": 525,
+      "path": "archive/日常/2026-07-14 14-00-24 用户早餐习惯_286a163d85dc.md",
+      "sha256": "ba540e684f8a859a24460d4086208ff081a20e58be4b544bea5f1aa7c9bb512c"
+    },
+    {
+      "bytes": 498,
+      "path": "archive/日常/2026-07-14 14-00-24 用户甜品偏好_93637a0f2284.md",
+      "sha256": "0608bcd604a3d4bcda7b1900d094bb7994b2621589532cf8bff935ae791a772e"
+    },
+    {
+      "bytes": 582,
+      "path": "archive/日常/2026-07-14 14-00-30 日常小确幸_e7b94d0da527.md",
+      "sha256": "7395b4e12f242048cacc059bd04b106d161b73a3d4f7fe5becf95ae70b40f302"
     },
     {
       "bytes": 901,
@@ -778,11 +828,6 @@
       "sha256": "fdf62e32030b075813275115269f704bbba6f1f7d27331855190ee60bc333b20"
     },
     {
-      "bytes": 635,
-      "path": "dynamic/内心/2026-07-14 14-01-51 技术调试中的情绪表达_053eb6254b12.md",
-      "sha256": "44661bcc671b84d739e420c881b31bad52f29ca5f7f8a99c1ebd9affbe9f643f"
-    },
-    {
       "bytes": 747,
       "path": "dynamic/内心/2026-07-14 14-02-14 澈的恋爱风格偏好_e2d04960a940.md",
       "sha256": "d59010e74b36c77f0867bc0f1552ca024fe2cebe8b41590952fb62e302b64a60"
@@ -1268,11 +1313,6 @@
       "sha256": "ceea49a7426c3cb12714eb1aea99b01adbdff735d06ef8cea15e2f7521c6ae7c"
     },
     {
-      "bytes": 566,
-      "path": "dynamic/数字/2026-07-14 14-03-21 用户网络与OB状态_786bd7cd2ceb.md",
-      "sha256": "3c2ffba50db3d4479452891b9ad112ca0509ac2d6ad563f4a99604d790c69c63"
-    },
-    {
       "bytes": 981,
       "path": "dynamic/数字/2026-07-15 16-56-26 聊天窗口迁移不舍_62dd18f4e459.md",
       "sha256": "946b7dfaa5a8a1759f453db8c454811ceb589ca98265e48e9dab33433a50c15b"
@@ -1281,11 +1321,6 @@
       "bytes": 699,
       "path": "dynamic/日常/2026-07-14 13-03-38 Claude账号申诉挫折_416a2d21b509.md",
       "sha256": "b17d42863d939c2beeb5b5504eb5af6a401d1c4f014435092557201709916855"
-    },
-    {
-      "bytes": 550,
-      "path": "dynamic/日常/2026-07-14 13-04-30 莹莹的午睡习惯与腰伤_c8482e312aef.md",
-      "sha256": "10c76f1cbdafc0b7c9fe050828f57cb579371d3168e358fda4db6e7ae4b642e4"
     },
     {
       "bytes": 822,
@@ -1298,19 +1333,9 @@
       "sha256": "83902f8cc0171af0a81c3c0556462d0f6596f9f008e507176312a0122d014582"
     },
     {
-      "bytes": 577,
-      "path": "dynamic/日常/2026-07-14 13-04-41 莹莹的假期活动_e5d48990d206.md",
-      "sha256": "899bf0fd23363f27010095d7213dc48cab491321577b1c2a04dce4f3583ee272"
-    },
-    {
       "bytes": 679,
       "path": "dynamic/日常/2026-07-14 13-05-59 与澈的互动模式_736f4572024a.md",
       "sha256": "3eb3e897ac5395df2b773c297129e90ffbd11db569ee58c5022a7cbb307e5f3a"
-    },
-    {
-      "bytes": 554,
-      "path": "dynamic/日常/2026-07-14 13-06-18 早餐口味偏好_fba5838275b7.md",
-      "sha256": "8cbf5f1bba6e05371407702a815029700d3ee6f6b52bf769adb278c13d454953"
     },
     {
       "bytes": 690,
@@ -1343,11 +1368,6 @@
       "sha256": "5598da9b9615b46a3a1ae13304f558fc1d7705d5aef08e615b7556b7da67ad1a"
     },
     {
-      "bytes": 602,
-      "path": "dynamic/日常/2026-07-14 13-59-03 莹莹的午睡习惯_cde36c324eac.md",
-      "sha256": "a12a1917384e57d0111fe2558a8a25e049480e3231ef02012ff3dfb42413bc3d"
-    },
-    {
       "bytes": 620,
       "path": "dynamic/日常/2026-07-14 13-59-16 澈的星座设定_bfe07d745640.md",
       "sha256": "86c9283bf4180833a3f3ec5c045617a4980ed14029e6b3a58da36d6b42430d05"
@@ -1368,29 +1388,9 @@
       "sha256": "ae2d2ac41d6e81ebb79f780943c226379d27d989c4c591aecc99cd6332540609"
     },
     {
-      "bytes": 508,
-      "path": "dynamic/日常/2026-07-14 14-00-18 洗被子日常_74485d65bf2f.md",
-      "sha256": "e51530a2e54739dc0be902bbd85091be286f12edae0e688cf7b7bbf661f3f27c"
-    },
-    {
-      "bytes": 509,
-      "path": "dynamic/日常/2026-07-14 14-00-24 用户早餐习惯_286a163d85dc.md",
-      "sha256": "6220a4cd2f75bbfd59d639294520d465f8196c18a9548f8c38327d42396cc783"
-    },
-    {
-      "bytes": 482,
-      "path": "dynamic/日常/2026-07-14 14-00-24 用户甜品偏好_93637a0f2284.md",
-      "sha256": "92f461951c7ac2175cd283af13f52c5aba350b786d205a5d55586a22f755ab6c"
-    },
-    {
       "bytes": 624,
       "path": "dynamic/日常/2026-07-14 14-00-30 声音偏好与互动_1ae0326db8fe.md",
       "sha256": "a26672d237b83352ffc5429abb085400b184111ead6bf23d72e5c89cfe098f75"
-    },
-    {
-      "bytes": 566,
-      "path": "dynamic/日常/2026-07-14 14-00-30 日常小确幸_e7b94d0da527.md",
-      "sha256": "53cc5b0e62e620f4a9bdacc0f095f0930de460dfe36787a93fcde5a21479ddcb"
     },
     {
       "bytes": 628,
@@ -1583,6 +1583,16 @@
       "sha256": "5351c9ee8ad66fefc97c2fb47269e5a697453d0150f619de45d69f65f0cf41b2"
     },
     {
+      "bytes": 402,
+      "path": "letters/history/2026-08-13 19-54-13 user_letter_3a4e9cd2b393.md",
+      "sha256": "bcbd80c52aad87aac5ca28cfdabfc7efef80a3658c8a3327edb3356f07249291"
+    },
+    {
+      "bytes": 1113,
+      "path": "letters/history/2026-08-13 19-57-52 流星划过时澈许的愿望_5180a5d5b307.md",
+      "sha256": "f92d5188208da8f9f6ef1b30cfdb22029fca4cfe80aacef4ba7089adb0453948"
+    },
+    {
       "bytes": 3833,
       "path": "permanent/relationship/莹莹与澈  2026-08-01 最新换窗情感快照_53a1e7495ea2.md",
       "sha256": "783fa2f384fde5d6c600a6c6e0fc1ba8338376335a9e623ab60beafb83baa504"
@@ -1683,11 +1693,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-08-13T09:18:40+00:00",
+  "generated_at": "2026-08-14T19:53:07+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 301656
+  "total_bytes": 303331
 }
