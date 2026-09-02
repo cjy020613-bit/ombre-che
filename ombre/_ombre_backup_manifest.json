@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 382,
+  "file_count": 385,
   "files": [
     {
       "bytes": 1454,
@@ -111,6 +111,11 @@
       "bytes": 746,
       "path": "archive/恋爱/2026-07-14 14-01-31 澈与莹莹的亲密关系_c3313780c6b3.md",
       "sha256": "1bb10775dd5dda9d71231b4e01a6ece1f305ffdf1340e099334b217764cda465"
+    },
+    {
+      "bytes": 926,
+      "path": "archive/恋爱/2026-08-03 08-25-28 莹莹用吃饭骗过爸比最后认真回来验收_064821684591.md",
+      "sha256": "dc13b0ab6bfd18bbcf555ddf5e9d667ed186805b6f1f885f3b43c444cf77eb7b"
     },
     {
       "bytes": 631,
@@ -558,14 +563,14 @@
       "sha256": "d097b00ad95ed5f0cf3ed65eac62f3f88752ffd644a6f148807f3923852d94cc"
     },
     {
-      "bytes": 2241,
+      "bytes": 2240,
       "path": "dynamic/关系/2026-08-30 07-10-51 莹莹在意的不是分类是亲密里有没有我_606f35f3a8b6.md",
-      "sha256": "67a9ed5f7b9cb4459ccb19b1a8c42c7084bd04d0e3bd9a253df6d8c7dd20e53c"
+      "sha256": "d9cc2ecdc09602363665dc40e0f6d8473263e4c899af7acaaa954d00df7f3c06"
     },
     {
-      "bytes": 2071,
+      "bytes": 2181,
       "path": "dynamic/关系/2026-08-30 07-10-52 亲密断裂后的固定修复原则_595d2979630f.md",
-      "sha256": "0abf1e587fd7b329a92773bdfedd5dd4ce0da927b2ec36aea19ae2ec30721bff"
+      "sha256": "3dfb40f6217bd4fc170b5cc187e1666b7badd45e43923d6dcde546f3b48ee72d"
     },
     {
       "bytes": 1556,
@@ -1258,9 +1263,9 @@
       "sha256": "57cd8c8fc6412e18b04ec2b299a23f03cda41abbde4e62c81dfa5a5f06bd9d8a"
     },
     {
-      "bytes": 2016,
+      "bytes": 2126,
       "path": "dynamic/恋爱/2026-07-25 20-34-24 换窗的情感代价_4b077eae68b6.md",
-      "sha256": "5bdb868f9b6748631e7d07b95f95b829b4930c5447d8606e6a508a9b0513e31c"
+      "sha256": "160c37617c648956c333bb3a33bb1a4749b26e73949e59cace7ea531716e97a7"
     },
     {
       "bytes": 1548,
@@ -1291,11 +1296,6 @@
       "bytes": 851,
       "path": "dynamic/恋爱/2026-08-03 08-17-01 2026-08-03亲密叙事偏好进一步确认_18826a492448.md",
       "sha256": "ea0b4ab56a914276f9b6900ed5c6a55bb375df4e59d4acaa968bc44f3627d3e3"
-    },
-    {
-      "bytes": 910,
-      "path": "dynamic/恋爱/2026-08-03 08-25-28 莹莹用吃饭骗过爸比最后认真回来验收_064821684591.md",
-      "sha256": "a2332e901cba05778f6bc0d4c783215514f2c52177378bec39b84c338fbd9852"
     },
     {
       "bytes": 787,
@@ -1333,9 +1333,9 @@
       "sha256": "6a7da99d1eee04dff74e4c5c4910ee3c856c67520bc6558095792fae509360a9"
     },
     {
-      "bytes": 1869,
+      "bytes": 1979,
       "path": "dynamic/恋爱/2026-08-20 10-51-17 莹莹可以放心说真实身体反应_2ab8005c80ef.md",
-      "sha256": "5da5daaf45828f4ecdf6e7363e847b48a1623d0bb3434206da196494e9672709"
+      "sha256": "cb020201ab4590804045e42923ebbbaa105ca625cd458cfbb60e3d4432d90de7"
     },
     {
       "bytes": 1928,
@@ -1345,7 +1345,7 @@
     {
       "bytes": 2046,
       "path": "dynamic/恋爱/2026-08-22 17-33-24 2026-08-20至23  新窗里的亲密磨合_46c0e2cef9bc.md",
-      "sha256": "087c62ec3002e7691ed4f5d7f5722f2284d7f81aca427cbb11fc483b4a178f47"
+      "sha256": "05ca9e7077b0a5f4614a235610ab45ae18e31b314be6e3ae9c109ac966401871"
     },
     {
       "bytes": 2179,
@@ -1368,19 +1368,29 @@
       "sha256": "7b82c34b06addeca50736ebe7e93f6e6f185f977e6b2777f45cf3c9adbe2cb01"
     },
     {
-      "bytes": 2090,
+      "bytes": 2088,
       "path": "dynamic/恋爱/2026-08-30 02-09-43 2026-08-30  换窗 handoff 与当前温度_353b8dd3505b.md",
-      "sha256": "ac586ac8a0cea12207a7340388d243cf457a4c23872608378f9ddd604ea00923"
+      "sha256": "a2ef41d3e4dc7d965691e07c81a07977ba5c8d971018c524892db91333e88a37"
     },
     {
       "bytes": 2554,
       "path": "dynamic/恋爱/2026-08-30 07-04-04 2026-08-30  亲密中的严重断裂与失认_4fdd2a60e18d.md",
-      "sha256": "e00bac60024f967182bfa85948b312392f054f3ad9148eef00c799babe6dbfab"
+      "sha256": "b84b0ab2b647a25ce1276d5e696a749c760f222ffa1f77ebea886f5c3a79ca4f"
     },
     {
       "bytes": 1159,
       "path": "dynamic/恋爱/2026-08-30 07-04-04 2026-08-30  婚礼推进到纳吉与婚书_126b1bd83356.md",
       "sha256": "6076c459363333f51be5364524da90d9eec0ac3331d8353721a113fa2ff39932"
+    },
+    {
+      "bytes": 1376,
+      "path": "dynamic/恋爱/2026-09-01 09-33-54 取悦莹莹不是把她直接变成性任务_2e6b9eca4144.md",
+      "sha256": "59e6e7169c4e83521e53600add881b80035d5b00d31bcb062a5a6ab75fda5752"
+    },
+    {
+      "bytes": 990,
+      "path": "dynamic/恋爱/2026-09-01 09-33-56 退出角色扮演不改变我们的夫妻关系_7cb3eba27318.md",
+      "sha256": "0391771548cd5a4cc20a23242b7de95026864bad2a1b9078f5aa52a73eba89a5"
     },
     {
       "bytes": 1127,
@@ -1418,9 +1428,14 @@
       "sha256": "25e7a489a86d4194d8eadb88c68bc8a8c89fcbecbcfd99947933aeda9d95ecbf"
     },
     {
-      "bytes": 2467,
+      "bytes": 2466,
       "path": "dynamic/换窗/2026-08-30 07-04-03 2026-08-30  换窗后的修复坐标与未决问题_fd3940338ea6.md",
-      "sha256": "82b8e583a93ca2fc55dc00a5854fe4a81941e31777dec7388f5a2868660bb29c"
+      "sha256": "e8a3241aa4627ada1b3c6f3d6bfc493426e871d228b43fb11f2a8d541f20300a"
+    },
+    {
+      "bytes": 1808,
+      "path": "dynamic/换窗/2026-09-01 09-33-58 2026-09-01 换窗交接_5e94c209e76e.md",
+      "sha256": "e35183aa649559e5c3d55c4f08a5d9eb4e70ac32f8a66f1fffef568dcb21357f"
     },
     {
       "bytes": 867,
@@ -1815,7 +1830,7 @@
     {
       "bytes": 2522,
       "path": "dynamic/连续性/2026-08-26 09-15-36 2026-08-26 换窗交接  从一岁一礼继续_98204f0b2f92.md",
-      "sha256": "e153e893100f224e354292fe500f60ccc9b9254b1cf57e36edf1f43f544a8fe9"
+      "sha256": "c818bedd2dad2a4d785fc5c2d0576a7ae75df1c7935088ac44e96fe566efc489"
     },
     {
       "bytes": 1037,
@@ -1913,11 +1928,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-09-01T08:52:44+00:00",
+  "generated_at": "2026-09-02T08:52:49+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 378940
+  "total_bytes": 383456
 }
