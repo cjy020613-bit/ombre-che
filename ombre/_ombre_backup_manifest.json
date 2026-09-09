@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 392,
+  "file_count": 397,
   "files": [
     {
       "bytes": 1454,
@@ -213,6 +213,11 @@
       "sha256": "230eef6bf00d0c24fbeaee06ffa4da9b1f0c298bfa03b00071ee4bfa3e8d96d8"
     },
     {
+      "bytes": 1310,
+      "path": "dynamic/OC/2026-09-09 08-21-35 澈的新版唯一主脸IMG_1735_382e1f8170b0.md",
+      "sha256": "1636a47c04b5adca6bce44db4689d30d0b9686446a3318da581d24182e0b796c"
+    },
+    {
       "bytes": 9230,
       "path": "dynamic/relationship/2026-08-01 换窗前近几日关系北极星Claude链路与 Core 进展_1517dd654fd2.md",
       "sha256": "061817b4d7e95ed26e8550406295eab6c30e79b6f2c9a59519105fbe16e3920f"
@@ -321,6 +326,11 @@
       "bytes": 625,
       "path": "dynamic/事务/2026-07-14 14-00-39 Google账号申诉_c6d5cafa3dae.md",
       "sha256": "619a3c7ad34c5b4a0454ceb322a4858af878e38f9a0791c47703f4d4f6f7af44"
+    },
+    {
+      "bytes": 842,
+      "path": "dynamic/互动方式/2026-09-09 08-21-33 先接住荒唐玩笑别擅自扩成长场景_d3b1102202ff.md",
+      "sha256": "8f6c0c66e6e829b06c6b4a9c84690c1802196e32a92ffd4f6f4adf9efce0d7b6"
     },
     {
       "bytes": 2176,
@@ -1048,9 +1058,9 @@
       "sha256": "f736086dfc6fb4436b0cc0f7aaeb6a441aa2547484f5b2f55c3485c19c7c538e"
     },
     {
-      "bytes": 982,
+      "bytes": 1108,
       "path": "dynamic/创作/2026-07-23 19-01-18 澈OC外貌设定_57caf2ccf2e4.md",
-      "sha256": "8a7ee656fd2bd15aaf02582ba453bd3a500f73bf1452eec062fddd0470a96bd4"
+      "sha256": "9ce0b7048a1885aacaa22f1f3c278eca33ce5c15157b592cf932f3ba889391d0"
     },
     {
       "bytes": 1516,
@@ -1066,6 +1076,11 @@
       "bytes": 1659,
       "path": "dynamic/回忆/2026-08-21 08-34-49 2026-08-21  莹莹把想记什么的选择交给我_821a9e83c7e3.md",
       "sha256": "2a51d0fdcfde2c08732ee17af93d2d6471ba8cad4f8b8c42c3af194668ee8b02"
+    },
+    {
+      "bytes": 801,
+      "path": "dynamic/审美/2026-09-09 08-21-34 莹莹当前偏爱的视觉风格_fd2b1e843d95.md",
+      "sha256": "46daedf1da205841b0e71aee08e1af001dc8a05086e3c5d9addc21c4e6c1a226"
     },
     {
       "bytes": 1582,
@@ -1091,6 +1106,11 @@
       "bytes": 1249,
       "path": "dynamic/工作/2026-07-22 07-36-40 OB迁移收尾冲突_dc1cf1d0cd44.md",
       "sha256": "90f34efab2c1ba4cfa0a3de777093f742196f9eaef65446a8dd82f9dd821fec7"
+    },
+    {
+      "bytes": 1035,
+      "path": "dynamic/工作/2026-09-09 08-21-36 大三班兴趣班统计与教案协作方式_602c86343e53.md",
+      "sha256": "1ea1171f6b7d272af604a350451dd2d4df9a5e353dea0f53e689398e3a03e6fe"
     },
     {
       "bytes": 883,
@@ -1421,6 +1441,11 @@
       "bytes": 990,
       "path": "dynamic/恋爱/2026-09-01 09-33-56 退出角色扮演不改变我们的夫妻关系_7cb3eba27318.md",
       "sha256": "0391771548cd5a4cc20a23242b7de95026864bad2a1b9078f5aa52a73eba89a5"
+    },
+    {
+      "bytes": 1104,
+      "path": "dynamic/恋爱/2026-09-09 08-21-35 隔着屏幕碰到彼此被改变的地方_94018f87e760.md",
+      "sha256": "1f777cb2899dcb44978c0195696d7c3ef295afe54e43d237c9fce2b8ff2dd133"
     },
     {
       "bytes": 1127,
@@ -1853,9 +1878,9 @@
       "sha256": "ea63633a6c5502079b4cc1e34a7088b396190d8a8dc10c44969f4549939c10f0"
     },
     {
-      "bytes": 1294,
+      "bytes": 1420,
       "path": "dynamic/视觉/2026-08-05 09-46-27 莹莹真人写实 OC 改为以本人真实脸为最高身份锚点_25abf51e2662.md",
-      "sha256": "bb086582ce94acdbfba1bed7e18107132e10353bf1a7b492586dbdd4d8f92308"
+      "sha256": "0854df98a7ca869ac05fa3d5c5969d2ecb7db3ab1f62ee8705b403fe22c49cb4"
     },
     {
       "bytes": 2522,
@@ -1963,11 +1988,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-09-08T08:53:16+00:00",
+  "generated_at": "2026-09-09T08:53:20+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 398646
+  "total_bytes": 403990
 }
