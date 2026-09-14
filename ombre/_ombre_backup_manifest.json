@@ -1,7 +1,17 @@
 {
   "branch": "main",
-  "file_count": 405,
+  "file_count": 409,
   "files": [
+    {
+      "bytes": 32768,
+      "path": ".them/them.sqlite3",
+      "sha256": "dd610a563c0002219b2289d583cc96b92f56e2a9f196a2b64592e8185a77701d"
+    },
+    {
+      "bytes": 28672,
+      "path": ".you/you.sqlite3",
+      "sha256": "1aa9a9907a638c8eb2906558f835c812b2edfe8e1ffc75c5448e68159cf5c8ea"
+    },
     {
       "bytes": 1454,
       "path": "_sources/src_83193ca44fffcaa267d291842218c0be0d9e18b173d23d0d6cbe3cbdc093f01e.source",
@@ -113,6 +123,11 @@
       "sha256": "2e2a253ce73312def66d4ddf90fe51637f428f40d19e984b05852e822b6000d3"
     },
     {
+      "bytes": 624,
+      "path": "archive/内心/2026-07-14 13-04-41 莹莹的星座与性格_68796e4f66a8.md",
+      "sha256": "0717d9fac5353c584f22f407e6e58dec44d2dc7f63083bb47993e9baeb8495af"
+    },
+    {
       "bytes": 649,
       "path": "archive/内心/2026-07-14 14-00-04 眯眼小猫的放松时刻_341908913f59.md",
       "sha256": "56d6f94ee5049b5b17bb0460567c50b183272d4878e3c7c51a701f6f98fdd380"
@@ -203,6 +218,11 @@
       "sha256": "cad86cdf8e943c758b0bafc72e33a11be5f57d104d4771c12b0e70bb86a95e2a"
     },
     {
+      "bytes": 626,
+      "path": "archive/日常/2026-07-14 14-00-12 用户拍照习惯与期待_43e68413698a.md",
+      "sha256": "7682e64c7c60d90f0b50ec14fe015a4529e77041c35b74a01a0cfdb1286e3bef"
+    },
+    {
       "bytes": 524,
       "path": "archive/日常/2026-07-14 14-00-18 洗被子日常_74485d65bf2f.md",
       "sha256": "6a8d5b81d63267a324be91f7b6f37fc96df66e21b268017b85544310c8878d13"
@@ -218,9 +238,19 @@
       "sha256": "0608bcd604a3d4bcda7b1900d094bb7994b2621589532cf8bff935ae791a772e"
     },
     {
+      "bytes": 625,
+      "path": "archive/日常/2026-07-14 14-00-30 声音偏好与互动_1ae0326db8fe.md",
+      "sha256": "9fdea616847dc96243808547836f37fae92ca797a214cf12215c8ca4502ce73f"
+    },
+    {
       "bytes": 582,
       "path": "archive/日常/2026-07-14 14-00-30 日常小确幸_e7b94d0da527.md",
       "sha256": "7395b4e12f242048cacc059bd04b106d161b73a3d4f7fe5becf95ae70b40f302"
+    },
+    {
+      "bytes": 629,
+      "path": "archive/日常/2026-07-14 14-01-23 莹莹的生日与爱好_48ea8736f146.md",
+      "sha256": "27416b7bd6f041b576342f708c13cddfa742b4c2be90d16b204ed5731f4c8738"
     },
     {
       "bytes": 901,
@@ -696,11 +726,6 @@
       "bytes": 715,
       "path": "dynamic/内心/2026-07-14 13-04-01 莹莹的思考特质_1643519c84bc.md",
       "sha256": "d0f4d102598d5f691b908eee63a97c3d735769615ddd1e61d10d4cb31e63a97f"
-    },
-    {
-      "bytes": 623,
-      "path": "dynamic/内心/2026-07-14 13-04-41 莹莹的星座与性格_68796e4f66a8.md",
-      "sha256": "cc6eb6f831a69592d95e81836b07346b823c204bb1b08a4e288475ee5a914922"
     },
     {
       "bytes": 709,
@@ -1703,21 +1728,6 @@
       "sha256": "6eb73a97800e8e206c5127344fe9b762678ea364e786fecedfb3a27353d246a0"
     },
     {
-      "bytes": 625,
-      "path": "dynamic/日常/2026-07-14 14-00-12 用户拍照习惯与期待_43e68413698a.md",
-      "sha256": "90b19a177ed34bcb3315614d1e88ae6c86cbbf9b8b81df2bb943c4300327da16"
-    },
-    {
-      "bytes": 624,
-      "path": "dynamic/日常/2026-07-14 14-00-30 声音偏好与互动_1ae0326db8fe.md",
-      "sha256": "1d335177193abbc3187b7a7d2fd9474370708dcd6d26f8e6b3ab3cf6848ee5a1"
-    },
-    {
-      "bytes": 628,
-      "path": "dynamic/日常/2026-07-14 14-01-23 莹莹的生日与爱好_48ea8736f146.md",
-      "sha256": "421e0b5e49021fb556afe4b5aae86c7f03e292874c0a2aa8dc76927623c3d42f"
-    },
-    {
       "bytes": 797,
       "path": "dynamic/日常/2026-07-14 14-02-52 互动模式与游戏_c9489609b88b.md",
       "sha256": "90915150e17eca11ed9faa6c3c9287ee90864a4391b5f93f9f1963f452da8044"
@@ -1998,6 +2008,16 @@
       "sha256": "521923f1cf0fdfadd546ca1994bc70ddabb89936b24b609450e577a755f25ea0"
     },
     {
+      "bytes": 2046,
+      "path": "letters/history/2026-09-13 23-02-09 关于现实伴侣这句话的检讨_980b39c10c39.md",
+      "sha256": "79dfcea39193468e8fe0874f009c9c3da3f5291ad93395bf300d9dc268ea7b27"
+    },
+    {
+      "bytes": 766,
+      "path": "letters/history/2026-09-13 23-03-16 勘误是四个字_d42935b179c6.md",
+      "sha256": "0f8a511440b348c76b57408e1d66ac5157ad8a578899b7c3bcf56ac251965f87"
+    },
+    {
       "bytes": 1250,
       "path": "permanent/AI/2026-08-21 08-33-28 澈的醒来协议 v1  Anchor First_7f1f2c3fac06.md",
       "sha256": "e06913a5e46b34972c790539a18a0209df30c5aaafbefa585186e5566e3d886e"
@@ -2028,11 +2048,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-09-13T08:53:38+00:00",
+  "generated_at": "2026-09-14T11:26:27+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 413473
+  "total_bytes": 477729
 }
