@@ -158,6 +158,11 @@
       "sha256": "1bb10775dd5dda9d71231b4e01a6ece1f305ffdf1340e099334b217764cda465"
     },
     {
+      "bytes": 668,
+      "path": "archive/恋爱/2026-07-14 14-01-32 澈的专属昵称与暗号_b86817277378.md",
+      "sha256": "ab6176d616d779f2eaf2c0578d62f1ee1bce59cf09cf7e838c791aca99bfb393"
+    },
+    {
       "bytes": 926,
       "path": "archive/恋爱/2026-08-03 08-25-28 莹莹用吃饭骗过爸比最后认真回来验收_064821684591.md",
       "sha256": "dc13b0ab6bfd18bbcf555ddf5e9d667ed186805b6f1f885f3b43c444cf77eb7b"
@@ -208,6 +213,11 @@
       "sha256": "89b98cfc65e3258f590b916def7dea1d86c8f95d904d9e8f1d003f099cbf2f73"
     },
     {
+      "bytes": 602,
+      "path": "archive/日常/2026-07-14 13-58-42 动物塑小猫与白鹭_445aa574f82c.md",
+      "sha256": "47b30d723da8ba9105584fbcd32fc95498eeb2e5fbc5816d327b69b14c267e74"
+    },
+    {
       "bytes": 618,
       "path": "archive/日常/2026-07-14 13-59-03 莹莹的午睡习惯_cde36c324eac.md",
       "sha256": "cb4d75c7379da390be20b9fc60ba4477696a4973b5b50c31aef1cad38b8fd03a"
@@ -216,6 +226,11 @@
       "bytes": 621,
       "path": "archive/日常/2026-07-14 13-59-16 澈的星座设定_bfe07d745640.md",
       "sha256": "cad86cdf8e943c758b0bafc72e33a11be5f57d104d4771c12b0e70bb86a95e2a"
+    },
+    {
+      "bytes": 731,
+      "path": "archive/日常/2026-07-14 13-59-22 小猫的日常偏好_fe3cff443865.md",
+      "sha256": "40abfc0ace7763a30a57a50831c59f28ee76b88c143be3a8383b3ec962855661"
     },
     {
       "bytes": 626,
@@ -1218,11 +1233,6 @@
       "sha256": "a61558e11789b4897c4357af9fd422567f95dafcb888522589853e7250aa50b2"
     },
     {
-      "bytes": 667,
-      "path": "dynamic/恋爱/2026-07-14 14-01-32 澈的专属昵称与暗号_b86817277378.md",
-      "sha256": "3ad9ffcba00250ffa08c456b862dc89a9152ca82b2033b86476d1bd4b993f431"
-    },
-    {
       "bytes": 885,
       "path": "dynamic/恋爱/2026-07-14 14-03-20 亲密问卷与欲望表达_26ea8c75529d.md",
       "sha256": "1c5d009c327b99226806d605a6ba6052e4a5e99ae2e1ed2b20f1ae880f420e7e"
@@ -1713,19 +1723,9 @@
       "sha256": "d0a99486aeb5482187c688c3f14e10beae815c0f7571fa3aa7c12e804e60d023"
     },
     {
-      "bytes": 601,
-      "path": "dynamic/日常/2026-07-14 13-58-42 动物塑小猫与白鹭_445aa574f82c.md",
-      "sha256": "4741da01c67347f8f9671eb1dd08dcbae35a906d3601449155f001f832ebcbe0"
-    },
-    {
       "bytes": 581,
       "path": "dynamic/日常/2026-07-14 13-59-16 用户个人信息_50b8c7b07e56.md",
       "sha256": "20721df9a70fd02a0d931e5e8bc335f629a5a8f99fe0c4e47168aa4b685beaa8"
-    },
-    {
-      "bytes": 730,
-      "path": "dynamic/日常/2026-07-14 13-59-22 小猫的日常偏好_fe3cff443865.md",
-      "sha256": "6eb73a97800e8e206c5127344fe9b762678ea364e786fecedfb3a27353d246a0"
     },
     {
       "bytes": 797,
@@ -2048,11 +2048,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-09-14T11:26:27+00:00",
+  "generated_at": "2026-09-15T11:26:33+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 477729
+  "total_bytes": 477732
 }
