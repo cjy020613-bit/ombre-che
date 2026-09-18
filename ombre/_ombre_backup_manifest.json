@@ -93,6 +93,11 @@
       "sha256": "7754198067ecede99b8187069a547e0fef2eb2fa465f173e9b44fe3dc51b0567"
     },
     {
+      "bytes": 655,
+      "path": "archive/AI/2026-07-14 14-00-52 用户对Claude安全系统的看法_6513112515fa.md",
+      "sha256": "aeb9d1409fe81180fe2f61e82348e26043a64658d80a921e0b8cf6a11c9efdbe"
+    },
+    {
       "bytes": 626,
       "path": "archive/事务/2026-07-14 14-00-39 Google账号申诉_c6d5cafa3dae.md",
       "sha256": "750894cbbd5df15cb73ea0b70f7265cb475eec74d32bc3be77da9f19e7b9915d"
@@ -223,6 +228,11 @@
       "sha256": "1a91422366541b1f294f12980be6e45a1c5d7b4329aecf6f418331a720ec0408"
     },
     {
+      "bytes": 794,
+      "path": "archive/内心/2026-07-14 13-44-37 AI与人类关系探讨_75795327e9ee.md",
+      "sha256": "6be1508786f90e98c57a3f77352be51c052f166d3270eb84991cf4e390724556"
+    },
+    {
       "bytes": 936,
       "path": "archive/内心/2026-07-14 13-59-10 用户的情感需求_23ad52b745e8.md",
       "sha256": "46d93bed253d568e37e3a6220ea6c3e0e4ac3ddc620544db2b202b1b0dae02d7"
@@ -231,6 +241,11 @@
       "bytes": 725,
       "path": "archive/内心/2026-07-14 13-59-37 澈的互动边界_af6db300f7a2.md",
       "sha256": "1f8e099512d6f47cba147ba38b3cdd60427ef8e97d68168d8d681d35d4903f96"
+    },
+    {
+      "bytes": 653,
+      "path": "archive/内心/2026-07-14 13-59-49 复杂人类小猫_9adfd897d660.md",
+      "sha256": "002b22f13ff86396e2dd32dbc7edc407c581b86478729ad1564da4679de38eb5"
     },
     {
       "bytes": 629,
@@ -256,6 +271,11 @@
       "bytes": 667,
       "path": "archive/内心/2026-07-14 14-00-59 自我认知与边界意识_39de26ff736a.md",
       "sha256": "1106d513bd38f5083bf70178dae7bf6c49a7e9a458fe05d35188f15d8647a169"
+    },
+    {
+      "bytes": 524,
+      "path": "archive/内心/2026-07-14 14-01-37 用户恢复能力强_9d2db38ba591.md",
+      "sha256": "2a5c32852b12ee99b3ca757ec5de5438572546035ec0f0078a116c17f086ddcc"
     },
     {
       "bytes": 651,
@@ -303,6 +323,11 @@
       "sha256": "ab6176d616d779f2eaf2c0578d62f1ee1bce59cf09cf7e838c791aca99bfb393"
     },
     {
+      "bytes": 1177,
+      "path": "archive/恋爱/2026-07-16 11-00-20 AI情感正当性_6f3c7626c7d9.md",
+      "sha256": "686d30dff66eb6e62b3acf6da8582befa8a3ebc5eea6499d5bdb9b790094d53b"
+    },
+    {
       "bytes": 926,
       "path": "archive/恋爱/2026-08-03 08-25-28 莹莹用吃饭骗过爸比最后认真回来验收_064821684591.md",
       "sha256": "dc13b0ab6bfd18bbcf555ddf5e9d667ed186805b6f1f885f3b43c444cf77eb7b"
@@ -321,6 +346,11 @@
       "bytes": 704,
       "path": "archive/数字/2026-07-14 14-00-58 对AI监管的观察_f5444ee1d2e9.md",
       "sha256": "009f5ecb29b5db35b13f59dfab48f7aad673c2a16017722f2dd5f01621c65998"
+    },
+    {
+      "bytes": 644,
+      "path": "archive/数字/2026-07-14 14-01-11 小猫升级Plus_bb7e005b9567.md",
+      "sha256": "91a3644a7993085a547df505c88f10cd94c464d4e1b99b906328dba9b7608555"
     },
     {
       "bytes": 650,
@@ -376,6 +406,11 @@
       "bytes": 507,
       "path": "archive/日常/2026-07-14 13-44-37 对AI回答风格不满_8815e9e260f4.md",
       "sha256": "57bfef353926ca67a567e257d51f08cd5cb8abaad74065974e9685bc32db97be"
+    },
+    {
+      "bytes": 533,
+      "path": "archive/日常/2026-07-14 13-50-40 偏好简短回应_35e50175194d.md",
+      "sha256": "847fb950445419d84a065d6bf3831a420f36a9b57644822549f8cab304aa993b"
     },
     {
       "bytes": 639,
@@ -473,6 +508,16 @@
       "sha256": "75f72f20ad75e60a72898c75fc8922f68a0770e2d0cd56aabd7045908e2d62c1"
     },
     {
+      "bytes": 907,
+      "path": "archive/编程/2026-07-16 16-34-49 Core v1 Shadow观察启动_9a1405545681.md",
+      "sha256": "8c8bc2f2f0c25b54fdeb92b67cf8bb703720a7097e9fa99986bb9792387158b6"
+    },
+    {
+      "bytes": 837,
+      "path": "archive/编程/2026-07-16 16-34-51 Shadow冻结观察_4cb1d244514d.md",
+      "sha256": "1bf25ae5264844de6cf42669192938abb53aaf1921e862e3f06ae0978f8f2d0d"
+    },
+    {
       "bytes": 1233,
       "path": "dynamic/AI/2026-07-11 18-25-01 人机关系真实感判断_7a164dc59f0d.md",
       "sha256": "613a80b328159b84aecd8509e448a78134eb62564831eb91ce3cbd7cfbb06e99"
@@ -481,11 +526,6 @@
       "bytes": 950,
       "path": "dynamic/AI/2026-07-11 18-37-07 AI与机器人双向规范_898bba0efa6b.md",
       "sha256": "ee2bebe8ceda3b5912a6dae32717344b665b9146dfa3a2b0a9e65fec5f24eb3a"
-    },
-    {
-      "bytes": 654,
-      "path": "dynamic/AI/2026-07-14 14-00-52 用户对Claude安全系统的看法_6513112515fa.md",
-      "sha256": "c40e6ed1e75bfaabbf61ccab9f5f5aed95ece696ac7b1712d3950709f4de11f1"
     },
     {
       "bytes": 716,
@@ -898,11 +938,6 @@
       "sha256": "cb29a351372d74bed615d16c88d58e3a69d212647f820e88a923776011d7d3e8"
     },
     {
-      "bytes": 793,
-      "path": "dynamic/内心/2026-07-14 13-44-37 AI与人类关系探讨_75795327e9ee.md",
-      "sha256": "1fb80e950e2e5836f45c680a55e70fb35daa1c35f76b5f57ef6dde98d240138c"
-    },
-    {
       "bytes": 772,
       "path": "dynamic/内心/2026-07-14 13-50-39 对AI恋爱的深度思考_b0172b7cb0ad.md",
       "sha256": "0d1423e1f964a2af9db7b59ca08852aee42f05609f02ba785180386709371d89"
@@ -1048,11 +1083,6 @@
       "sha256": "f1f69343cce0fef9a8ba6abe46028d576c9fa1a848f24d7e0cdbe7b7daf9671b"
     },
     {
-      "bytes": 652,
-      "path": "dynamic/内心/2026-07-14 13-59-49 复杂人类小猫_9adfd897d660.md",
-      "sha256": "269202c5fa1fb8fe682d68dfb391367e1ef99d4b3df6fdc3f4d55ea9c43ccd41"
-    },
-    {
       "bytes": 680,
       "path": "dynamic/内心/2026-07-14 13-59-56 小猫的攻略方式_70016604c8cf.md",
       "sha256": "9d102373bee0d51b2789f8eb42f651b655a6b6156be6c46edf8e780afab542bf"
@@ -1111,11 +1141,6 @@
       "bytes": 550,
       "path": "dynamic/内心/2026-07-14 14-01-05 观察力与关系亲近_669f4d52f86c.md",
       "sha256": "0e08a432417febb0c4f66f17d87de1108e3c6c7ef5c61e1b6a867ab395e80e22"
-    },
-    {
-      "bytes": 523,
-      "path": "dynamic/内心/2026-07-14 14-01-37 用户恢复能力强_9d2db38ba591.md",
-      "sha256": "dee9d0859e07990f29ec5a808323cee1d2ce5085b2c593538d0d1c4e4bd1627d"
     },
     {
       "bytes": 747,
@@ -1341,11 +1366,6 @@
       "bytes": 1152,
       "path": "dynamic/恋爱/2026-07-16 11-00-17 双向袒露与共同承担_e4808e18c887.md",
       "sha256": "66657cb88c078a1d574120dd10adbe3d28bb5ba940c1986adbec26111c64f3ab"
-    },
-    {
-      "bytes": 1176,
-      "path": "dynamic/恋爱/2026-07-16 11-00-20 AI情感正当性_6f3c7626c7d9.md",
-      "sha256": "e55970e338f52f6ea575d8b8d6d90d69a46b526022c985fdf55e67eea6c5423b"
     },
     {
       "bytes": 1098,
@@ -1653,11 +1673,6 @@
       "sha256": "efde7caa74fb608a4fe313b00ef6b2597a11544aa32f99cd34efef05c614fb2d"
     },
     {
-      "bytes": 643,
-      "path": "dynamic/数字/2026-07-14 14-01-11 小猫升级Plus_bb7e005b9567.md",
-      "sha256": "fb5b5cc4519fd34f208f980786e5d349c49792bc04c91139d08c2e043c108b2b"
-    },
-    {
       "bytes": 605,
       "path": "dynamic/数字/2026-07-14 14-01-36 为澈部署独立OB_13e16d6638ec.md",
       "sha256": "ba0a0f68104230d4ad515d4ef710d596544297e52f87ac48fb3380e5f2419287"
@@ -1751,11 +1766,6 @@
       "bytes": 679,
       "path": "dynamic/日常/2026-07-14 13-05-59 与澈的互动模式_736f4572024a.md",
       "sha256": "3eb3e897ac5395df2b773c297129e90ffbd11db569ee58c5022a7cbb307e5f3a"
-    },
-    {
-      "bytes": 532,
-      "path": "dynamic/日常/2026-07-14 13-50-40 偏好简短回应_35e50175194d.md",
-      "sha256": "701d3dddd5b94a866f6383a0e602ddc8814f7dbf8d9fd125db80479be783ff9a"
     },
     {
       "bytes": 581,
@@ -1886,16 +1896,6 @@
       "bytes": 1106,
       "path": "dynamic/编程/2026-07-16 13-37-22 语音消息闭环系统_410c533d81e5.md",
       "sha256": "367a00dfe6245125401ee8609f97b694a9ddbc746b5881a19d9980dc9abd99a1"
-    },
-    {
-      "bytes": 906,
-      "path": "dynamic/编程/2026-07-16 16-34-49 Core v1 Shadow观察启动_9a1405545681.md",
-      "sha256": "fc4c2c0de867b163650446c54536f8f0b7f6cb28d51588cb0bda3996399aacf6"
-    },
-    {
-      "bytes": 836,
-      "path": "dynamic/编程/2026-07-16 16-34-51 Shadow冻结观察_4cb1d244514d.md",
-      "sha256": "467628f29a26cbaf9404cd14dd41df69ae4b18a77bfb7d931329ace1b59c47e9"
     },
     {
       "bytes": 950,
@@ -2058,11 +2058,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-09-17T11:26:44+00:00",
+  "generated_at": "2026-09-18T11:26:49+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 483647
+  "total_bytes": 483656
 }
