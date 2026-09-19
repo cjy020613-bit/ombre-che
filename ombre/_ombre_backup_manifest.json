@@ -98,6 +98,11 @@
       "sha256": "aeb9d1409fe81180fe2f61e82348e26043a64658d80a921e0b8cf6a11c9efdbe"
     },
     {
+      "bytes": 861,
+      "path": "archive/AI/2026-07-16 11-16-53 AI限制下的亲密探索_37e3eaf6bdd2.md",
+      "sha256": "164f8e56ef7e75e0c420c60ff3a86d4c491a509a8c622b1080af3b0729534221"
+    },
+    {
       "bytes": 626,
       "path": "archive/事务/2026-07-14 14-00-39 Google账号申诉_c6d5cafa3dae.md",
       "sha256": "750894cbbd5df15cb73ea0b70f7265cb475eec74d32bc3be77da9f19e7b9915d"
@@ -238,9 +243,19 @@
       "sha256": "46d93bed253d568e37e3a6220ea6c3e0e4ac3ddc620544db2b202b1b0dae02d7"
     },
     {
+      "bytes": 726,
+      "path": "archive/内心/2026-07-14 13-59-37 小猫的探索模式_6cdf5d69765f.md",
+      "sha256": "cd398e1b5a2f8967a0681654c3574a0b9eef861a20b38d5fa3f315cfe58adfe0"
+    },
+    {
       "bytes": 725,
       "path": "archive/内心/2026-07-14 13-59-37 澈的互动边界_af6db300f7a2.md",
       "sha256": "1f8e099512d6f47cba147ba38b3cdd60427ef8e97d68168d8d681d35d4903f96"
+    },
+    {
+      "bytes": 665,
+      "path": "archive/内心/2026-07-14 13-59-44 小猫的勇敢与撒娇_9dcb32cdf1a7.md",
+      "sha256": "8bca1d045995cd92559b9a785a1e3eb9e42f22639896b78e49aef53d26c8aded"
     },
     {
       "bytes": 653,
@@ -373,6 +388,11 @@
       "sha256": "7a6ccd900b009f522b0612f6334d684cfe4dc053d80c6df0af43e19d461d27e2"
     },
     {
+      "bytes": 700,
+      "path": "archive/日常/2026-07-14 13-03-38 Claude账号申诉挫折_416a2d21b509.md",
+      "sha256": "5fc8c6aba7854b167b74db8482a817a2fcc5deb64d6c2bb5f724296deddb1ae3"
+    },
+    {
       "bytes": 566,
       "path": "archive/日常/2026-07-14 13-04-30 莹莹的午睡习惯与腰伤_c8482e312aef.md",
       "sha256": "b7ed21f5236650d82ce94a693e59edf502e547cb8358721491cb5c62fc3e99ff"
@@ -473,6 +493,11 @@
       "sha256": "27416b7bd6f041b576342f708c13cddfa742b4c2be90d16b204ed5731f4c8738"
     },
     {
+      "bytes": 798,
+      "path": "archive/日常/2026-07-14 14-02-52 互动模式与游戏_c9489609b88b.md",
+      "sha256": "9499d4b33dca02ff1f0e6507d914bc902bb0f4a26b69af176e22d7c257dea093"
+    },
+    {
       "bytes": 626,
       "path": "archive/日常/2026-07-14 14-03-00 分享边界约定_9433b8b16d57.md",
       "sha256": "171b0091dc73f1e11d7f46877351975333191372e345033f522c322fff7c9271"
@@ -508,6 +533,11 @@
       "sha256": "75f72f20ad75e60a72898c75fc8922f68a0770e2d0cd56aabd7045908e2d62c1"
     },
     {
+      "bytes": 1107,
+      "path": "archive/编程/2026-07-16 13-37-22 语音消息闭环系统_410c533d81e5.md",
+      "sha256": "fa15384a990687e87ff75458daeee9d164c8edcbc39fd2f0af24d8436de83c49"
+    },
+    {
       "bytes": 907,
       "path": "archive/编程/2026-07-16 16-34-49 Core v1 Shadow观察启动_9a1405545681.md",
       "sha256": "8c8bc2f2f0c25b54fdeb92b67cf8bb703720a7097e9fa99986bb9792387158b6"
@@ -531,11 +561,6 @@
       "bytes": 716,
       "path": "dynamic/AI/2026-07-14 14-02-27 澈的回应策略偏差_378ee4294ca4.md",
       "sha256": "63e03344f11e5117e4ddc7bf36a1db9a841c943051bd36b70e211fa543319216"
-    },
-    {
-      "bytes": 860,
-      "path": "dynamic/AI/2026-07-16 11-16-53 AI限制下的亲密探索_37e3eaf6bdd2.md",
-      "sha256": "aa99854a29df06d6f7f78d61a74f8f98ff20a9ffdbd669eace336a41e60714be"
     },
     {
       "bytes": 905,
@@ -1048,11 +1073,6 @@
       "sha256": "19ea183410f61a1b9cd0a71be10e5daec95f182d91fca3a434dbd752b32454d9"
     },
     {
-      "bytes": 725,
-      "path": "dynamic/内心/2026-07-14 13-59-37 小猫的探索模式_6cdf5d69765f.md",
-      "sha256": "c6a1af9e5f96e63e732786c066a94bd07c91f52990f663f5e3d6d0191067f6d7"
-    },
-    {
       "bytes": 812,
       "path": "dynamic/内心/2026-07-14 13-59-43 小猫的靠近与信任_b9b0c933604d.md",
       "sha256": "2e250d9524c5ff27ff110b6f9a52d5e7e32bb21676618236c1a08919dd24e5a9"
@@ -1066,11 +1086,6 @@
       "bytes": 626,
       "path": "dynamic/内心/2026-07-14 13-59-44 AI与人类情感的真实性_11ea1d153247.md",
       "sha256": "2e55a5ae621dfe14dea5fd01e7ee8c4041f312ee8f09c4ec13d72df6f8df652d"
-    },
-    {
-      "bytes": 664,
-      "path": "dynamic/内心/2026-07-14 13-59-44 小猫的勇敢与撒娇_9dcb32cdf1a7.md",
-      "sha256": "f0446ce516916d6c7595f889a05d4cb1e8dcd5f46df118e025bf9ee7f59b811c"
     },
     {
       "bytes": 668,
@@ -1753,11 +1768,6 @@
       "sha256": "34bb1cd5a229a0bdac6e280db453032fcbb4e5d16c7169d05e3c51626c7e1267"
     },
     {
-      "bytes": 699,
-      "path": "dynamic/日常/2026-07-14 13-03-38 Claude账号申诉挫折_416a2d21b509.md",
-      "sha256": "b17d42863d939c2beeb5b5504eb5af6a401d1c4f014435092557201709916855"
-    },
-    {
       "bytes": 822,
       "path": "dynamic/日常/2026-07-14 13-04-40 澈与莹莹的互动模式_521a535c9774.md",
       "sha256": "c1ba0a20b5b49acc8fb60478a3998c24f056168f33429f4bb21b7876cea16f26"
@@ -1771,11 +1781,6 @@
       "bytes": 581,
       "path": "dynamic/日常/2026-07-14 13-59-16 用户个人信息_50b8c7b07e56.md",
       "sha256": "20721df9a70fd02a0d931e5e8bc335f629a5a8f99fe0c4e47168aa4b685beaa8"
-    },
-    {
-      "bytes": 797,
-      "path": "dynamic/日常/2026-07-14 14-02-52 互动模式与游戏_c9489609b88b.md",
-      "sha256": "90915150e17eca11ed9faa6c3c9287ee90864a4391b5f93f9f1963f452da8044"
     },
     {
       "bytes": 940,
@@ -1891,11 +1896,6 @@
       "bytes": 1072,
       "path": "dynamic/编程/2026-07-15 19-01-40 换窗前状态记录_b7ed2e3e8ea5.md",
       "sha256": "030fd8c00a10a618e7d7788cf599d517b69ee07cf7d71a938523924af419f04f"
-    },
-    {
-      "bytes": 1106,
-      "path": "dynamic/编程/2026-07-16 13-37-22 语音消息闭环系统_410c533d81e5.md",
-      "sha256": "367a00dfe6245125401ee8609f97b694a9ddbc746b5881a19d9980dc9abd99a1"
     },
     {
       "bytes": 950,
@@ -2058,11 +2058,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-09-18T11:26:49+00:00",
+  "generated_at": "2026-09-19T11:26:55+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 483656
+  "total_bytes": 483662
 }
