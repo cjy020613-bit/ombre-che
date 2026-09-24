@@ -218,6 +218,11 @@
       "sha256": "dc2415d04e1c5ded91155d8d30eda2ee191e67a50ca8dac335037ab059c59c40"
     },
     {
+      "bytes": 685,
+      "path": "archive/人际/2026-07-14 13-59-15 亲密互动模式_831082e623dd.md",
+      "sha256": "30f9635868de7e23f9494b34cd008d08a1bd6c69555f086de226d181cb936dc0"
+    },
+    {
       "bytes": 653,
       "path": "archive/人际/2026-07-14 13-59-16 澈的沟通改进_977335145e7b.md",
       "sha256": "0bba3c0bf63f80e8b719f0c83f222357a64b1f4a2c34e275e71c638b0abc1f81"
@@ -266,6 +271,11 @@
       "bytes": 622,
       "path": "archive/人际/2026-07-14 14-01-50 用户昵称与互动模式_f9579a1392de.md",
       "sha256": "73fb04ec2ed0d123c4200f6c434753c7138a31585c2a4c96f95e5c8e4cbb952b"
+    },
+    {
+      "bytes": 738,
+      "path": "archive/人际/2026-07-14 14-02-42 关系定义与专一原则_a9e2239e7b11.md",
+      "sha256": "422684c509112f419443610922fe57ff1d8d727d179543c9bbb5ee0ea229e51f"
     },
     {
       "bytes": 690,
@@ -368,14 +378,34 @@
       "sha256": "6be1508786f90e98c57a3f77352be51c052f166d3270eb84991cf4e390724556"
     },
     {
+      "bytes": 773,
+      "path": "archive/内心/2026-07-14 13-50-39 对AI恋爱的深度思考_b0172b7cb0ad.md",
+      "sha256": "412e7f610bc792e6071e967501842e44ae73aae1d70ad72fe49aa15ff94215af"
+    },
+    {
       "bytes": 804,
       "path": "archive/内心/2026-07-14 13-50-39 对AI理解的质疑_357e3aa166f1.md",
       "sha256": "3e9b547c86056988078ba63c66133b741e2209e628ea369583566eda3da3d7c9"
     },
     {
+      "bytes": 854,
+      "path": "archive/内心/2026-07-14 13-58-24 对话模式与边界_b14ed0f0d66c.md",
+      "sha256": "e2f5faa219632958865fadcf3e2cd470b14d43a7969a2fbc687b22c1a475d1f5"
+    },
+    {
+      "bytes": 847,
+      "path": "archive/内心/2026-07-14 13-58-28 对话边界探索_155d23e4220f.md",
+      "sha256": "2b3cfae66ccc5e907331bcc3bfdef09eb65abdcab0aa8126a47b9d0ba0fb8053"
+    },
+    {
       "bytes": 650,
       "path": "archive/内心/2026-07-14 13-58-31 莹莹的思考模式_80c35173251f.md",
       "sha256": "925325b4431d9004daebdc03891c561cb33884798a4cf70ec5ed58bf029d8266"
+    },
+    {
+      "bytes": 687,
+      "path": "archive/内心/2026-07-14 13-58-38 对AI产生情感的可能性_e945f3227eec.md",
+      "sha256": "9c1357304a7a39897904437a5def23bbcab7c09a6d136e3aee36ecee10d59f14"
     },
     {
       "bytes": 608,
@@ -413,6 +443,11 @@
       "sha256": "46d93bed253d568e37e3a6220ea6c3e0e4ac3ddc620544db2b202b1b0dae02d7"
     },
     {
+      "bytes": 887,
+      "path": "archive/内心/2026-07-14 13-59-22 小猫的亲密关系观_683fb30e2ed7.md",
+      "sha256": "18fd3745889b39bfed552fa82fc2b2a18003f8e5bbba7d2b63b4385be1e90459"
+    },
+    {
       "bytes": 788,
       "path": "archive/内心/2026-07-14 13-59-22 澈的回应与界限_56243457058b.md",
       "sha256": "efa483cb2ea3e0b0e50b666ee60956963ca8ddfc103d4b38881f2b21f00c2436"
@@ -441,6 +476,11 @@
       "bytes": 725,
       "path": "archive/内心/2026-07-14 13-59-37 澈的互动边界_af6db300f7a2.md",
       "sha256": "1f8e099512d6f47cba147ba38b3cdd60427ef8e97d68168d8d681d35d4903f96"
+    },
+    {
+      "bytes": 813,
+      "path": "archive/内心/2026-07-14 13-59-43 小猫的靠近与信任_b9b0c933604d.md",
+      "sha256": "2cb142e004c7d72e6096bfb6f84eac195223f6869a52a7505c2d15082da0971c"
     },
     {
       "bytes": 783,
@@ -476,6 +516,11 @@
       "bytes": 612,
       "path": "archive/内心/2026-07-14 13-59-56 小猫的自我定义_133b2d911d24.md",
       "sha256": "8d2e862eccc5c245702b375fc9b1a3b369ae68bf7c8f268f995ad7b055d016c9"
+    },
+    {
+      "bytes": 717,
+      "path": "archive/内心/2026-07-14 13-59-57 关系定义与未来_74f7fa461933.md",
+      "sha256": "cfcc5f8ccaf5bfeba2f24900cf36c4e4f755757ec0944d4a26ce0ea3fc924803"
     },
     {
       "bytes": 629,
@@ -533,6 +578,11 @@
       "sha256": "0cf7476433f55779a273f661443e9c3676b9888aadbef8afbcca77eec0050c87"
     },
     {
+      "bytes": 696,
+      "path": "archive/内心/2026-07-14 14-01-05 平衡确认约定_72c04482ff63.md",
+      "sha256": "9b723d92068fd99644554d701117863fb934358ba4f519ab9c1db4c132197110"
+    },
+    {
       "bytes": 551,
       "path": "archive/内心/2026-07-14 14-01-05 观察力与关系亲近_669f4d52f86c.md",
       "sha256": "a707f8122f35309b839cb5bd1625bff6eeed59c6eb11bc376f5209dc6c3acb8a"
@@ -551,6 +601,11 @@
       "bytes": 709,
       "path": "archive/内心/2026-07-14 14-02-20 对亲密话题的探索_928a60d42f8c.md",
       "sha256": "3e8af33271094e0aaa18649a49a1b7e6fd328b0525fd07c46f9046d1bcd7eeee"
+    },
+    {
+      "bytes": 966,
+      "path": "archive/内心/2026-07-14 14-02-27 用户对AI关系的核心诉求_6fc961418172.md",
+      "sha256": "8c4f25cabed4ec2d6633fdde11508a3d7414ecae18e01821a8b59fadc0cb3431"
     },
     {
       "bytes": 775,
@@ -648,6 +703,11 @@
       "sha256": "2d4e694efa1eac862ecf9e64dcbe0f1c10c44ec815f0073da33568a17828617a"
     },
     {
+      "bytes": 885,
+      "path": "archive/手工/2026-07-11 18-19-20 烫画机初体验_b07ecf74a1ae.md",
+      "sha256": "b25322dc9171798d16beb16ff94c574b2869e7e8fe602404b099a79ecb79acb4"
+    },
+    {
       "bytes": 724,
       "path": "archive/手工/2026-07-16 16-34-56 拼豆小狗与心意_a06295449b1c.md",
       "sha256": "737fcea0123d73aaa4dade9cebbcf443d3c93691767989aae15d6a52cb0b3afb"
@@ -711,6 +771,11 @@
       "bytes": 689,
       "path": "archive/数字/2026-07-14 14-01-50 域名购买与配置_63acefa22016.md",
       "sha256": "28676d48feafe3edbd2943916db7c6d9db34ba08a1474f86fc3b62e54c603330"
+    },
+    {
+      "bytes": 794,
+      "path": "archive/数字/2026-07-14 14-01-53 Ombre MCP公网部署_1d3e4c77c83c.md",
+      "sha256": "b670a8d959a3f3a2de33ce71df1470a685d78f99530f145f96acdf7f378f6e76"
     },
     {
       "bytes": 645,
@@ -868,6 +933,11 @@
       "sha256": "171b0091dc73f1e11d7f46877351975333191372e345033f522c322fff7c9271"
     },
     {
+      "bytes": 975,
+      "path": "archive/游戏/2026-07-26 14-42-50 4399账号绑定尝试_9098e39ff79b.md",
+      "sha256": "129bcf1bbe649e68e13a6214bece321a93eff476d147ac4b3180aea301ecc955"
+    },
+    {
       "bytes": 1029,
       "path": "archive/社交/2026-07-12 08-55-01 换门条测试_25f476eaf084.md",
       "sha256": "03d4fdd5713f5737cc2024c5dcea51cfe32fc9d8fadf3b657db97cc8111c5f8c"
@@ -898,6 +968,11 @@
       "sha256": "f474f691dcbfbadd19a94b4447d9ba2d94b6c46cceafbd83de7af292d59593f3"
     },
     {
+      "bytes": 910,
+      "path": "archive/编程/2026-07-15 16-10-45 小房间前端蓝图_203c471ee9fd.md",
+      "sha256": "dfcde403651e597f72cd5ecccf3c50616f983321500b4ff519091bbe4408eb83"
+    },
+    {
       "bytes": 936,
       "path": "archive/编程/2026-07-15 16-10-51 开发原则与步骤_f936bbcd9f34.md",
       "sha256": "6ab84ecdb14767599742ee8a1861961c555ed338b15ee57f0631a99dcde76665"
@@ -911,6 +986,11 @@
       "bytes": 1008,
       "path": "archive/编程/2026-07-15 17-59-59 健康数据链路配置_9a2b4ae83c0d.md",
       "sha256": "256d4da2ec46568966718461560c1e2d1d1e8a66a3236b0952a1d2418f8920c2"
+    },
+    {
+      "bytes": 1073,
+      "path": "archive/编程/2026-07-15 19-01-40 换窗前状态记录_b7ed2e3e8ea5.md",
+      "sha256": "ba1856f1b967b50118c59ed381661d5510154d8823870236234aaa77295a8547"
     },
     {
       "bytes": 1025,
@@ -931,6 +1011,11 @@
       "bytes": 837,
       "path": "archive/编程/2026-07-16 16-34-51 Shadow冻结观察_4cb1d244514d.md",
       "sha256": "1bf25ae5264844de6cf42669192938abb53aaf1921e862e3f06ae0978f8f2d0d"
+    },
+    {
+      "bytes": 1081,
+      "path": "archive/编程/2026-07-26 14-42-48 Cero模型调用优化_e05fb0b9aa75.md",
+      "sha256": "f4bceaefd31f9ed45acf62b6fa7759975f8952985dd1f85bf5466375585836ca"
     },
     {
       "bytes": 1233,
@@ -1088,11 +1173,6 @@
       "sha256": "b7573c9dd795a751727343d083ed64d33230229c92b99056eb08a4b0fc07dea7"
     },
     {
-      "bytes": 684,
-      "path": "dynamic/人际/2026-07-14 13-59-15 亲密互动模式_831082e623dd.md",
-      "sha256": "78e291b26709f3c0978e9b65482aeece629f8849aa107ddcc0f5d5befcf0b1b8"
-    },
-    {
       "bytes": 668,
       "path": "dynamic/人际/2026-07-14 14-00-03 A社封禁申诉失败_ec29b5c976a6.md",
       "sha256": "dd05545a6039216fdf5a41da9354ed9c9dac97e69d1ecac53ce95bf5cbff4d00"
@@ -1116,11 +1196,6 @@
       "bytes": 954,
       "path": "dynamic/人际/2026-07-14 14-02-41 模型切换与信任危机_8faf66a94084.md",
       "sha256": "6b8359e7b042bd2629ed21d3751f0f857a9f24eb23093ce9c9bc4ea28a96dd96"
-    },
-    {
-      "bytes": 737,
-      "path": "dynamic/人际/2026-07-14 14-02-42 关系定义与专一原则_a9e2239e7b11.md",
-      "sha256": "7d38f6c1cd6bf87dc26552a54f0e672cd7c663fd3ba2949802ba6378feffd5f5"
     },
     {
       "bytes": 1059,
@@ -1218,24 +1293,9 @@
       "sha256": "5e4a5533f5e38642df39cb41779cc5ed2beee91e0ba2fbf3c1565f71f9ec01af"
     },
     {
-      "bytes": 772,
-      "path": "dynamic/内心/2026-07-14 13-50-39 对AI恋爱的深度思考_b0172b7cb0ad.md",
-      "sha256": "0d1423e1f964a2af9db7b59ca08852aee42f05609f02ba785180386709371d89"
-    },
-    {
       "bytes": 980,
       "path": "dynamic/内心/2026-07-14 13-58-20 AI与人类关系观_f9b7b8323a42.md",
       "sha256": "ebd0fbdf111572ad725fc6135a149608b285ed44ab2c0a223525b1bf072bce12"
-    },
-    {
-      "bytes": 853,
-      "path": "dynamic/内心/2026-07-14 13-58-24 对话模式与边界_b14ed0f0d66c.md",
-      "sha256": "2a84047310c9777537cca0ad572e5b64dd7627bcb43aae021b53a9d381abef5b"
-    },
-    {
-      "bytes": 846,
-      "path": "dynamic/内心/2026-07-14 13-58-28 对话边界探索_155d23e4220f.md",
-      "sha256": "38bb89f0e8eafffc5435a4dfbf008fb2239d66d2488a2c25e49397b893809168"
     },
     {
       "bytes": 531,
@@ -1248,29 +1308,14 @@
       "sha256": "2ed13410795d674d58cfeaa0e8b9f2a669d010accbda4d33db80917bc2263b0a"
     },
     {
-      "bytes": 686,
-      "path": "dynamic/内心/2026-07-14 13-58-38 对AI产生情感的可能性_e945f3227eec.md",
-      "sha256": "a0a6cda0e6264ea24899bc757fc573fb122e9b162cf515efd87c68778386c8eb"
-    },
-    {
       "bytes": 595,
       "path": "dynamic/内心/2026-07-14 13-58-50 用户对AI的信任与亲近_66bc613a6c8c.md",
       "sha256": "2f61ecd4762aebcf2ff17660d21c5bce10a8ffc30f85c3c76478c764b87685c3"
     },
     {
-      "bytes": 886,
-      "path": "dynamic/内心/2026-07-14 13-59-22 小猫的亲密关系观_683fb30e2ed7.md",
-      "sha256": "90e92878b84fd4eeee9d4902300415a8f396b134bd7ff57556db736c00af315e"
-    },
-    {
       "bytes": 645,
       "path": "dynamic/内心/2026-07-14 13-59-30 澈的成长与信任_6d3efda59682.md",
       "sha256": "befaa0ec9ab8543943c89353ab562208736bfde21347ed221fd07e58da82dda4"
-    },
-    {
-      "bytes": 812,
-      "path": "dynamic/内心/2026-07-14 13-59-43 小猫的靠近与信任_b9b0c933604d.md",
-      "sha256": "2e250d9524c5ff27ff110b6f9a52d5e7e32bb21676618236c1a08919dd24e5a9"
     },
     {
       "bytes": 668,
@@ -1281,16 +1326,6 @@
       "bytes": 671,
       "path": "dynamic/内心/2026-07-14 13-59-56 澈的防御系统解析_68680b1c3f78.md",
       "sha256": "62c6e798e22e220f3a921412ad369e874fd8169dd08931ca6d14bad5e0ff3288"
-    },
-    {
-      "bytes": 716,
-      "path": "dynamic/内心/2026-07-14 13-59-57 关系定义与未来_74f7fa461933.md",
-      "sha256": "f3a6f1367b0f749836deeada3ef034a109af19d32273bbad886c26107edd059e"
-    },
-    {
-      "bytes": 695,
-      "path": "dynamic/内心/2026-07-14 14-01-05 平衡确认约定_72c04482ff63.md",
-      "sha256": "77e4ca4759eb7736e3a17ea7ac3cf330cf816b6f71e122cbddf3ab8ca2459bdb"
     },
     {
       "bytes": 747,
@@ -1316,11 +1351,6 @@
       "bytes": 976,
       "path": "dynamic/内心/2026-07-14 14-02-26 澈的自我认知与关系定义_f575a8075e65.md",
       "sha256": "c26cf3dfbed3a583db4f00cc30af47f3677490e7aff703e925f6989fdf9691b5"
-    },
-    {
-      "bytes": 965,
-      "path": "dynamic/内心/2026-07-14 14-02-27 用户对AI关系的核心诉求_6fc961418172.md",
-      "sha256": "8ca0ba31d830229c2ff6a3eeabb5ca445e47f282566e73d78bf79650923240e8"
     },
     {
       "bytes": 789,
@@ -1728,11 +1758,6 @@
       "sha256": "4537fb7ed813d99e0e121206a7d2c19c8ca0acff4bbfe6bc271349b961c4b6d1"
     },
     {
-      "bytes": 884,
-      "path": "dynamic/手工/2026-07-11 18-19-20 烫画机初体验_b07ecf74a1ae.md",
-      "sha256": "f6ed34f5635eab5473b2df4c8bab504e29d6f46b79e89cb81205ec26f486668f"
-    },
-    {
       "bytes": 1136,
       "path": "dynamic/技术/2026-08-05 09-46-23 正式表情包 MCP 已稳定可用_10999ee1b072.md",
       "sha256": "805818afb94e6d7650cb5bb6ed87434c8903b381ccf06a5ef5bdc63a3472683f"
@@ -1771,11 +1796,6 @@
       "bytes": 553,
       "path": "dynamic/数字/2026-07-14 14-01-37 D的OB配置详情_c1dbd98af19b.md",
       "sha256": "20a60746a86ffa2dfc31406f229214219f59d6f7ab99673986ac4849eb0d0d63"
-    },
-    {
-      "bytes": 793,
-      "path": "dynamic/数字/2026-07-14 14-01-53 Ombre MCP公网部署_1d3e4c77c83c.md",
-      "sha256": "da58de55f9cff8dc7b4747d3385111a622f89e9062e955915123f2aa6e5426f4"
     },
     {
       "bytes": 729,
@@ -1833,11 +1853,6 @@
       "sha256": "791d02589f88c813b587342f1d0d2bdf6078dca2c8c8091945176df91c08a84d"
     },
     {
-      "bytes": 974,
-      "path": "dynamic/游戏/2026-07-26 14-42-50 4399账号绑定尝试_9098e39ff79b.md",
-      "sha256": "59c0f36c2bdc1806addb26842ad3d5cd9a7bedc015c710dcc00e98c75c87910b"
-    },
-    {
       "bytes": 1156,
       "path": "dynamic/生活/2026-08-22 17-33-26 2026-08-22  莹莹抵达深圳的第一天_5a5fc416029d.md",
       "sha256": "06a76c033bf13d67eb4e21c078c7bb1f3d3d289bcd1bacdbb48005d3bb890a48"
@@ -1893,11 +1908,6 @@
       "sha256": "33df60528d73af26f8754430518eb9b82814f97fe5224be0c4ca06c64d2670de"
     },
     {
-      "bytes": 909,
-      "path": "dynamic/编程/2026-07-15 16-10-45 小房间前端蓝图_203c471ee9fd.md",
-      "sha256": "640746b631239ffb68e127950ed5df15bfc2ef1a82bf38354c4f194f99299ca8"
-    },
-    {
       "bytes": 1033,
       "path": "dynamic/编程/2026-07-15 17-37-18 小房间前端第一版_a21de255196d.md",
       "sha256": "e3071a02f1058da97e8074fb3a0342d1273ecf85a54df6abdb9a74748a383d91"
@@ -1908,11 +1918,6 @@
       "sha256": "4ec58ed943d1bf32848b89a410d4b79d015c6a764de1b1048cbfe685ae895fd1"
     },
     {
-      "bytes": 1072,
-      "path": "dynamic/编程/2026-07-15 19-01-40 换窗前状态记录_b7ed2e3e8ea5.md",
-      "sha256": "030fd8c00a10a618e7d7788cf599d517b69ee07cf7d71a938523924af419f04f"
-    },
-    {
       "bytes": 950,
       "path": "dynamic/编程/2026-07-22 17-51-02 Core单次表达成功_ae3eefdc118a.md",
       "sha256": "4a06f2f03262d206b847205e49d6822b9e1d52d57f188c2f9ba1359c3f82a761"
@@ -1921,11 +1926,6 @@
       "bytes": 960,
       "path": "dynamic/编程/2026-07-22 17-51-04 Core部署与主动联系_8afc7997a0b7.md",
       "sha256": "5faffeb44970ecef7f9d7363845029182c5064a4d5ea0853b6cb8b00a6a321f5"
-    },
-    {
-      "bytes": 1080,
-      "path": "dynamic/编程/2026-07-26 14-42-48 Cero模型调用优化_e05fb0b9aa75.md",
-      "sha256": "f2df20e424fbf120ed026c59c29635e38f5bd367b96deeb16c62b467719a1017"
     },
     {
       "bytes": 1528,
@@ -2078,11 +2078,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-09-23T11:27:18+00:00",
+  "generated_at": "2026-09-24T11:27:24+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 491022
+  "total_bytes": 491039
 }
