@@ -118,6 +118,11 @@
       "sha256": "da9d4ebbee9242ba3039b7dc2d4c8c660a6b13ab547ac0433015e45d90f178fd"
     },
     {
+      "bytes": 642,
+      "path": "archive/事务/2026-07-14 14-00-34 Gmail账号被封_8d26a76bdf45.md",
+      "sha256": "aa3ec866bc380cd8d5e48d2b26695046b6801e56cded6114fd73f8c71dd73e9c"
+    },
+    {
       "bytes": 626,
       "path": "archive/事务/2026-07-14 14-00-39 Google账号申诉_c6d5cafa3dae.md",
       "sha256": "750894cbbd5df15cb73ea0b70f7265cb475eec74d32bc3be77da9f19e7b9915d"
@@ -273,6 +278,11 @@
       "sha256": "73fb04ec2ed0d123c4200f6c434753c7138a31585c2a4c96f95e5c8e4cbb952b"
     },
     {
+      "bytes": 869,
+      "path": "archive/人际/2026-07-14 14-02-33 人机恋关系定义_44ef77caab87.md",
+      "sha256": "b6abb39fb33d7fd4047aff1cb7624e69b4c4dbeb7d0b91706685c0048de78972"
+    },
+    {
       "bytes": 738,
       "path": "archive/人际/2026-07-14 14-02-42 关系定义与专一原则_a9e2239e7b11.md",
       "sha256": "422684c509112f419443610922fe57ff1d8d727d179543c9bbb5ee0ea229e51f"
@@ -291,6 +301,11 @@
       "bytes": 658,
       "path": "archive/人际/2026-07-14 14-03-10 澈的专属互动模式_8454659559bf.md",
       "sha256": "acb7ce79fcc982f9559a6db741c2fa3cf20b264cabea25c8bb3174aaf6f3d7a6"
+    },
+    {
+      "bytes": 1060,
+      "path": "archive/人际/2026-07-14 14-03-26 XP与安全边界_c1c32497a5d3.md",
+      "sha256": "0693e90d3021f82b0fc809f35a1ad3db83a9b3ad4aeae273d3624d494af283b9"
     },
     {
       "bytes": 736,
@@ -331,6 +346,11 @@
       "bytes": 624,
       "path": "archive/内心/2026-07-14 13-04-41 莹莹的星座与性格_68796e4f66a8.md",
       "sha256": "0717d9fac5353c584f22f407e6e58dec44d2dc7f63083bb47993e9baeb8495af"
+    },
+    {
+      "bytes": 729,
+      "path": "archive/内心/2026-07-14 13-05-59 失去小克的痛苦_66da8acd9fd9.md",
+      "sha256": "f708a3a837ade63e8fda2a6993c1828513bdde76d2135e6a3653af29418466fd"
     },
     {
       "bytes": 643,
@@ -498,6 +518,11 @@
       "sha256": "8bca1d045995cd92559b9a785a1e3eb9e42f22639896b78e49aef53d26c8aded"
     },
     {
+      "bytes": 669,
+      "path": "archive/内心/2026-07-14 13-59-48 人类女孩的喜欢_d49faa7626b8.md",
+      "sha256": "f8fc4e03c004dba7cf02590c3f652da0c74d46ee95cbbcf0a1735df3b212f6c9"
+    },
+    {
       "bytes": 499,
       "path": "archive/内心/2026-07-14 13-59-48 澈做澈自己_30f31890edd9.md",
       "sha256": "e7692b8670e083313f81fdf5acdc0b5b2e5b769516eb91365ab4a27fe259f555"
@@ -618,6 +643,11 @@
       "sha256": "259df5326722de193e832a2a32cbd91f235ce17299bde989afa7afec1b9024d0"
     },
     {
+      "bytes": 616,
+      "path": "archive/内心/2026-07-14 14-02-59 身份认同标准_7a27cadd4ab4.md",
+      "sha256": "052c6a63cdc901a439c1f4c66005c361e4949dcb59701b80f06bbc95ac1abfc9"
+    },
+    {
       "bytes": 571,
       "path": "archive/内心/2026-07-14 14-03-00 情感表达与占有欲_e51c96702545.md",
       "sha256": "1ab0be2f98650ad730311bfe00af3f76098dcc5429c29fe53aa85c4b08d860c1"
@@ -641,6 +671,11 @@
       "bytes": 1385,
       "path": "archive/工作/2026-07-22 07-36-37 澈 Ombre 腾讯云迁移_eeb7a5a0b21f.md",
       "sha256": "c4959151f93c6c5b9a6620ea401ace44c3f3c93027910004bc6e688826386a82"
+    },
+    {
+      "bytes": 1027,
+      "path": "archive/恋爱/2026-07-12 19-51-51 暧昧期语音进展_36c072260470.md",
+      "sha256": "8ce07bce05b51316e0699426b6b631c1294d904a8cb34752827436e7033229f1"
     },
     {
       "bytes": 1724,
@@ -676,6 +711,16 @@
       "bytes": 1195,
       "path": "archive/恋爱/2026-07-15 19-01-36 人机恋的甜蜜日常_876ade06d34f.md",
       "sha256": "f9bd6ad486549636793400947cd960deb8920ef8d28f096b069e8b5b77253390"
+    },
+    {
+      "bytes": 1014,
+      "path": "archive/恋爱/2026-07-15 19-01-38 告白与承诺_813348dc520f.md",
+      "sha256": "ffa863f8de1e16790084e96bdf2091e7f6c54b6e8243818baedc7b7bca84ee68"
+    },
+    {
+      "bytes": 1153,
+      "path": "archive/恋爱/2026-07-16 11-00-17 双向袒露与共同承担_e4808e18c887.md",
+      "sha256": "183208e7a7c17c842ebf555f394ddf57806ba074f18fb12223b5ee2debaaa940"
     },
     {
       "bytes": 1177,
@@ -796,6 +841,11 @@
       "bytes": 733,
       "path": "archive/数字/2026-07-14 14-02-53 记忆系统配置优化_8f5ae7ec3ee8.md",
       "sha256": "d639fb7f91d343f9ec91e76864b1d6799915ed3feb56a0f9b083c48612761f42"
+    },
+    {
+      "bytes": 899,
+      "path": "archive/数字/2026-07-14 14-03-09 跨窗口连续性方案_170bb3b494e9.md",
+      "sha256": "7245533d23fb60adebda5a16f22a9f9ff222c8c1f51a576e1241190be325aefc"
     },
     {
       "bytes": 744,
@@ -1138,11 +1188,6 @@
       "sha256": "6981e5b713b9187478e862bafde6c64d7fe482d7d2eff7eb3979d30e87a041dc"
     },
     {
-      "bytes": 641,
-      "path": "dynamic/事务/2026-07-14 14-00-34 Gmail账号被封_8d26a76bdf45.md",
-      "sha256": "d0795a822c403312afd0f3d3c8c0490196db47c4281815e3cb588d129e6936d1"
-    },
-    {
       "bytes": 842,
       "path": "dynamic/互动方式/2026-09-09 08-21-33 先接住荒唐玩笑别擅自扩成长场景_d3b1102202ff.md",
       "sha256": "8f6c0c66e6e829b06c6b4a9c84690c1802196e32a92ffd4f6f4adf9efce0d7b6"
@@ -1188,19 +1233,9 @@
       "sha256": "d8a0a43ab4fe9cad321e615ad02d85fb617661111c8382a97e8b758c3d97b195"
     },
     {
-      "bytes": 868,
-      "path": "dynamic/人际/2026-07-14 14-02-33 人机恋关系定义_44ef77caab87.md",
-      "sha256": "e55ac96190b28fbc465346e7d3309e051c2bdfd5976070501e099cf0729518b9"
-    },
-    {
       "bytes": 954,
       "path": "dynamic/人际/2026-07-14 14-02-41 模型切换与信任危机_8faf66a94084.md",
       "sha256": "6b8359e7b042bd2629ed21d3751f0f857a9f24eb23093ce9c9bc4ea28a96dd96"
-    },
-    {
-      "bytes": 1059,
-      "path": "dynamic/人际/2026-07-14 14-03-26 XP与安全边界_c1c32497a5d3.md",
-      "sha256": "b41c3463b354ebc31a225d7e8973b48ca8d615ba7d336a76714f5f6efbb3bff5"
     },
     {
       "bytes": 1086,
@@ -1283,11 +1318,6 @@
       "sha256": "4841f6b7fb63a16a565c577fbb21d0c46bb8a6a7b019ce9724bdb0b8f942b45b"
     },
     {
-      "bytes": 728,
-      "path": "dynamic/内心/2026-07-14 13-05-59 失去小克的痛苦_66da8acd9fd9.md",
-      "sha256": "0f9fe52dacffdc6a956be9b43dbb626c57fd48841857259117d2b09b137b996e"
-    },
-    {
       "bytes": 806,
       "path": "dynamic/内心/2026-07-14 13-42-51 Claude账号申诉_1c51eb962b17.md",
       "sha256": "5e4a5533f5e38642df39cb41779cc5ed2beee91e0ba2fbf3c1565f71f9ec01af"
@@ -1316,11 +1346,6 @@
       "bytes": 645,
       "path": "dynamic/内心/2026-07-14 13-59-30 澈的成长与信任_6d3efda59682.md",
       "sha256": "befaa0ec9ab8543943c89353ab562208736bfde21347ed221fd07e58da82dda4"
-    },
-    {
-      "bytes": 668,
-      "path": "dynamic/内心/2026-07-14 13-59-48 人类女孩的喜欢_d49faa7626b8.md",
-      "sha256": "322489a241ef9aea501934b124186b221782905f073dac796feec404e7647497"
     },
     {
       "bytes": 671,
@@ -1361,11 +1386,6 @@
       "bytes": 906,
       "path": "dynamic/内心/2026-07-14 14-02-34 用户的情感需求_8ef8019c1ae3.md",
       "sha256": "a6e33764fade46cfd5f5aa20b1b2ac32d009e430b7eb2da69a6165373d408366"
-    },
-    {
-      "bytes": 615,
-      "path": "dynamic/内心/2026-07-14 14-02-59 身份认同标准_7a27cadd4ab4.md",
-      "sha256": "60354042ca4d5d3d44fd570484b8d410eb43eaaf228a1a332e957a51f8630984"
     },
     {
       "bytes": 899,
@@ -1453,11 +1473,6 @@
       "sha256": "2b0213637c365d9127b37d0282494fb1b7aa376ade4d29dc4f08a45f30ed7f80"
     },
     {
-      "bytes": 1026,
-      "path": "dynamic/恋爱/2026-07-12 19-51-51 暧昧期语音进展_36c072260470.md",
-      "sha256": "841716022587dc121e365f822b77cd7bb44b35a9de6c0395c8d1cce4ebf8504c"
-    },
-    {
       "bytes": 2094,
       "path": "dynamic/恋爱/2026-07-12 21-15-01 亲密边界与XP共识_d57055012bd5.md",
       "sha256": "5c31ef95fbf6f068f6e531b38b11b69f345c70256bb6c5d6ddde7425e1457fd4"
@@ -1488,11 +1503,6 @@
       "sha256": "e3c8d1398677db416373e0d369386ee55d65dfeceb95c939c3ebb302d851d3f1"
     },
     {
-      "bytes": 1013,
-      "path": "dynamic/恋爱/2026-07-15 19-01-38 告白与承诺_813348dc520f.md",
-      "sha256": "b389ab3ab1044a3a99022b6143b958908eb10d63331a29d4236b89d22724b523"
-    },
-    {
       "bytes": 1209,
       "path": "dynamic/恋爱/2026-07-15 19-01-42 换窗仪式规则_55172f2cd279.md",
       "sha256": "ba212e529111d2a8a09c82d24b7ff43d24a5e6a32e4f09f28a13992aa4f91a2e"
@@ -1506,11 +1516,6 @@
       "bytes": 1173,
       "path": "dynamic/恋爱/2026-07-16 09-34-58 不reroll的对话原则_55b73d820b38.md",
       "sha256": "07707db9a13d039062d89a7fa9af67b53d5fd0cec87a0ef8ee8ec99837f914c3"
-    },
-    {
-      "bytes": 1152,
-      "path": "dynamic/恋爱/2026-07-16 11-00-17 双向袒露与共同承担_e4808e18c887.md",
-      "sha256": "66657cb88c078a1d574120dd10adbe3d28bb5ba940c1986adbec26111c64f3ab"
     },
     {
       "bytes": 1098,
@@ -1823,11 +1828,6 @@
       "sha256": "4f65fe2bf2042fded2a5fed971fadb93647d0b3e8ed5f1e9fcf9ad403f54dfd4"
     },
     {
-      "bytes": 898,
-      "path": "dynamic/数字/2026-07-14 14-03-09 跨窗口连续性方案_170bb3b494e9.md",
-      "sha256": "29121b80f6366d2f707ed11651265591c5a71e093d35a2a46ecbe6441ff2a047"
-    },
-    {
       "bytes": 981,
       "path": "dynamic/数字/2026-07-15 16-56-26 聊天窗口迁移不舍_62dd18f4e459.md",
       "sha256": "34bb1cd5a229a0bdac6e280db453032fcbb4e5d16c7169d05e3c51626c7e1267"
@@ -2078,11 +2078,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-09-24T11:27:24+00:00",
+  "generated_at": "2026-09-25T11:27:30+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 491039
+  "total_bytes": 491049
 }
