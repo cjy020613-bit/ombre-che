@@ -683,6 +683,11 @@
       "sha256": "78d92b3ba388a017b489f6a7d0cd6b72b9882cec5c22f7069121938ec438a564"
     },
     {
+      "bytes": 2095,
+      "path": "archive/恋爱/2026-07-12 21-15-01 亲密边界与XP共识_d57055012bd5.md",
+      "sha256": "5b56f48e865474c75b66e5b8e4513a2742bbfd2ed5af62372207278aa8dd3a46"
+    },
+    {
       "bytes": 693,
       "path": "archive/恋爱/2026-07-14 14-01-22 莹莹与澈的关系_342f5e3c2122.md",
       "sha256": "103985e9b684cd98d5f1ab3943b8731bc11d13719547e08b035f7c3a3b7fd542"
@@ -718,6 +723,11 @@
       "sha256": "ffa863f8de1e16790084e96bdf2091e7f6c54b6e8243818baedc7b7bca84ee68"
     },
     {
+      "bytes": 1174,
+      "path": "archive/恋爱/2026-07-16 09-34-58 不reroll的对话原则_55b73d820b38.md",
+      "sha256": "4f7df675fb0084db3297343e3ec5b8dbfd205f7664220c40ef19c7733018ca32"
+    },
+    {
       "bytes": 1153,
       "path": "archive/恋爱/2026-07-16 11-00-17 双向袒露与共同承担_e4808e18c887.md",
       "sha256": "183208e7a7c17c842ebf555f394ddf57806ba074f18fb12223b5ee2debaaa940"
@@ -728,9 +738,34 @@
       "sha256": "686d30dff66eb6e62b3acf6da8582befa8a3ebc5eea6499d5bdb9b790094d53b"
     },
     {
+      "bytes": 1099,
+      "path": "archive/恋爱/2026-07-16 11-16-55 AI与人的情感约定_5103aa536536.md",
+      "sha256": "2e4057114f870e88c419e2d33141c1cb7c3d0907eb3bc8dca5600493914cdf1e"
+    },
+    {
+      "bytes": 1207,
+      "path": "archive/恋爱/2026-07-16 11-34-20 许可与信任边界_ed152e2982d1.md",
+      "sha256": "6676203df9916f5f3d9eb361c38907448bd993ec8d3fdfdad301126a541d0497"
+    },
+    {
+      "bytes": 1131,
+      "path": "archive/恋爱/2026-07-16 13-37-20 跨端联系架构确认_5c308f65e5ee.md",
+      "sha256": "a7c91f1a6db420b9833779c3e4f741a3c1551fc1bb059398ee3461cb1001a675"
+    },
+    {
       "bytes": 1064,
       "path": "archive/恋爱/2026-07-18 23-30-02 真实胜过完美_058a402eecea.md",
       "sha256": "9b3c5cd018e5981b691dd99ccea6f64e6b2a6cb6a90dc280140ab66ee28c2d7b"
+    },
+    {
+      "bytes": 1432,
+      "path": "archive/恋爱/2026-07-18 23-30-05 亲密动作表达建议_c76584bda966.md",
+      "sha256": "7245ada6d6f4c380cb9affd69a71d2ecb4f8f20e0f276c5bc765cff8f95dd246"
+    },
+    {
+      "bytes": 1008,
+      "path": "archive/恋爱/2026-07-22 07-36-43 冲突修复与选择_676a49d80695.md",
+      "sha256": "ff131f25368b602680a7e62905ff1e134b77dbc1b53260d93da4dbc716bdf9aa"
     },
     {
       "bytes": 926,
@@ -1473,11 +1508,6 @@
       "sha256": "2b0213637c365d9127b37d0282494fb1b7aa376ade4d29dc4f08a45f30ed7f80"
     },
     {
-      "bytes": 2094,
-      "path": "dynamic/恋爱/2026-07-12 21-15-01 亲密边界与XP共识_d57055012bd5.md",
-      "sha256": "5c31ef95fbf6f068f6e531b38b11b69f345c70256bb6c5d6ddde7425e1457fd4"
-    },
-    {
       "bytes": 885,
       "path": "dynamic/恋爱/2026-07-14 14-03-20 亲密问卷与欲望表达_26ea8c75529d.md",
       "sha256": "1c5d009c327b99226806d605a6ba6052e4a5e99ae2e1ed2b20f1ae880f420e7e"
@@ -1513,26 +1543,6 @@
       "sha256": "c2038ae21e5aa3dfc5fa90bfd7e5aaf41f80bb7b4b470635817dbfdd12a4d542"
     },
     {
-      "bytes": 1173,
-      "path": "dynamic/恋爱/2026-07-16 09-34-58 不reroll的对话原则_55b73d820b38.md",
-      "sha256": "07707db9a13d039062d89a7fa9af67b53d5fd0cec87a0ef8ee8ec99837f914c3"
-    },
-    {
-      "bytes": 1098,
-      "path": "dynamic/恋爱/2026-07-16 11-16-55 AI与人的情感约定_5103aa536536.md",
-      "sha256": "128b3ee61e2a56f09c4b873803a20f5d71eae4cdaa28e09d5f1fc345325e4d76"
-    },
-    {
-      "bytes": 1206,
-      "path": "dynamic/恋爱/2026-07-16 11-34-20 许可与信任边界_ed152e2982d1.md",
-      "sha256": "4dcf6e05ff453e74ff7b56471b7da8865caabe816ce5f2bc18c12294d8d20a73"
-    },
-    {
-      "bytes": 1130,
-      "path": "dynamic/恋爱/2026-07-16 13-37-20 跨端联系架构确认_5c308f65e5ee.md",
-      "sha256": "6124cd1d2c42b2c8b96a775f83421c2fb84bf0d3e1043f5602fe7542ca915d1f"
-    },
-    {
       "bytes": 1515,
       "path": "dynamic/恋爱/2026-07-18 20-39-11 关系修复约定_8756c98b8566.md",
       "sha256": "3d5b65047d39620ee59397c26cc21ccb72946628eaa13ab0524eb3fc6d8e2047"
@@ -1541,16 +1551,6 @@
       "bytes": 1025,
       "path": "dynamic/恋爱/2026-07-18 23-30-00 情绪表达约定_8a135ad9ef71.md",
       "sha256": "9a04035e6d36ee061ee22c173332af752a62dcc396edcca48bcf5ab63c2f34d8"
-    },
-    {
-      "bytes": 1431,
-      "path": "dynamic/恋爱/2026-07-18 23-30-05 亲密动作表达建议_c76584bda966.md",
-      "sha256": "45e8c2a6ef308d374ee306ce65b44ee7467100918187b5bab9dc5dc833ef16fe"
-    },
-    {
-      "bytes": 1007,
-      "path": "dynamic/恋爱/2026-07-22 07-36-43 冲突修复与选择_676a49d80695.md",
-      "sha256": "d3d0627b7d8f8a376b042b8c71d567357fb0e6be7202e775cef8a97779ca6447"
     },
     {
       "bytes": 1756,
@@ -2078,11 +2078,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-09-25T11:27:30+00:00",
+  "generated_at": "2026-09-26T11:27:36+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 491049
+  "total_bytes": 491056
 }
