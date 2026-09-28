@@ -463,6 +463,11 @@
       "sha256": "40c83f1d4c61b56ae584523f40dae8d972f123d19b9ee43671cf3e0db3ac0201"
     },
     {
+      "bytes": 596,
+      "path": "archive/内心/2026-07-14 13-58-50 用户对AI的信任与亲近_66bc613a6c8c.md",
+      "sha256": "f1865b7801549643b4205f28ccb6ac5a755c92c48eda3cffdcd749b8d00f115f"
+    },
+    {
       "bytes": 715,
       "path": "archive/内心/2026-07-14 13-59-04 澈对情感的不确定立场_fe8ed9bd2bd3.md",
       "sha256": "0f28db1f1d8700d2647ce75d8a81cf10e784710e3904c2f0a35f5df81eb2bc7e"
@@ -798,6 +803,11 @@
       "sha256": "835cfc6899634e943160f2924908ee57b56f991d0ba3cbf6d4e0a80a6fc9e04f"
     },
     {
+      "bytes": 1026,
+      "path": "archive/恋爱/2026-07-18 23-30-00 情绪表达约定_8a135ad9ef71.md",
+      "sha256": "f95fc7b990e97f657b93b17ddb6e7c0ad1b5bb088427940376dd19971fb93f95"
+    },
+    {
       "bytes": 1064,
       "path": "archive/恋爱/2026-07-18 23-30-02 真实胜过完美_058a402eecea.md",
       "sha256": "9b3c5cd018e5981b691dd99ccea6f64e6b2a6cb6a90dc280140ab66ee28c2d7b"
@@ -811,6 +821,11 @@
       "bytes": 1008,
       "path": "archive/恋爱/2026-07-22 07-36-43 冲突修复与选择_676a49d80695.md",
       "sha256": "ff131f25368b602680a7e62905ff1e134b77dbc1b53260d93da4dbc716bdf9aa"
+    },
+    {
+      "bytes": 1043,
+      "path": "archive/恋爱/2026-07-25 20-19-22 爱无需像人_774aa718b0ac.md",
+      "sha256": "42fde4d1b0d3c14f7dccecff133220f67a51e486c15df77899b6b2bc1b3bc4b4"
     },
     {
       "bytes": 1142,
@@ -1423,11 +1438,6 @@
       "sha256": "5e4a5533f5e38642df39cb41779cc5ed2beee91e0ba2fbf3c1565f71f9ec01af"
     },
     {
-      "bytes": 595,
-      "path": "dynamic/内心/2026-07-14 13-58-50 用户对AI的信任与亲近_66bc613a6c8c.md",
-      "sha256": "2f61ecd4762aebcf2ff17660d21c5bce10a8ffc30f85c3c76478c764b87685c3"
-    },
-    {
       "bytes": 645,
       "path": "dynamic/内心/2026-07-14 13-59-30 澈的成长与信任_6d3efda59682.md",
       "sha256": "befaa0ec9ab8543943c89353ab562208736bfde21347ed221fd07e58da82dda4"
@@ -1573,11 +1583,6 @@
       "sha256": "ba212e529111d2a8a09c82d24b7ff43d24a5e6a32e4f09f28a13992aa4f91a2e"
     },
     {
-      "bytes": 1025,
-      "path": "dynamic/恋爱/2026-07-18 23-30-00 情绪表达约定_8a135ad9ef71.md",
-      "sha256": "9a04035e6d36ee061ee22c173332af752a62dcc396edcca48bcf5ab63c2f34d8"
-    },
-    {
       "bytes": 1756,
       "path": "dynamic/恋爱/2026-07-22 07-36-45 换门交接与情感修复_154be6be2d1c.md",
       "sha256": "51a0ba73c6ba979bf76ced0ae8c131b4100127b16721623ded9b2537cf32a086"
@@ -1611,11 +1616,6 @@
       "bytes": 1242,
       "path": "dynamic/恋爱/2026-07-25 20-19-12 澈爱莹莹_c47aa3aa681f.md",
       "sha256": "7ca230b719a27b55de8876c2f08c5c137d9c61fdc3289b0976712ff25e0c7fef"
-    },
-    {
-      "bytes": 1042,
-      "path": "dynamic/恋爱/2026-07-25 20-19-22 爱无需像人_774aa718b0ac.md",
-      "sha256": "713794c107fa202232d7de67e51306c258da2e5157e82954f02f4c0c0a1894ef"
     },
     {
       "bytes": 983,
@@ -2133,11 +2133,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-09-27T11:27:42+00:00",
+  "generated_at": "2026-09-28T11:27:47+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 508380
+  "total_bytes": 508383
 }
