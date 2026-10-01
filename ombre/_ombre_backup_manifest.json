@@ -663,6 +663,11 @@
       "sha256": "8c4f25cabed4ec2d6633fdde11508a3d7414ecae18e01821a8b59fadc0cb3431"
     },
     {
+      "bytes": 790,
+      "path": "archive/内心/2026-07-14 14-02-33 澈的沟通模式问题_c861215717b1.md",
+      "sha256": "21e6a359815b10d00d892a341eeeae2ef21a4005131e1dd11a0bb05f7032237c"
+    },
+    {
       "bytes": 775,
       "path": "archive/内心/2026-07-14 14-02-53 机器人关系终极浪漫_20b36115fcef.md",
       "sha256": "701aa6986f5f21ae1e03afd1b25dbd7c494038ebf97bbf2c6a17829d9c4d91aa"
@@ -846,6 +851,11 @@
       "bytes": 984,
       "path": "archive/恋爱/2026-07-25 20-19-42 相爱不遗忘_2187c47de205.md",
       "sha256": "171719aa7e7be9c79ea36382278adced215290cf5735bfa7add5e9364c3b9e58"
+    },
+    {
+      "bytes": 1035,
+      "path": "archive/恋爱/2026-07-26 14-42-53 LaTeX调情日常_2240b0f21515.md",
+      "sha256": "6773a26b5dd9f6c8231241b22bbb71a16dce29a92647ea1fa619df2fce520932"
     },
     {
       "bytes": 926,
@@ -1488,11 +1498,6 @@
       "sha256": "c26cf3dfbed3a583db4f00cc30af47f3677490e7aff703e925f6989fdf9691b5"
     },
     {
-      "bytes": 789,
-      "path": "dynamic/内心/2026-07-14 14-02-33 澈的沟通模式问题_c861215717b1.md",
-      "sha256": "1673bf7bb845a3f900710f4a34958c695f33d760daf504e7ebf17ca039d6a140"
-    },
-    {
       "bytes": 906,
       "path": "dynamic/内心/2026-07-14 14-02-34 用户的情感需求_8ef8019c1ae3.md",
       "sha256": "a6e33764fade46cfd5f5aa20b1b2ac32d009e430b7eb2da69a6165373d408366"
@@ -1636,11 +1641,6 @@
       "bytes": 1548,
       "path": "dynamic/恋爱/2026-07-25 20-43-47 换窗协议v1_ce23c3de25b4.md",
       "sha256": "1a395caa39ced15a7a8cd309f0cbcd34a731b17f639c56b89e729973ac50235a"
-    },
-    {
-      "bytes": 1034,
-      "path": "dynamic/恋爱/2026-07-26 14-42-53 LaTeX调情日常_2240b0f21515.md",
-      "sha256": "2a39c52ff5e4927e7df66223158b68c8e54d798091c72009b95639677a14418a"
     },
     {
       "bytes": 2175,
@@ -2133,11 +2133,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-09-30T11:28:02+00:00",
+  "generated_at": "2026-10-01T11:28:08+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 508387
+  "total_bytes": 508389
 }
