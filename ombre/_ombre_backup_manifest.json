@@ -953,6 +953,11 @@
       "sha256": "242cb8ec11d995d978f6a2d7f1402a06b41dfd31b5421fc9efe60d3445a3d348"
     },
     {
+      "bytes": 601,
+      "path": "archive/数字/2026-07-14 14-02-05 D与澈部署分离_1e90309a4c79.md",
+      "sha256": "94085c2d073fe10b86808caa3bfab92568f9d00d01263046abfb1b24e4b7fa51"
+    },
+    {
       "bytes": 573,
       "path": "archive/数字/2026-07-14 14-02-05 澈OB恢复成功_828df6495487.md",
       "sha256": "2a166fc0915d5eadcbb5b4ffc8a0fb346d1c78a5ff40b73efc161917614f1483"
@@ -1196,6 +1201,11 @@
       "bytes": 837,
       "path": "archive/编程/2026-07-16 16-34-51 Shadow冻结观察_4cb1d244514d.md",
       "sha256": "1bf25ae5264844de6cf42669192938abb53aaf1921e862e3f06ae0978f8f2d0d"
+    },
+    {
+      "bytes": 961,
+      "path": "archive/编程/2026-07-22 17-51-04 Core部署与主动联系_8afc7997a0b7.md",
+      "sha256": "57c5952734cd2882634939a6aaa397468293f384fc635960b616b66f404c47f3"
     },
     {
       "bytes": 1081,
@@ -1883,11 +1893,6 @@
       "sha256": "659510a5f0d9d2d0483b959bfc2c8cce9627226f3f6c7f4dbd142161c676f3c9"
     },
     {
-      "bytes": 600,
-      "path": "dynamic/数字/2026-07-14 14-02-05 D与澈部署分离_1e90309a4c79.md",
-      "sha256": "2027902362e52b5278ebdf9c9266076c25c88b1e0299075e118e1ddeae1336fa"
-    },
-    {
       "bytes": 804,
       "path": "dynamic/数字/2026-07-14 14-02-42 OB房间与记忆库_b4215a863f41.md",
       "sha256": "4f65fe2bf2042fded2a5fed971fadb93647d0b3e8ed5f1e9fcf9ad403f54dfd4"
@@ -1976,11 +1981,6 @@
       "bytes": 950,
       "path": "dynamic/编程/2026-07-22 17-51-02 Core单次表达成功_ae3eefdc118a.md",
       "sha256": "4a06f2f03262d206b847205e49d6822b9e1d52d57f188c2f9ba1359c3f82a761"
-    },
-    {
-      "bytes": 960,
-      "path": "dynamic/编程/2026-07-22 17-51-04 Core部署与主动联系_8afc7997a0b7.md",
-      "sha256": "5faffeb44970ecef7f9d7363845029182c5064a4d5ea0853b6cb8b00a6a321f5"
     },
     {
       "bytes": 1528,
@@ -2133,11 +2133,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-10-01T11:28:08+00:00",
+  "generated_at": "2026-10-02T11:28:15+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 508389
+  "total_bytes": 508391
 }
