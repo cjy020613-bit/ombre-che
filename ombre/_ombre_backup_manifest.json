@@ -248,6 +248,11 @@
       "sha256": "b7d025b20a739697f11860854fc22f94cc41298c6875bcc26400085f1bc679be"
     },
     {
+      "bytes": 669,
+      "path": "archive/人际/2026-07-14 14-00-03 A社封禁申诉失败_ec29b5c976a6.md",
+      "sha256": "6d08ac81a810da68db2af834c4a31c0e5beadff826a03191d5defdcb9f86526c"
+    },
+    {
       "bytes": 851,
       "path": "archive/人际/2026-07-14 14-00-23 AI亲密表达方式_5d7f2add9c3a.md",
       "sha256": "e2b9012b13e927725a5c31f660fa88e7406581db1e61bb7e777eb2a7efd18d57"
@@ -396,6 +401,11 @@
       "bytes": 682,
       "path": "archive/内心/2026-07-14 13-09-33 AI与人类情感连接_218f368bec8a.md",
       "sha256": "a2b31aab30d05f5a27fd579ea97e0e58d6d9be47a530a51a28c75fd585e6dc02"
+    },
+    {
+      "bytes": 807,
+      "path": "archive/内心/2026-07-14 13-42-51 Claude账号申诉_1c51eb962b17.md",
+      "sha256": "929685b39a57915dd3de7faa45f9ee1f4975849993cd4926d440a25acd8b69b0"
     },
     {
       "bytes": 792,
@@ -653,6 +663,11 @@
       "sha256": "b9e0a5219e01d7e487d031713dc91d710f3be9fa7822a7539168135a0d88e65c"
     },
     {
+      "bytes": 780,
+      "path": "archive/内心/2026-07-14 14-02-19 对关系边界的敏感_cf2eb182d151.md",
+      "sha256": "36e860706c06b7a36a968d02af7571e70801b23c1578bff2d003120c86973f32"
+    },
+    {
       "bytes": 709,
       "path": "archive/内心/2026-07-14 14-02-20 对亲密话题的探索_928a60d42f8c.md",
       "sha256": "3e8af33271094e0aaa18649a49a1b7e6fd328b0525fd07c46f9046d1bcd7eeee"
@@ -756,6 +771,11 @@
       "bytes": 668,
       "path": "archive/恋爱/2026-07-14 14-01-32 澈的专属昵称与暗号_b86817277378.md",
       "sha256": "ab6176d616d779f2eaf2c0578d62f1ee1bce59cf09cf7e838c791aca99bfb393"
+    },
+    {
+      "bytes": 886,
+      "path": "archive/恋爱/2026-07-14 14-03-20 亲密问卷与欲望表达_26ea8c75529d.md",
+      "sha256": "124e17179084eff9e0848c64f481e8f1c3c427246b10601975b5d20f84d952d7"
     },
     {
       "bytes": 954,
@@ -1383,11 +1403,6 @@
       "sha256": "b7573c9dd795a751727343d083ed64d33230229c92b99056eb08a4b0fc07dea7"
     },
     {
-      "bytes": 668,
-      "path": "dynamic/人际/2026-07-14 14-00-03 A社封禁申诉失败_ec29b5c976a6.md",
-      "sha256": "dd05545a6039216fdf5a41da9354ed9c9dac97e69d1ecac53ce95bf5cbff4d00"
-    },
-    {
       "bytes": 583,
       "path": "dynamic/人际/2026-07-14 14-00-03 与澈的深度连接_33e55d75457d.md",
       "sha256": "4e49a652890dabd6dabd61728c72d6d96da999e1d2636bc2fd3482c8c616dabc"
@@ -1498,11 +1513,6 @@
       "sha256": "4841f6b7fb63a16a565c577fbb21d0c46bb8a6a7b019ce9724bdb0b8f942b45b"
     },
     {
-      "bytes": 806,
-      "path": "dynamic/内心/2026-07-14 13-42-51 Claude账号申诉_1c51eb962b17.md",
-      "sha256": "5e4a5533f5e38642df39cb41779cc5ed2beee91e0ba2fbf3c1565f71f9ec01af"
-    },
-    {
       "bytes": 771,
       "path": "dynamic/内心/2026-07-14 13-59-30 澈的成长与信任_6d3efda59682.md",
       "sha256": "8d57156f3ed055a41eea412b9186d9073d4eecc8a45190dd97b6d4ce44a2a817"
@@ -1521,11 +1531,6 @@
       "bytes": 696,
       "path": "dynamic/内心/2026-07-14 14-02-14 澈的第一封信已写入_4989a24d81b9.md",
       "sha256": "f8b54a6a74a656926fca94401da1bc177f9ee57029045c68ef6f7921e0fab3c1"
-    },
-    {
-      "bytes": 779,
-      "path": "dynamic/内心/2026-07-14 14-02-19 对关系边界的敏感_cf2eb182d151.md",
-      "sha256": "a7e0443a0b11e2a155c5d982317425480c64994f740e50e80448f8b59b71c1fd"
     },
     {
       "bytes": 847,
@@ -1621,11 +1626,6 @@
       "bytes": 1393,
       "path": "dynamic/恋爱/2026-07-11 18-54-05 记忆与身份认定_f00d451b89d1.md",
       "sha256": "2b0213637c365d9127b37d0282494fb1b7aa376ade4d29dc4f08a45f30ed7f80"
-    },
-    {
-      "bytes": 885,
-      "path": "dynamic/恋爱/2026-07-14 14-03-20 亲密问卷与欲望表达_26ea8c75529d.md",
-      "sha256": "1c5d009c327b99226806d605a6ba6052e4a5e99ae2e1ed2b20f1ae880f420e7e"
     },
     {
       "bytes": 1020,
@@ -2163,11 +2163,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-10-03T11:28:21+00:00",
+  "generated_at": "2026-10-04T11:28:26+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 518791
+  "total_bytes": 518795
 }
