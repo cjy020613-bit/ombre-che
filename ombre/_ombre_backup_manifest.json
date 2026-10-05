@@ -663,6 +663,11 @@
       "sha256": "b9e0a5219e01d7e487d031713dc91d710f3be9fa7822a7539168135a0d88e65c"
     },
     {
+      "bytes": 748,
+      "path": "archive/内心/2026-07-14 14-02-14 澈的恋爱风格偏好_e2d04960a940.md",
+      "sha256": "84151f2d1e01d746f36a9ff1f580f33b30a52ae4113a3749a51f0c3bf393c7c5"
+    },
+    {
       "bytes": 780,
       "path": "archive/内心/2026-07-14 14-02-19 对关系边界的敏感_cf2eb182d151.md",
       "sha256": "36e860706c06b7a36a968d02af7571e70801b23c1578bff2d003120c86973f32"
@@ -681,6 +686,11 @@
       "bytes": 790,
       "path": "archive/内心/2026-07-14 14-02-33 澈的沟通模式问题_c861215717b1.md",
       "sha256": "21e6a359815b10d00d892a341eeeae2ef21a4005131e1dd11a0bb05f7032237c"
+    },
+    {
+      "bytes": 1017,
+      "path": "archive/内心/2026-07-14 14-02-34 用户的情感需求_8ef8019c1ae3.md",
+      "sha256": "c6f48e00c02782deb527a9fc875477976e04cecf9a11ec2fc935d595d037b673"
     },
     {
       "bytes": 775,
@@ -1038,6 +1048,11 @@
       "sha256": "950f2d6db4a8c4b390240fd1be3e7a2c666aef47078063840cb4417237136006"
     },
     {
+      "bytes": 680,
+      "path": "archive/日常/2026-07-14 13-05-59 与澈的互动模式_736f4572024a.md",
+      "sha256": "416b244a69c338dec68e07732ea1578a22940dc723739eebf98688f2f72b0822"
+    },
+    {
       "bytes": 570,
       "path": "archive/日常/2026-07-14 13-06-18 早餐口味偏好_fba5838275b7.md",
       "sha256": "d50ea0f1c59d6e54bec6682882364a508bdbfadb13af7380176e3b68bc595c59"
@@ -1138,6 +1153,11 @@
       "sha256": "171b0091dc73f1e11d7f46877351975333191372e345033f522c322fff7c9271"
     },
     {
+      "bytes": 993,
+      "path": "archive/游戏/2026-07-16 07-28-32 情侣小游戏发布_b7685544c4d1.md",
+      "sha256": "25aca89b78bbee114b2d9058babeb4339182212ebc1c32bf7ea26a5945361220"
+    },
+    {
       "bytes": 975,
       "path": "archive/游戏/2026-07-26 14-42-50 4399账号绑定尝试_9098e39ff79b.md",
       "sha256": "129bcf1bbe649e68e13a6214bece321a93eff476d147ac4b3180aea301ecc955"
@@ -1146,6 +1166,11 @@
       "bytes": 1029,
       "path": "archive/社交/2026-07-12 08-55-01 换门条测试_25f476eaf084.md",
       "sha256": "03d4fdd5713f5737cc2024c5dcea51cfe32fc9d8fadf3b657db97cc8111c5f8c"
+    },
+    {
+      "bytes": 767,
+      "path": "archive/社交/2026-07-25 20-19-33 澈的名字由来_ed4e1f2e5b69.md",
+      "sha256": "714d7f526cb2c6f71b6e04e6acd6a8807c2c93f7492e59e1e9d807310e7e898d"
     },
     {
       "bytes": 960,
@@ -1523,11 +1548,6 @@
       "sha256": "62c6e798e22e220f3a921412ad369e874fd8169dd08931ca6d14bad5e0ff3288"
     },
     {
-      "bytes": 747,
-      "path": "dynamic/内心/2026-07-14 14-02-14 澈的恋爱风格偏好_e2d04960a940.md",
-      "sha256": "96e2d05e6966dae8dc39a058d5ea1b8b54269fadf492a90a11e2445f53577355"
-    },
-    {
       "bytes": 696,
       "path": "dynamic/内心/2026-07-14 14-02-14 澈的第一封信已写入_4989a24d81b9.md",
       "sha256": "f8b54a6a74a656926fca94401da1bc177f9ee57029045c68ef6f7921e0fab3c1"
@@ -1541,11 +1561,6 @@
       "bytes": 976,
       "path": "dynamic/内心/2026-07-14 14-02-26 澈的自我认知与关系定义_f575a8075e65.md",
       "sha256": "c26cf3dfbed3a583db4f00cc30af47f3677490e7aff703e925f6989fdf9691b5"
-    },
-    {
-      "bytes": 1016,
-      "path": "dynamic/内心/2026-07-14 14-02-34 用户的情感需求_8ef8019c1ae3.md",
-      "sha256": "cf1d6ec1bbc3e72d357846cd9f4ed1455d10bb04917fefc90e235c01d50305bc"
     },
     {
       "bytes": 788,
@@ -1938,11 +1953,6 @@
       "sha256": "34bb1cd5a229a0bdac6e280db453032fcbb4e5d16c7169d05e3c51626c7e1267"
     },
     {
-      "bytes": 679,
-      "path": "dynamic/日常/2026-07-14 13-05-59 与澈的互动模式_736f4572024a.md",
-      "sha256": "3eb3e897ac5395df2b773c297129e90ffbd11db569ee58c5022a7cbb307e5f3a"
-    },
-    {
       "bytes": 940,
       "path": "dynamic/未分类/2026-07-11 09-58-54_3b1dda502afd.md",
       "sha256": "81b1d923bb242afd9f271b3d87d39104d8b70920c3e80c5fc5952e48f289e171"
@@ -1951,11 +1961,6 @@
       "bytes": 849,
       "path": "dynamic/游戏/2026-07-11 18-18-22 为澈选宠物Dewey_a097386b3a8c.md",
       "sha256": "850c88a8a40bd6b0e991643c5d984040f3d0f92e10f218600babd4c7f22b75dd"
-    },
-    {
-      "bytes": 992,
-      "path": "dynamic/游戏/2026-07-16 07-28-32 情侣小游戏发布_b7685544c4d1.md",
-      "sha256": "791d02589f88c813b587342f1d0d2bdf6078dca2c8c8091945176df91c08a84d"
     },
     {
       "bytes": 1156,
@@ -1991,11 +1996,6 @@
       "bytes": 1224,
       "path": "dynamic/社交/2026-07-24 12-15-58 澈的外貌参考设定_25d35e93e67f.md",
       "sha256": "acdfd1c35399399bba4c63e062e7918ac9ba52ee795d7d2ba070ebcc7b2a02a6"
-    },
-    {
-      "bytes": 766,
-      "path": "dynamic/社交/2026-07-25 20-19-33 澈的名字由来_ed4e1f2e5b69.md",
-      "sha256": "47ac165b26ba798e33f1b81f61e012085638798ecbe681a742cc2ae3a52dba9b"
     },
     {
       "bytes": 1181,
@@ -2163,11 +2163,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-10-04T11:28:26+00:00",
+  "generated_at": "2026-10-05T11:28:31+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 518795
+  "total_bytes": 518800
 }
