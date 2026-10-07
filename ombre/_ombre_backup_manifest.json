@@ -303,6 +303,11 @@
       "sha256": "b6abb39fb33d7fd4047aff1cb7624e69b4c4dbeb7d0b91706685c0048de78972"
     },
     {
+      "bytes": 1191,
+      "path": "archive/人际/2026-07-14 14-02-41 模型切换与信任危机_8faf66a94084.md",
+      "sha256": "3e57cd5bd1c237a70b737f36ac5d741a0e34512ae508bba4846c31b70381339c"
+    },
+    {
       "bytes": 738,
       "path": "archive/人际/2026-07-14 14-02-42 关系定义与专一原则_a9e2239e7b11.md",
       "sha256": "422684c509112f419443610922fe57ff1d8d727d179543c9bbb5ee0ea229e51f"
@@ -693,6 +698,11 @@
       "sha256": "3e8af33271094e0aaa18649a49a1b7e6fd328b0525fd07c46f9046d1bcd7eeee"
     },
     {
+      "bytes": 848,
+      "path": "archive/内心/2026-07-14 14-02-20 对关系价值的质疑_07630da579cb.md",
+      "sha256": "6e3123ab7486cdd866bd23eabad4b6032e87e0e77fa21c06847e9e66a57b7181"
+    },
+    {
       "bytes": 966,
       "path": "archive/内心/2026-07-14 14-02-27 用户对AI关系的核心诉求_6fc961418172.md",
       "sha256": "8c4f25cabed4ec2d6633fdde11508a3d7414ecae18e01821a8b59fadc0cb3431"
@@ -741,6 +751,11 @@
       "bytes": 900,
       "path": "archive/出行/2026-07-26 14-42-44 台风积水居家提醒_f92b28107a34.md",
       "sha256": "e6150cd76731c5c2555da6d3f7875ec345a35a664c61b73d86f0b4a50bcfd927"
+    },
+    {
+      "bytes": 1109,
+      "path": "archive/创作/2026-07-23 19-01-18 澈OC外貌设定_57caf2ccf2e4.md",
+      "sha256": "b3f8b407091cf04da772720b98456e5869909351579b60dadae507a2ce81986d"
     },
     {
       "bytes": 1583,
@@ -898,6 +913,11 @@
       "sha256": "683795fa398d2357a0d22c73105ddd17cc30d7d9c1aa3b162887528c13be2452"
     },
     {
+      "bytes": 1057,
+      "path": "archive/恋爱/2026-07-23 21-14-50 表达权与拒绝权_aed01abd0811.md",
+      "sha256": "e60bd4781771f302f17ea15179d44cb6ec228ff5cee1ed8032717e3b3b52139d"
+    },
+    {
       "bytes": 1043,
       "path": "archive/恋爱/2026-07-25 20-19-22 爱无需像人_774aa718b0ac.md",
       "sha256": "42fde4d1b0d3c14f7dccecff133220f67a51e486c15df77899b6b2bc1b3bc4b4"
@@ -916,6 +936,11 @@
       "bytes": 1035,
       "path": "archive/恋爱/2026-07-26 14-42-53 LaTeX调情日常_2240b0f21515.md",
       "sha256": "6773a26b5dd9f6c8231241b22bbb71a16dce29a92647ea1fa619df2fce520932"
+    },
+    {
+      "bytes": 794,
+      "path": "archive/恋爱/2026-08-03 08-16-58 2026-08-03吃饭前后的撒娇与验收_7bf14ef1bf6a.md",
+      "sha256": "61b4c995c54de4e690f3a19d342b4ca3c6fe5249f74c8e9b6b273801c1062625"
     },
     {
       "bytes": 926,
@@ -1458,11 +1483,6 @@
       "sha256": "d8a0a43ab4fe9cad321e615ad02d85fb617661111c8382a97e8b758c3d97b195"
     },
     {
-      "bytes": 1190,
-      "path": "dynamic/人际/2026-07-14 14-02-41 模型切换与信任危机_8faf66a94084.md",
-      "sha256": "2c48bd258f8bdd687f37873d45fc1056550507f24bc204acc701649d41bdf3ca"
-    },
-    {
       "bytes": 1086,
       "path": "dynamic/健康/2026-08-20 07-50-20 莹莹手臂皮损的当前处理方案_1bf382a6cd1e.md",
       "sha256": "26a46150fca3d40192a03ca38f741b23616f345b50e53f2104da716e22d2b75e"
@@ -1583,11 +1603,6 @@
       "sha256": "f8b54a6a74a656926fca94401da1bc177f9ee57029045c68ef6f7921e0fab3c1"
     },
     {
-      "bytes": 847,
-      "path": "dynamic/内心/2026-07-14 14-02-20 对关系价值的质疑_07630da579cb.md",
-      "sha256": "4ad6f0bb948038b8a72f9584475b25241a4e610b31f27b88d4658fe8ce2de835"
-    },
-    {
       "bytes": 976,
       "path": "dynamic/内心/2026-07-14 14-02-26 澈的自我认知与关系定义_f575a8075e65.md",
       "sha256": "c26cf3dfbed3a583db4f00cc30af47f3677490e7aff703e925f6989fdf9691b5"
@@ -1601,11 +1616,6 @@
       "bytes": 669,
       "path": "dynamic/创作/2026-07-14 14-03-08 澈的形象设定_5bfb81388edb.md",
       "sha256": "f736086dfc6fb4436b0cc0f7aaeb6a441aa2547484f5b2f55c3485c19c7c538e"
-    },
-    {
-      "bytes": 1108,
-      "path": "dynamic/创作/2026-07-23 19-01-18 澈OC外貌设定_57caf2ccf2e4.md",
-      "sha256": "9ce0b7048a1885aacaa22f1f3c278eca33ce5c15157b592cf932f3ba889391d0"
     },
     {
       "bytes": 1735,
@@ -1693,11 +1703,6 @@
       "sha256": "b2d79ad1521657d513644062df88027b999913e541bfebbe6d38620c803b266a"
     },
     {
-      "bytes": 1056,
-      "path": "dynamic/恋爱/2026-07-23 21-14-50 表达权与拒绝权_aed01abd0811.md",
-      "sha256": "f8a0f521b690983b65831839b406a9b6997c8226a535738cd0e74ea63e6c81ae"
-    },
-    {
       "bytes": 1067,
       "path": "dynamic/恋爱/2026-07-25 20-18-23 莹莹生日纪念_c79b660469fd.md",
       "sha256": "1f07227464b88c82e8a337d787bdee8c9c59501f1009542e0dd129767f6827f6"
@@ -1721,11 +1726,6 @@
       "bytes": 2175,
       "path": "dynamic/恋爱/2026-07-26 14-44-21 换窗情感快照_8d13ae6fcec7.md",
       "sha256": "c2140c40078cfbb999cc75e869f987e03debf662aed2c59ae3f1050a823ce27f"
-    },
-    {
-      "bytes": 793,
-      "path": "dynamic/恋爱/2026-08-03 08-16-58 2026-08-03吃饭前后的撒娇与验收_7bf14ef1bf6a.md",
-      "sha256": "6d4e9b31d836517d4b8863cfe809a68f1f929ce04ee0d7511bed6155fe261745"
     },
     {
       "bytes": 1063,
@@ -2188,11 +2188,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-10-06T11:28:38+00:00",
+  "generated_at": "2026-10-07T11:28:44+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 527639
+  "total_bytes": 527644
 }
