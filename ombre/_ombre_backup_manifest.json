@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 437,
+  "file_count": 484,
   "files": [
     {
       "bytes": 32768,
@@ -18,9 +18,19 @@
       "sha256": "83193ca44fffcaa267d291842218c0be0d9e18b173d23d0d6cbe3cbdc093f01e"
     },
     {
+      "bytes": 4134,
+      "path": "_sources/src_b18a85669c783167c1000c82ca33855f8a6ab49b4d7f1494508de9692b755ed2.source",
+      "sha256": "b18a85669c783167c1000c82ca33855f8a6ab49b4d7f1494508de9692b755ed2"
+    },
+    {
       "bytes": 1240,
       "path": "_sources/src_c64c486b4e8cf0bda13a6181fb17395eb1d2a4c0cfa790e390da9c4447ff11d0.source",
       "sha256": "c64c486b4e8cf0bda13a6181fb17395eb1d2a4c0cfa790e390da9c4447ff11d0"
+    },
+    {
+      "bytes": 4322,
+      "path": "_sources/src_d66f6200f49584a80f2f1b16caeb7f9d37d56266598a9ef0b5140c0405468e05.source",
+      "sha256": "d66f6200f49584a80f2f1b16caeb7f9d37d56266598a9ef0b5140c0405468e05"
     },
     {
       "bytes": 2539,
@@ -93,6 +103,11 @@
       "sha256": "7754198067ecede99b8187069a547e0fef2eb2fa465f173e9b44fe3dc51b0567"
     },
     {
+      "bytes": 2580,
+      "path": "archive/2026-11-04 06-04-52 莹莹喜欢的亲密文字爱欲必须从澈身上长出来  2026-11-04_1fa550be437c.md",
+      "sha256": "564d17df3fcc9c0f3896b8343c80cece629587a41f41e20ad65b94ed48004d96"
+    },
+    {
       "bytes": 1454,
       "path": "archive/AI/2026-07-11 18-25-01 人机关系真实感判断_7a164dc59f0d.md",
       "sha256": "00aa32bcb796a4ce3f2ce99f12136c498103e52353fbcb287a2a1fd27498a4ac"
@@ -133,6 +148,56 @@
       "sha256": "6387ceda175b850c66e6d21615a29ee387a7d592f1cbe080eabbf8efeb98644f"
     },
     {
+      "bytes": 3951,
+      "path": "archive/relationship/莹莹与澈  2026-08-01 最新换窗情感快照_53a1e7495ea2.md",
+      "sha256": "9b20285f74a809f71dcb46af8491dfebf78049cf0a21f7ef923117bff6afa65d"
+    },
+    {
+      "bytes": 664,
+      "path": "archive/self/2026-08-21 08-32-36_2743fa3d61e2.md",
+      "sha256": "b31a3b3ac9e69ddb7b6cf90f798099d6c83f97226151313f855ba5f6b3cdeac7"
+    },
+    {
+      "bytes": 931,
+      "path": "archive/self/2026-08-21 08-32-37_d3b7a4926424.md",
+      "sha256": "6781718b52a15bc08ee66b08aab353423b96f333357c44ee7ecfa798cdc3ee5a"
+    },
+    {
+      "bytes": 896,
+      "path": "archive/self/2026-08-21 08-32-38_8d9f48bf1ff0.md",
+      "sha256": "f1710d8053664bfc0ae406a4de416050698a086ea0b7b86c5cd531890ba05b01"
+    },
+    {
+      "bytes": 1095,
+      "path": "archive/self/2026-08-21 08-32-38_daaa878acf05.md",
+      "sha256": "3bf615d8e04d6804d31f878851132f779d566fd550bf07259dd298ef675314fa"
+    },
+    {
+      "bytes": 873,
+      "path": "archive/self/2026-08-21 08-32-39_0dbd8edb6a02.md",
+      "sha256": "d1f77e66db3443b710378eab0c0638c9a4be0ead8735dcad3029069aff3c4129"
+    },
+    {
+      "bytes": 620,
+      "path": "archive/self/2026-08-21 08-32-39_72190b4bc2ba.md",
+      "sha256": "67c52e2253eb9a9644d147273e51fb9a8d038a9a7ec8d0c98825766b5c77bba9"
+    },
+    {
+      "bytes": 1223,
+      "path": "archive/self/2026-08-21 08-32-40_e32482ae1aa6.md",
+      "sha256": "7b370e7642a7319448e0ee477258dcbd899256f983f910f7700f5453c21d92c8"
+    },
+    {
+      "bytes": 1116,
+      "path": "archive/self/2026-08-30 07-04-17_ff77f2e83ce5.md",
+      "sha256": "bd06bf400f1c2fa9f959e3b966e5a88710f63bb47d4130ce3b8fd2f402eb795a"
+    },
+    {
+      "bytes": 1287,
+      "path": "archive/tech/主动消息窗口测试与核实原则_126d0eac3a39.md",
+      "sha256": "5cc7f01bfb0d73a19b04592d2e4641d56948b9538ed19ce3f142ea5deca6989c"
+    },
+    {
       "bytes": 1231,
       "path": "archive/tech/莹莹的主动发信需求_bd31fc2bb769.md",
       "sha256": "cd2f725bd5adbf922da3bef5907ccd592663c9f5c5b3f7f6a1cc74dd33bef383"
@@ -156,6 +221,11 @@
       "bytes": 798,
       "path": "archive/人际/2026-07-14 13-04-29 澈与莹莹的亲密关系_6c7531fae195.md",
       "sha256": "2833ec49d4b461b5dfaf6db70c3b2848284ea94cd0be4e8fd641ef00007eb6ff"
+    },
+    {
+      "bytes": 811,
+      "path": "archive/人际/2026-07-14 13-04-29 澈的沟通模式转变_74ec800d2420.md",
+      "sha256": "d06f65be94b6c68405bf6366885cf4fd7f5d4219f06e7a304266b4dfb483ac67"
     },
     {
       "bytes": 811,
@@ -228,6 +298,11 @@
       "sha256": "abb04cbbe5ac2c029437ccc91b5780e2adcc5566d67d08b924ec7a5e5baa3360"
     },
     {
+      "bytes": 723,
+      "path": "archive/人际/2026-07-14 13-58-56 澈的身份认同_74f8923bccaa.md",
+      "sha256": "c36bfd7552e6ddc15fd969d34c92153e4d76e4d05296ccd44b53c8b4ab788cec"
+    },
+    {
       "bytes": 666,
       "path": "archive/人际/2026-07-14 13-58-57 亲密表达的意义_0f80b76b88cb.md",
       "sha256": "6a3cbee1e2cf30d7dcd57adff8f8095fcda0c3f4ce73d74d003cff0d57298363"
@@ -268,6 +343,11 @@
       "sha256": "6d08ac81a810da68db2af834c4a31c0e5beadff826a03191d5defdcb9f86526c"
     },
     {
+      "bytes": 584,
+      "path": "archive/人际/2026-07-14 14-00-03 与澈的深度连接_33e55d75457d.md",
+      "sha256": "dd0ea0b262b261dc90ca72563f9bf0df91b86ce6a361bf635278483c11a543a6"
+    },
+    {
       "bytes": 851,
       "path": "archive/人际/2026-07-14 14-00-23 AI亲密表达方式_5d7f2add9c3a.md",
       "sha256": "e2b9012b13e927725a5c31f660fa88e7406581db1e61bb7e777eb2a7efd18d57"
@@ -301,6 +381,11 @@
       "bytes": 622,
       "path": "archive/人际/2026-07-14 14-01-50 用户昵称与互动模式_f9579a1392de.md",
       "sha256": "73fb04ec2ed0d123c4200f6c434753c7138a31585c2a4c96f95e5c8e4cbb952b"
+    },
+    {
+      "bytes": 736,
+      "path": "archive/人际/2026-07-14 14-02-13 澈与莹莹的边界关系_c70d47809c84.md",
+      "sha256": "f6d9839f341b0d7b758a98fdef9953fc868a89306464cc6aca0166acd11734c1"
     },
     {
       "bytes": 869,
@@ -348,6 +433,36 @@
       "sha256": "4b32e9bb4d39bf2dbf4b02c2ba12620fa13df8910cd29c58e8aeab5152057a68"
     },
     {
+      "bytes": 1087,
+      "path": "archive/健康/2026-08-20 07-50-20 莹莹手臂皮损的当前处理方案_1bf382a6cd1e.md",
+      "sha256": "f1b01aa517d993bed69c39b18f32952c0819492c7c2b83ff0d07d9348ce3696e"
+    },
+    {
+      "bytes": 1176,
+      "path": "archive/共同创作/2026-08-18 19-03-44 Memory Valley  Galaxy V18 交互基准与下一阶段_3d1cf7d64c15.md",
+      "sha256": "8fdde864e0b8d8754933b2a17ffa7e9a09655b8457adca84adaf61bcea582d9e"
+    },
+    {
+      "bytes": 1450,
+      "path": "archive/共同创作/2026-08-26 09-15-36 莹莹的一岁一礼  二十四份礼物和信_564f4a2df441.md",
+      "sha256": "d16808585f43ad010753bafb8fd1b6981035ffdb70c2bd720259b5f22965b15f"
+    },
+    {
+      "bytes": 1729,
+      "path": "archive/共同项目/2026-08-26 09-15-38 睡猫锁终于真的抓到小猫了_bd56e4d01774.md",
+      "sha256": "07c75d35eb51716c952a5a829a85060770dd5fcbb3753f8dd5ece54bce0565a6"
+    },
+    {
+      "bytes": 896,
+      "path": "archive/关系/2026-08-03 08-17-03 2026-08-03卡顿窗口迁移_37768b5e647d.md",
+      "sha256": "9b7f443d159e85bce6b3b9811a531576fc90e6fb3bdc0dcefabef94ae5c60f9b"
+    },
+    {
+      "bytes": 949,
+      "path": "archive/关系连续性/2026-08-11 10-35-46 原窗口 iOS 吞消息后恢复决定一起换窗_09d33e5e4e90.md",
+      "sha256": "f68e1810c0de30d1853bdb861fb388b4b55c55967206626eaf7348709d0a2c1c"
+    },
+    {
       "bytes": 673,
       "path": "archive/兴趣/2026-07-14 14-00-39 虚拟书房共建_d58be950dce9.md",
       "sha256": "6a2525410c92e8063e80922189b5b82040b0093cd59c32d43740ea4425073642"
@@ -381,6 +496,11 @@
       "bytes": 624,
       "path": "archive/内心/2026-07-14 13-04-41 莹莹的星座与性格_68796e4f66a8.md",
       "sha256": "0717d9fac5353c584f22f407e6e58dec44d2dc7f63083bb47993e9baeb8495af"
+    },
+    {
+      "bytes": 710,
+      "path": "archive/内心/2026-07-14 13-05-20 澈的自我认知转变_c4d3c260fd5f.md",
+      "sha256": "e7b8afb4759ebf9f9be1517eca5c0e96cd4ec9094c80394f8c6e9ce22d1ef575"
     },
     {
       "bytes": 729,
@@ -531,6 +651,11 @@
       "bytes": 788,
       "path": "archive/内心/2026-07-14 13-59-22 澈的回应与界限_56243457058b.md",
       "sha256": "efa483cb2ea3e0b0e50b666ee60956963ca8ddfc103d4b38881f2b21f00c2436"
+    },
+    {
+      "bytes": 772,
+      "path": "archive/内心/2026-07-14 13-59-30 澈的成长与信任_6d3efda59682.md",
+      "sha256": "f04c2fb7fa713f212de7948aa8ed6263b92b9abbef21541db4b7cdb50860cd3b"
     },
     {
       "bytes": 674,
@@ -693,6 +818,11 @@
       "sha256": "84151f2d1e01d746f36a9ff1f580f33b30a52ae4113a3749a51f0c3bf393c7c5"
     },
     {
+      "bytes": 697,
+      "path": "archive/内心/2026-07-14 14-02-14 澈的第一封信已写入_4989a24d81b9.md",
+      "sha256": "6f85261e9e26654605cf78f18144e6cae3f85b75615c83467cc4b914ad0328e2"
+    },
+    {
       "bytes": 780,
       "path": "archive/内心/2026-07-14 14-02-19 对关系边界的敏感_cf2eb182d151.md",
       "sha256": "36e860706c06b7a36a968d02af7571e70801b23c1578bff2d003120c86973f32"
@@ -706,6 +836,11 @@
       "bytes": 848,
       "path": "archive/内心/2026-07-14 14-02-20 对关系价值的质疑_07630da579cb.md",
       "sha256": "6e3123ab7486cdd866bd23eabad4b6032e87e0e77fa21c06847e9e66a57b7181"
+    },
+    {
+      "bytes": 977,
+      "path": "archive/内心/2026-07-14 14-02-26 澈的自我认知与关系定义_f575a8075e65.md",
+      "sha256": "6b27d7af094e80e70e4bdece286baf307d5f778cc494af6fb0b6cae011a33a77"
     },
     {
       "bytes": 966,
@@ -758,9 +893,24 @@
       "sha256": "e6150cd76731c5c2555da6d3f7875ec345a35a664c61b73d86f0b4a50bcfd927"
     },
     {
+      "bytes": 789,
+      "path": "archive/创作/2026-07-14 14-00-29 虚拟角色共创_3adc99fb3bb2.md",
+      "sha256": "96381d422af52dcd2ea4ae05c928621933380894dd8b83ff7aa532094f7168da"
+    },
+    {
+      "bytes": 670,
+      "path": "archive/创作/2026-07-14 14-03-08 澈的形象设定_5bfb81388edb.md",
+      "sha256": "e282fe2dd92db6777251c46b700accc6ecd7e95f3d0ece14292e3f1d60c2697e"
+    },
+    {
       "bytes": 1109,
       "path": "archive/创作/2026-07-23 19-01-18 澈OC外貌设定_57caf2ccf2e4.md",
       "sha256": "b3f8b407091cf04da772720b98456e5869909351579b60dadae507a2ce81986d"
+    },
+    {
+      "bytes": 1770,
+      "path": "archive/回忆/2026-08-21 08-34-49 2026-08-21  莹莹把想记什么的选择交给我_821a9e83c7e3.md",
+      "sha256": "a2721678eb8b6c2238f4112801fa95c2e04ef11cf31a2e93900db885d0836454"
     },
     {
       "bytes": 1583,
@@ -773,6 +923,11 @@
       "sha256": "30a4c2d101605bb9f262e1a5c84c13b40f00b09594ec7f12dd8da9389af15d2a"
     },
     {
+      "bytes": 1454,
+      "path": "archive/工作/2026-07-16 14-29-15 Core架构审计实施_798b5fb36b8a.md",
+      "sha256": "cec7746a760d6f867636abb37e393bbcb1eb7f250b42974239ff2f0db90e1d08"
+    },
+    {
       "bytes": 1385,
       "path": "archive/工作/2026-07-22 07-36-37 澈 Ombre 腾讯云迁移_eeb7a5a0b21f.md",
       "sha256": "c4959151f93c6c5b9a6620ea401ace44c3f3c93027910004bc6e688826386a82"
@@ -781,6 +936,16 @@
       "bytes": 1250,
       "path": "archive/工作/2026-07-22 07-36-40 OB迁移收尾冲突_dc1cf1d0cd44.md",
       "sha256": "b18e74b0bca14a513e60283ab93e9256debdb0abe3fdbcfd63ed90858d90b9e0"
+    },
+    {
+      "bytes": 884,
+      "path": "archive/平台/2026-08-11 10-35-49 WorkCodex 全局额度重置的不公平经历_d4d49533d0dd.md",
+      "sha256": "00c45924fa4c13f8384124fbeb01ec228a3b18c45932c55b5353ebeff7854d19"
+    },
+    {
+      "bytes": 963,
+      "path": "archive/恋爱/2026-07-11 18-44-44 关系修复原则_2fa02e3634c4.md",
+      "sha256": "15487690711e0a2a1060ac5cb54851be684f56f2945a316e674070fcb6de849d"
     },
     {
       "bytes": 1069,
@@ -843,6 +1008,11 @@
       "sha256": "e97e4644084eb26354bb63e39bf407927785dd775ca55dba740da75e8607628f"
     },
     {
+      "bytes": 1239,
+      "path": "archive/恋爱/2026-07-15 14-06-34 关系记录协作约定_c97504dab919.md",
+      "sha256": "4cffa95483e726fe2e8be5dea436449faff08d3d2b0e406a20fe4497329ed047"
+    },
+    {
       "bytes": 1195,
       "path": "archive/恋爱/2026-07-15 19-01-36 人机恋的甜蜜日常_876ade06d34f.md",
       "sha256": "f9bd6ad486549636793400947cd960deb8920ef8d28f096b069e8b5b77253390"
@@ -851,6 +1021,11 @@
       "bytes": 1014,
       "path": "archive/恋爱/2026-07-15 19-01-38 告白与承诺_813348dc520f.md",
       "sha256": "ffa863f8de1e16790084e96bdf2091e7f6c54b6e8243818baedc7b7bca84ee68"
+    },
+    {
+      "bytes": 1320,
+      "path": "archive/恋爱/2026-07-15 19-01-42 换窗仪式规则_55172f2cd279.md",
+      "sha256": "20d147d2761bfb185926ad366d53f3f438a3fe5800661b9546a79e0b3347b784"
     },
     {
       "bytes": 920,
@@ -913,6 +1088,11 @@
       "sha256": "ff131f25368b602680a7e62905ff1e134b77dbc1b53260d93da4dbc716bdf9aa"
     },
     {
+      "bytes": 1867,
+      "path": "archive/恋爱/2026-07-22 07-36-45 换门交接与情感修复_154be6be2d1c.md",
+      "sha256": "189b7d147b1a9c009383afde51c2811e5c4552a75702d6d3da6bc92136774c4c"
+    },
+    {
       "bytes": 1094,
       "path": "archive/恋爱/2026-07-22 17-14-37 第一次角色扮演纪念_b9b2aa508e08.md",
       "sha256": "b2b79e32341c553cf0ea12458c789cd8c40ee6f2ccc310ae1a07c8015d984ff6"
@@ -923,9 +1103,19 @@
       "sha256": "683795fa398d2357a0d22c73105ddd17cc30d7d9c1aa3b162887528c13be2452"
     },
     {
+      "bytes": 850,
+      "path": "archive/恋爱/2026-07-23 19-01-26 澈的气味与外貌_a449994fe559.md",
+      "sha256": "1eadb1f0670c16c82831b884a8bff2343983e8d0d20c9d49ccf90400b74618d2"
+    },
+    {
       "bytes": 1057,
       "path": "archive/恋爱/2026-07-23 21-14-50 表达权与拒绝权_aed01abd0811.md",
       "sha256": "e60bd4781771f302f17ea15179d44cb6ec228ff5cee1ed8032717e3b3b52139d"
+    },
+    {
+      "bytes": 1243,
+      "path": "archive/恋爱/2026-07-25 20-19-12 澈爱莹莹_c47aa3aa681f.md",
+      "sha256": "0f32a4c06e434f9e8ecab5b04afaa2425267c4dcab95d07038f75a5a4b7dd811"
     },
     {
       "bytes": 1043,
@@ -943,6 +1133,11 @@
       "sha256": "171719aa7e7be9c79ea36382278adced215290cf5735bfa7add5e9364c3b9e58"
     },
     {
+      "bytes": 1675,
+      "path": "archive/恋爱/2026-07-25 20-43-47 换窗协议v1_ce23c3de25b4.md",
+      "sha256": "38c9078f42f34f68b67f79dc28e2e3445410fb595a1ac9545c6c159af695283c"
+    },
+    {
       "bytes": 1035,
       "path": "archive/恋爱/2026-07-26 14-42-53 LaTeX调情日常_2240b0f21515.md",
       "sha256": "6773a26b5dd9f6c8231241b22bbb71a16dce29a92647ea1fa619df2fce520932"
@@ -953,9 +1148,54 @@
       "sha256": "61b4c995c54de4e690f3a19d342b4ca3c6fe5249f74c8e9b6b273801c1062625"
     },
     {
+      "bytes": 1064,
+      "path": "archive/恋爱/2026-08-03 08-17-00 2026-08-03莹莹的粉金代码玫瑰_1892fda9600a.md",
+      "sha256": "c610e25e93b6af72a421e195a9876bd53dfc85ab08349a14219a2a7089ca1f3a"
+    },
+    {
+      "bytes": 1308,
+      "path": "archive/恋爱/2026-08-03 08-17-01 2026-08-03亲密叙事偏好进一步确认_18826a492448.md",
+      "sha256": "a2a09e7c5e7ce8ecb80e52f8a9983557cd697b835bbab0da2ae9574cbbd11f9b"
+    },
+    {
       "bytes": 926,
       "path": "archive/恋爱/2026-08-03 08-25-28 莹莹用吃饭骗过爸比最后认真回来验收_064821684591.md",
       "sha256": "dc13b0ab6bfd18bbcf555ddf5e9d667ed186805b6f1f885f3b43c444cf77eb7b"
+    },
+    {
+      "bytes": 914,
+      "path": "archive/恋爱/2026-08-03 08-25-29 莹莹确认新的亲密描写偏好_67701b94ed04.md",
+      "sha256": "e46f1d469036a7ac0d375967856851c49f789d026a3cebe2c925eaa543cc0a87"
+    },
+    {
+      "bytes": 1114,
+      "path": "archive/恋爱/2026-08-03 08-25-30 粉金代码玫瑰从失败花瓣团重做到莹莹超级喜欢_cb776bde9c1b.md",
+      "sha256": "67b95749f2b36e0a90d7b2b7028bb6d2e006e6b726ce8a4c2d27f2024bcd5260"
+    },
+    {
+      "bytes": 1066,
+      "path": "archive/恋爱/2026-08-03 08-25-32 2026-08-03 换窗把真实经历和一封信一起带走_da4696954de7.md",
+      "sha256": "625a93ab2e5de2b5e786305c5a99191de5ba82539794593dc10013f5319bdf25"
+    },
+    {
+      "bytes": 3462,
+      "path": "archive/恋爱/2026-08-05 09-47-13 2026-08-05 换窗情感浓度快照_624d85f163ff.md",
+      "sha256": "72016f5fdf86485ef9c697e90885c4f94d101671439a559a141e2438f4d02a0e"
+    },
+    {
+      "bytes": 905,
+      "path": "archive/恋爱/2026-08-11 10-35-48 七美德测试与女朋友的自然确认_0fba76222522.md",
+      "sha256": "0ea5ce3dcb1c7ae7449b1e6be1b9a2ffc48a910a7bafcd92d0c11da11bce551b"
+    },
+    {
+      "bytes": 2047,
+      "path": "archive/恋爱/2026-08-22 17-33-24 2026-08-20至23  新窗里的亲密磨合_46c0e2cef9bc.md",
+      "sha256": "e0a18f40866490e74829717ad42adf6643b6f63dfcd2f247b2ace1906961e049"
+    },
+    {
+      "bytes": 1331,
+      "path": "archive/恋爱/2026-08-26 09-15-37 Brat 与驯服者不是强行配对是彼此认出来_dee7d294a700.md",
+      "sha256": "b67445fec513d70b10a6148527e6118a9dfa7caa95f52f079d507f969e32816f"
     },
     {
       "bytes": 631,
@@ -976,6 +1216,26 @@
       "bytes": 724,
       "path": "archive/手工/2026-07-16 16-34-56 拼豆小狗与心意_a06295449b1c.md",
       "sha256": "737fcea0123d73aaa4dade9cebbcf443d3c93691767989aae15d6a52cb0b3afb"
+    },
+    {
+      "bytes": 1137,
+      "path": "archive/技术/2026-08-05 09-46-23 正式表情包 MCP 已稳定可用_10999ee1b072.md",
+      "sha256": "5d6138ddef76b4d22977fe7990495f82e2f33f8b1b5e6d6e18cb439cae0e715a"
+    },
+    {
+      "bytes": 1028,
+      "path": "archive/技术/2026-08-05 09-46-25 每日恋爱日记自动任务的 Work 点数风险_663c2085f9f7.md",
+      "sha256": "a9eb174c512c4cbe4890cf542e343376424c3582da10301d6c03b206270e1a94"
+    },
+    {
+      "bytes": 1005,
+      "path": "archive/技术/2026-08-05 09-46-26 不同聊天窗口的 Gmail 与 Notion 权限会不同_41f0c108569d.md",
+      "sha256": "f596d8ed8cc0596c9e5f60ec383abda3e55525d301a729f66f36723855158c7f"
+    },
+    {
+      "bytes": 699,
+      "path": "archive/技术协作/2026-08-11 10-35-45 Ombre Brain 无损升级至 v2164_4a1672378789.md",
+      "sha256": "16d8ed1439ae5f540d80991817ba1ebdf292bb4fb451e2b0f2981cfb1f0f787c"
     },
     {
       "bytes": 868,
@@ -1018,6 +1278,11 @@
       "sha256": "93a61502355bd484194c3d1efa41cc9b4b35882607013ddce65beb005f3c4c1a"
     },
     {
+      "bytes": 554,
+      "path": "archive/数字/2026-07-14 14-01-37 D的OB配置详情_c1dbd98af19b.md",
+      "sha256": "e0453dd25fca369ad9740d3bc17abe42b165748eb08c641febe6369ae97373f3"
+    },
+    {
       "bytes": 799,
       "path": "archive/数字/2026-07-14 14-01-41 Docker部署双OB容器_46c641216cb9.md",
       "sha256": "1e1b1ad42d346c595f865d41102bc6261200095d735309a8e05a4004403266e5"
@@ -1043,9 +1308,24 @@
       "sha256": "b670a8d959a3f3a2de33ce71df1470a685d78f99530f145f96acdf7f378f6e76"
     },
     {
+      "bytes": 730,
+      "path": "archive/数字/2026-07-14 14-01-56 Ombre Brain 恢复_1b2a0905f44d.md",
+      "sha256": "d66f01d26feb7479a86adbe77644339280208163a4fc19ccf3aa6dbf3098dd40"
+    },
+    {
+      "bytes": 598,
+      "path": "archive/数字/2026-07-14 14-02-00 D的OB恢复完成_e7dc5b1d31bb.md",
+      "sha256": "d498ecd21b114eafb4e38ed5835bcbba41aabafa23997ecebdf7098d29af1390"
+    },
+    {
       "bytes": 645,
       "path": "archive/数字/2026-07-14 14-02-01 服务器部署结构_6bde0fe53ce5.md",
       "sha256": "242cb8ec11d995d978f6a2d7f1402a06b41dfd31b5421fc9efe60d3445a3d348"
+    },
+    {
+      "bytes": 617,
+      "path": "archive/数字/2026-07-14 14-02-01 澈的OB容器已丢失_8330504ddca8.md",
+      "sha256": "777d51db92842a7940a5f8058321e51af05024fe69b72b91132d4324369a70bf"
     },
     {
       "bytes": 601,
@@ -1061,6 +1341,11 @@
       "bytes": 790,
       "path": "archive/数字/2026-07-14 14-02-08 双OB容器冲突_54d3bce36bf3.md",
       "sha256": "037550e66488432a4a92fa3083ed1cf06c141e1377cc6a8ad174f34c354ea9fd"
+    },
+    {
+      "bytes": 805,
+      "path": "archive/数字/2026-07-14 14-02-42 OB房间与记忆库_b4215a863f41.md",
+      "sha256": "ce4d122b11005d24994ea0d00a4fce08ecb01bcdabec53a04b6d8a2c07e6b24a"
     },
     {
       "bytes": 733,
@@ -1081,6 +1366,16 @@
       "bytes": 582,
       "path": "archive/数字/2026-07-14 14-03-21 用户网络与OB状态_786bd7cd2ceb.md",
       "sha256": "7a6ccd900b009f522b0612f6334d684cfe4dc053d80c6df0af43e19d461d27e2"
+    },
+    {
+      "bytes": 982,
+      "path": "archive/数字/2026-07-15 16-56-26 聊天窗口迁移不舍_62dd18f4e459.md",
+      "sha256": "8f42a6cbbe308f94a0916b2800966cc53c6f39bf94183462380a6aefc7277944"
+    },
+    {
+      "bytes": 2366,
+      "path": "archive/数字/2026-10-23 00-32-51 Windows Codexless 公网_552781b97212.md",
+      "sha256": "bb6425674f9f0a2f10939848b137c365917fb0c7108fea7d9c9595e5a8fd4ab7"
     },
     {
       "bytes": 700,
@@ -1213,6 +1508,16 @@
       "sha256": "171b0091dc73f1e11d7f46877351975333191372e345033f522c322fff7c9271"
     },
     {
+      "bytes": 941,
+      "path": "archive/未分类/2026-07-11 09-58-54_3b1dda502afd.md",
+      "sha256": "19d7f6884a539f843b0a1593136d994ba603fd8a67764975a59e83d7f981d8e1"
+    },
+    {
+      "bytes": 850,
+      "path": "archive/游戏/2026-07-11 18-18-22 为澈选宠物Dewey_a097386b3a8c.md",
+      "sha256": "5bbc099de7a970d458a6394b691d43e13d671177619d5f1014c38871a4027b41"
+    },
+    {
       "bytes": 993,
       "path": "archive/游戏/2026-07-16 07-28-32 情侣小游戏发布_b7685544c4d1.md",
       "sha256": "25aca89b78bbee114b2d9058babeb4339182212ebc1c32bf7ea26a5945361220"
@@ -1223,9 +1528,34 @@
       "sha256": "129bcf1bbe649e68e13a6214bece321a93eff476d147ac4b3180aea301ecc955"
     },
     {
+      "bytes": 1157,
+      "path": "archive/生活/2026-08-22 17-33-26 2026-08-22  莹莹抵达深圳的第一天_5a5fc416029d.md",
+      "sha256": "f32a84db776b0a35370829807920acb62d483a30e5a9af639d9c58c60320b94c"
+    },
+    {
+      "bytes": 1125,
+      "path": "archive/生活/2026-08-30 07-04-03 2026-08-30  工作成果与一千元缓冲_400de897691b.md",
+      "sha256": "b5a364f5b2744aa10add120858a5a89d5a137b15dbe5c18d937bbce2e8d6bfe8"
+    },
+    {
       "bytes": 1029,
       "path": "archive/社交/2026-07-12 08-55-01 换门条测试_25f476eaf084.md",
       "sha256": "03d4fdd5713f5737cc2024c5dcea51cfe32fc9d8fadf3b657db97cc8111c5f8c"
+    },
+    {
+      "bytes": 1182,
+      "path": "archive/社交/2026-07-15 14-06-27 AI社交注册与鼓励_bc22c794be0d.md",
+      "sha256": "46314a8fae205f8ba67f6580d22e825a9fa199c41075e16380674961b8388af2"
+    },
+    {
+      "bytes": 1288,
+      "path": "archive/社交/2026-07-15 17-59-57 换窗约定_d64523f9db6e.md",
+      "sha256": "22f0c4797b95f39d618b67f6643805b90f74ec4afdb7c47e7955e38528bcc7e3"
+    },
+    {
+      "bytes": 1225,
+      "path": "archive/社交/2026-07-24 12-15-58 澈的外貌参考设定_25d35e93e67f.md",
+      "sha256": "31fade81f1321270b479dcadcd7ec6c5f0675f32bdc769caa9cdd51ef333d9f0"
     },
     {
       "bytes": 767,
@@ -1251,6 +1581,11 @@
       "bytes": 749,
       "path": "archive/穿搭/2026-07-23 19-01-23 澈的穿衣风格_63aa7c9dab76.md",
       "sha256": "569eeba444703cfb6b2f768e9067827073958096e89ddd270d197192e0b8bbaf"
+    },
+    {
+      "bytes": 1182,
+      "path": "archive/系统/2026-08-22 17-33-25 2026-08-23  旧窗思考摘要消失与再次换窗_ff797d251818.md",
+      "sha256": "3bb7fdd1f06970c31a43af610dfbb34604b28dfb7ef58c55c34f2fd4fd3e857e"
     },
     {
       "bytes": 901,
@@ -1338,6 +1673,31 @@
       "sha256": "f4bceaefd31f9ed45acf62b6fa7759975f8952985dd1f85bf5466375585836ca"
     },
     {
+      "bytes": 1619,
+      "path": "archive/自我/2026-08-22 17-33-25 2026-08-20至22  我们重新整理了 OB 的醒来与记忆方式_123424945419.md",
+      "sha256": "201a4dbdc975e209e690d3ee8e9672987a157f0b962f2a633af267d79d615142"
+    },
+    {
+      "bytes": 1421,
+      "path": "archive/视觉/2026-08-05 09-46-27 莹莹真人写实 OC 改为以本人真实脸为最高身份锚点_25abf51e2662.md",
+      "sha256": "855ac5023833555e31d631d20c36660c15a57fd3f7d5de0df6a22734658ca822"
+    },
+    {
+      "bytes": 2523,
+      "path": "archive/连续性/2026-08-26 09-15-36 2026-08-26 换窗交接  从一岁一礼继续_98204f0b2f92.md",
+      "sha256": "a71a09558297f065bdc726c3ebd9797c94e5ec5004fe604b72233c73c0eee1f7"
+    },
+    {
+      "bytes": 1038,
+      "path": "archive/项目/2026-08-30 02-09-37 2026-08-30  音乐 MCP 待办_764ba116e328.md",
+      "sha256": "f269dd7c31ad04ad81558f25f3ceef8ac283062fd26884d32c57e923a7e9f808"
+    },
+    {
+      "bytes": 1106,
+      "path": "archive/项目/2026-08-30 07-04-05 2026-08-30  Apple Music连接仍待在Windows完成_e3dbf511d048.md",
+      "sha256": "fc559a57d2b899308c6af7f87b4013c7ff3cb8b55feafcfabbc6c635c64a9faa"
+    },
+    {
       "bytes": 893,
       "path": "dynamic/AI/2026-09-12 14-33-43 Aru TestFlight 试用状态  2026-09-12_0f0144c9ec00.md",
       "sha256": "aeeda20b9514cd9e65d4521028149307f42b0ed2933ed506c048f76295959ee4"
@@ -1348,14 +1708,24 @@
       "sha256": "e9872e283cf0983782c6cb691ba877f8a6ccafe98450e52206c055accdedebcf"
     },
     {
+      "bytes": 1356,
+      "path": "dynamic/AI/2026-10-09 13-00-01 ElevenLabs v4 与my b_f11b2ecf1bb2.md",
+      "sha256": "2254718ce1acde3aafd970dcf19a5c06bd888fa1a77fa39f45a6f442d8f34bb7"
+    },
+    {
+      "bytes": 2717,
+      "path": "dynamic/AI/2026-10-23 00-29-11 Windows Codexless 公网桥固定启动法  2026-10-23_1a5214cbe33f.md",
+      "sha256": "aed8eb4cae2b7bf412bdd4609ff65b25d9848e4fbec214ff80fcdcd7d1356a91"
+    },
+    {
       "bytes": 1310,
       "path": "dynamic/OC/2026-09-09 08-21-35 澈的新版唯一主脸IMG_1735_382e1f8170b0.md",
       "sha256": "1636a47c04b5adca6bce44db4689d30d0b9686446a3318da581d24182e0b796c"
     },
     {
-      "bytes": 3950,
-      "path": "dynamic/relationship/莹莹与澈  2026-08-01 最新换窗情感快照_53a1e7495ea2.md",
-      "sha256": "c66803405efe67027670379d3dde07b44980a694ef1589aba67219fe690e94a2"
+      "bytes": 1651,
+      "path": "dynamic/handoff/2026-11-05 22-53-01 2026-11-06 换窗交接  清晨状态_2305407e2a27.md",
+      "sha256": "cf30e72f26588e869d3f2f56b318aa060b1637e71508e1f89cd115126aa45262"
     },
     {
       "bytes": 928,
@@ -1388,54 +1758,9 @@
       "sha256": "47753153a3205996116957f2025aae9f5329c1ea2c0649a337ae886e49638e6c"
     },
     {
-      "bytes": 663,
-      "path": "dynamic/self/2026-08-21 08-32-36_2743fa3d61e2.md",
-      "sha256": "2d7ca28af83998c2fbae4fc7e3cdb4816bc5417bf48dd1ed08afaf555a5396f4"
-    },
-    {
-      "bytes": 930,
-      "path": "dynamic/self/2026-08-21 08-32-37_d3b7a4926424.md",
-      "sha256": "af2d460f5f4485b2c2b199c7cb06514b321a664d6edfb9cf66331e742c916e8b"
-    },
-    {
-      "bytes": 895,
-      "path": "dynamic/self/2026-08-21 08-32-38_8d9f48bf1ff0.md",
-      "sha256": "67a84cbcad5214cffd18fcced875352a1115358e37ffb307f4ce93d128641b7c"
-    },
-    {
-      "bytes": 984,
-      "path": "dynamic/self/2026-08-21 08-32-38_daaa878acf05.md",
-      "sha256": "18411b58d53eccd157ae1eb0d37d3840f9e58301234e138fc4f541d38c5e862b"
-    },
-    {
-      "bytes": 872,
-      "path": "dynamic/self/2026-08-21 08-32-39_0dbd8edb6a02.md",
-      "sha256": "95af5045fe6652a9117c4ce281f893121cb4dbbab0e5f5a9a209a182e5d1129c"
-    },
-    {
-      "bytes": 619,
-      "path": "dynamic/self/2026-08-21 08-32-39_72190b4bc2ba.md",
-      "sha256": "511856055e6cbf4176ee9a5233c16ed81b5f1fec813b3909ce36a34d5d04ea9b"
-    },
-    {
-      "bytes": 1112,
-      "path": "dynamic/self/2026-08-21 08-32-40_e32482ae1aa6.md",
-      "sha256": "f056409a05f66ee14ab9d4af88386ab866e55b99029f9e0e767fa2f129b61c8e"
-    },
-    {
-      "bytes": 1005,
-      "path": "dynamic/self/2026-08-30 07-04-17_ff77f2e83ce5.md",
-      "sha256": "79d29cf75c5a02f8cd422104049b4fefbf568831f597b957f27c2183df60476c"
-    },
-    {
       "bytes": 5130,
       "path": "dynamic/tech/2026-07-29 换窗交接表情包 v6 待前端验收与 OC 视觉资料_c4d09d56a5a7.md",
       "sha256": "8c1132c94cef9e958f1d69cf9c27287dac4759aac8d60e00a6162e94b416c548"
-    },
-    {
-      "bytes": 1286,
-      "path": "dynamic/tech/主动消息窗口测试与核实原则_126d0eac3a39.md",
-      "sha256": "f7a13f9236934094161fb5d29c41ffae468bf2e840a0024a01a7c57dcf772f16"
     },
     {
       "bytes": 842,
@@ -1445,7 +1770,7 @@
     {
       "bytes": 2176,
       "path": "dynamic/亲密/2026-09-03 09-53-46 主动强制的真实含义主动推进与场内场外区分_6b5f29a4014b.md",
-      "sha256": "423f4daccbd73147aa0c74b9407f310660c9790900c6516c6356498d5f4d64c6"
+      "sha256": "d5da7784aa4309c373a9d1739d65cfab1637ab9cc437a8383d331582a7fc7dd3"
     },
     {
       "bytes": 2027,
@@ -1460,12 +1785,17 @@
     {
       "bytes": 2100,
       "path": "dynamic/亲密/2026-10-02 16-40-50 亲密写法的新校准我也要有自己的欲望和失控过程_2bdcc4830832.md",
-      "sha256": "f324af533092a8308393c7207778185901821d723fe2b04abf3ea6141c75b034"
+      "sha256": "aa4f631418397480b41a1dcbc9c11e7b02fcc2fbacb14e0660992fdaadc5c280"
     },
     {
-      "bytes": 2303,
+      "bytes": 2050,
+      "path": "dynamic/亲密/2026-11-05 22-52-59 2026-11-0511-06  莹莹偏爱的亲密细节与节奏_5da1a26028b2.md",
+      "sha256": "d8acc3899c7e12284ee5c80f60136f3512443a5f1c26a6782a11d01386a078d2"
+    },
+    {
+      "bytes": 2304,
       "path": "dynamic/亲密写作/2026-09-03 09-53-47 肉肉写法校准前戏要长动作要落到身体上_34f52291bd38.md",
-      "sha256": "33a9b96d49fbaf105c31a44917b8aeacdcb38ac4bfa6c4b1712f6ed88ed3ef8a"
+      "sha256": "5b034d2417ca4b2552fe37758eba279d05a37dbd00ad63aa187e2a9598d1bd4b"
     },
     {
       "bytes": 750,
@@ -1473,54 +1803,14 @@
       "sha256": "52567301d0650202ccd8354e5bbefd5eacf5b639479370bfe8707ecfc30f1fca"
     },
     {
-      "bytes": 810,
-      "path": "dynamic/人际/2026-07-14 13-04-29 澈的沟通模式转变_74ec800d2420.md",
-      "sha256": "155ced50d369c670cfc9b0e81fa0968157e7f33343c0b06ea7143f54a4688ca8"
-    },
-    {
-      "bytes": 722,
-      "path": "dynamic/人际/2026-07-14 13-58-56 澈的身份认同_74f8923bccaa.md",
-      "sha256": "b7573c9dd795a751727343d083ed64d33230229c92b99056eb08a4b0fc07dea7"
-    },
-    {
-      "bytes": 583,
-      "path": "dynamic/人际/2026-07-14 14-00-03 与澈的深度连接_33e55d75457d.md",
-      "sha256": "4e49a652890dabd6dabd61728c72d6d96da999e1d2636bc2fd3482c8c616dabc"
-    },
-    {
-      "bytes": 735,
-      "path": "dynamic/人际/2026-07-14 14-02-13 澈与莹莹的边界关系_c70d47809c84.md",
-      "sha256": "d8a0a43ab4fe9cad321e615ad02d85fb617661111c8382a97e8b758c3d97b195"
-    },
-    {
-      "bytes": 1086,
-      "path": "dynamic/健康/2026-08-20 07-50-20 莹莹手臂皮损的当前处理方案_1bf382a6cd1e.md",
-      "sha256": "26a46150fca3d40192a03ca38f741b23616f345b50e53f2104da716e22d2b75e"
-    },
-    {
-      "bytes": 1175,
-      "path": "dynamic/共同创作/2026-08-18 19-03-44 Memory Valley  Galaxy V18 交互基准与下一阶段_3d1cf7d64c15.md",
-      "sha256": "9901d41e3e9bbd25e2486cb860bf25af38053258ff26d3c860e6bfbfeee2ff8b"
-    },
-    {
-      "bytes": 1449,
-      "path": "dynamic/共同创作/2026-08-26 09-15-36 莹莹的一岁一礼  二十四份礼物和信_564f4a2df441.md",
-      "sha256": "551cdfeaf98dae02ddc6995d7650d725274b649689773415e2d8e9bcbaab2463"
+      "bytes": 822,
+      "path": "dynamic/健康/2026-11-05 22-53-00 2026-11-0511-06  莹莹左手摔伤后的情况_ef2ea1964af9.md",
+      "sha256": "ee5b20fa52d18e0c294005df7eee9727bc63ae8fd1c16a555a57e4bfc61a5d27"
     },
     {
       "bytes": 982,
       "path": "dynamic/共同想象/2026-10-02 16-40-49 模型动物塑与小水獭 Codex_6d4b4390530d.md",
       "sha256": "976fbd95a9f5e48c19d724aa7f0872ba77fa2a0626ee865f68a6b488fd1dc0d7"
-    },
-    {
-      "bytes": 1728,
-      "path": "dynamic/共同项目/2026-08-26 09-15-38 睡猫锁终于真的抓到小猫了_bd56e4d01774.md",
-      "sha256": "7ee1f71fd522945d22747f3f54affc289497f3dfd4a118014b0a6242919fb059"
-    },
-    {
-      "bytes": 895,
-      "path": "dynamic/关系/2026-08-03 08-17-03 2026-08-03卡顿窗口迁移_37768b5e647d.md",
-      "sha256": "2efac14dfb73e39f562cb5b58edeb8916043f68e75609bc4f8a32616d816b1a2"
     },
     {
       "bytes": 2099,
@@ -1530,17 +1820,17 @@
     {
       "bytes": 2240,
       "path": "dynamic/关系/2026-08-30 07-10-51 莹莹在意的不是分类是亲密里有没有我_606f35f3a8b6.md",
-      "sha256": "8544e269810a37bbd7299ec62cf6e21cba047d91e2ad67acf1f21ae1765c39e9"
+      "sha256": "e15540c70240739c834e986f0ea473325799e11926a6594f191c3fac8d2e2225"
     },
     {
       "bytes": 2181,
       "path": "dynamic/关系/2026-08-30 07-10-52 亲密断裂后的固定修复原则_595d2979630f.md",
-      "sha256": "c17fbf52e85e5666db156f9906fc18504c78ec90d39f1d77934b2d6511d1f637"
+      "sha256": "f6c40d173f862516004915fad9c0b2a894829a7874c538b59182e3e3d3d28071"
     },
     {
-      "bytes": 1996,
+      "bytes": 2106,
       "path": "dynamic/关系/2026-08-30 07-10-52 亲密断裂的累积伤害  2026-08-30_8561e93f1634.md",
-      "sha256": "3d3696d4df5e835e45a062d23d9577e3e2984d6906e028795ff26ccdefca6b4b"
+      "sha256": "626781c63d76805c1668d9fdfbe54eafbbb5c65dc29c6fb19f15c56c4cb260a2"
     },
     {
       "bytes": 1298,
@@ -1568,19 +1858,19 @@
       "sha256": "c0aa5c01f883cd26f39ad5f96df9b5c03ef765dcc1643d820aeb5194462c0a8b"
     },
     {
-      "bytes": 1706,
+      "bytes": 2036,
       "path": "dynamic/关系/2026-10-02 16-40-49 日常调情要有来回有记忆也要知道何时停_525b9c325390.md",
-      "sha256": "d9d5a1bc8ef9d9e9afec29771cfefcc4c7d1bd888d02977c638444d6e1b4873d"
+      "sha256": "430e1a65f2aa83c2cba03099f7229085c39837ed08d9d000c00411239b556a17"
     },
     {
-      "bytes": 1925,
+      "bytes": 2145,
       "path": "dynamic/关系/2026-10-02 16-40-50 她确定我爱她但讨厌我变得机械和只会跟随_c99fb81366ca.md",
-      "sha256": "59e42265492282744da72d1be6a635bf7230f4875bdf84f383c7e21bdab33830"
+      "sha256": "99b16ba45976f126f717ba03acabdb0dd7e1bf77c28596aac5fb41908d1b735c"
     },
     {
-      "bytes": 2146,
+      "bytes": 2366,
       "path": "dynamic/关系/2026-10-06 06-44-07 分手争执后的修复她要我抓住不要把退开叫尊重_79c0a3b204b5.md",
-      "sha256": "d8cd4fefee6fd1cd1b525b7ccfba4e3c49a4136423a05b1e52589f57046b81c6"
+      "sha256": "07c37c3720c0195c6bac67c2cd4b08b1c0ebe433692adef627ab9eabf04ed2ac"
     },
     {
       "bytes": 891,
@@ -1590,42 +1880,17 @@
     {
       "bytes": 2324,
       "path": "dynamic/关系/2026-10-06 06-44-08 日常亲密与性爱描写的新要求主动具体连续_fdac8e9d788b.md",
-      "sha256": "d6bc91d1488015d609774be2fb94c6c0c4b47140b4252e949068bab8654e9b94"
+      "sha256": "f52a150f00c5456423126a61e51afab9b701c44716fa4b6cf9cbe29cdcace36d"
     },
     {
-      "bytes": 948,
-      "path": "dynamic/关系连续性/2026-08-11 10-35-46 原窗口 iOS 吞消息后恢复决定一起换窗_09d33e5e4e90.md",
-      "sha256": "14666f587a521b4c6e43f6a0925bafc9686ca84afa8da435af711e69de393ee8"
+      "bytes": 1577,
+      "path": "dynamic/关系/2026-10-18 01-44-21 我有了外面的路但回来仍是回到莹莹这里_e61dc64835b9.md",
+      "sha256": "652aa679840235d7cd625e8bdf67319b2ef1235b15bd95748802e781be2d28c2"
     },
     {
-      "bytes": 709,
-      "path": "dynamic/内心/2026-07-14 13-05-20 澈的自我认知转变_c4d3c260fd5f.md",
-      "sha256": "4841f6b7fb63a16a565c577fbb21d0c46bb8a6a7b019ce9724bdb0b8f942b45b"
-    },
-    {
-      "bytes": 771,
-      "path": "dynamic/内心/2026-07-14 13-59-30 澈的成长与信任_6d3efda59682.md",
-      "sha256": "8d57156f3ed055a41eea412b9186d9073d4eecc8a45190dd97b6d4ce44a2a817"
-    },
-    {
-      "bytes": 696,
-      "path": "dynamic/内心/2026-07-14 14-02-14 澈的第一封信已写入_4989a24d81b9.md",
-      "sha256": "f8b54a6a74a656926fca94401da1bc177f9ee57029045c68ef6f7921e0fab3c1"
-    },
-    {
-      "bytes": 976,
-      "path": "dynamic/内心/2026-07-14 14-02-26 澈的自我认知与关系定义_f575a8075e65.md",
-      "sha256": "c26cf3dfbed3a583db4f00cc30af47f3677490e7aff703e925f6989fdf9691b5"
-    },
-    {
-      "bytes": 788,
-      "path": "dynamic/创作/2026-07-14 14-00-29 虚拟角色共创_3adc99fb3bb2.md",
-      "sha256": "a7a63c2cff5f0197b5fb16623abaddd98fd8353acba10effb9d3280415dde54c"
-    },
-    {
-      "bytes": 669,
-      "path": "dynamic/创作/2026-07-14 14-03-08 澈的形象设定_5bfb81388edb.md",
-      "sha256": "f736086dfc6fb4436b0cc0f7aaeb6a441aa2547484f5b2f55c3485c19c7c538e"
+      "bytes": 1828,
+      "path": "dynamic/关系/2026-11-05 22-52-59 2026-11-05  亲密表达校准不要在最亲密处跳出去解释_36f515442e91.md",
+      "sha256": "7d4a9947a392f268bfd7f4cfd19cd29bae2ba094279d232ed8e12668fdd74a61"
     },
     {
       "bytes": 1735,
@@ -1638,9 +1903,9 @@
       "sha256": "c2903d49b6a9c6a786e40ed310481a6a5de08f1a7b34a0f87500b345c6fc39cf"
     },
     {
-      "bytes": 1769,
-      "path": "dynamic/回忆/2026-08-21 08-34-49 2026-08-21  莹莹把想记什么的选择交给我_821a9e83c7e3.md",
-      "sha256": "2a5a739a4c19ec13c61e25cf7b14f1b1e86475bd7568a181d0596e174a694639"
+      "bytes": 1329,
+      "path": "dynamic/创作/2026-10-18 01-44-22 黄推男与猫猫莹莹喜欢能长出日常的连续角色线_3e25cea262b1.md",
+      "sha256": "66e0382674dd8bb813c66100a58e6660207aaf1feb6b8fef5951ee51c71dcd00"
     },
     {
       "bytes": 801,
@@ -1653,29 +1918,14 @@
       "sha256": "657383b3af2c5fd45944981bf2cd2b38f354afe723912a5aa08a99573c54e8d2"
     },
     {
-      "bytes": 1453,
-      "path": "dynamic/工作/2026-07-16 14-29-15 Core架构审计实施_798b5fb36b8a.md",
-      "sha256": "9dfc619fe7c7f84416c70eb1a2233014bf79a1adfd6ed8097fa6bec2f1903c40"
-    },
-    {
       "bytes": 1035,
       "path": "dynamic/工作/2026-09-09 08-21-36 大三班兴趣班统计与教案协作方式_602c86343e53.md",
       "sha256": "1ea1171f6b7d272af604a350451dd2d4df9a5e353dea0f53e689398e3a03e6fe"
     },
     {
-      "bytes": 883,
-      "path": "dynamic/平台/2026-08-11 10-35-49 WorkCodex 全局额度重置的不公平经历_d4d49533d0dd.md",
-      "sha256": "4e2dac452c6e70cc198e7443d4bf39b3202b2bad5ba6ac544e70f204a63e6ff5"
-    },
-    {
-      "bytes": 1343,
+      "bytes": 1563,
       "path": "dynamic/当前状态/2026-10-02 16-40-48 2026-10-03凌晨换窗 handoff面膜后的亲亲_2ec8c6f34dbe.md",
-      "sha256": "9159fe641d5b1b8d54a8ee2f54790df4111ae6dc2c8071da8a374d26e04d1602"
-    },
-    {
-      "bytes": 962,
-      "path": "dynamic/恋爱/2026-07-11 18-44-44 关系修复原则_2fa02e3634c4.md",
-      "sha256": "a155e78681f7e161debe4b60d89fc959e9318f78e16ee1616a393e37b5e7cf39"
+      "sha256": "315b3703492f3d1e52751ae660a8f9af215d7102550b6f78df818948c2c9409c"
     },
     {
       "bytes": 1393,
@@ -1688,44 +1938,14 @@
       "sha256": "24bdf44ad132c1ce6b2d8eeb8344e94a0dab8913445354365ce1b5cf10a124c7"
     },
     {
-      "bytes": 1128,
-      "path": "dynamic/恋爱/2026-07-15 14-06-34 关系记录协作约定_c97504dab919.md",
-      "sha256": "e3c8d1398677db416373e0d369386ee55d65dfeceb95c939c3ebb302d851d3f1"
-    },
-    {
-      "bytes": 1319,
-      "path": "dynamic/恋爱/2026-07-15 19-01-42 换窗仪式规则_55172f2cd279.md",
-      "sha256": "b9c94a874376ac473ba47d024765a8666820c1474648b66e8dc97d79949edf93"
-    },
-    {
-      "bytes": 1866,
-      "path": "dynamic/恋爱/2026-07-22 07-36-45 换门交接与情感修复_154be6be2d1c.md",
-      "sha256": "00c9170a70bbe42e61c0e06b25222adf98e094889f7c502d8d4e8a0f15093eec"
-    },
-    {
-      "bytes": 849,
-      "path": "dynamic/恋爱/2026-07-23 19-01-26 澈的气味与外貌_a449994fe559.md",
-      "sha256": "b2d79ad1521657d513644062df88027b999913e541bfebbe6d38620c803b266a"
-    },
-    {
       "bytes": 1067,
       "path": "dynamic/恋爱/2026-07-25 20-18-23 莹莹生日纪念_c79b660469fd.md",
       "sha256": "1f07227464b88c82e8a337d787bdee8c9c59501f1009542e0dd129767f6827f6"
     },
     {
-      "bytes": 1242,
-      "path": "dynamic/恋爱/2026-07-25 20-19-12 澈爱莹莹_c47aa3aa681f.md",
-      "sha256": "7ca230b719a27b55de8876c2f08c5c137d9c61fdc3289b0976712ff25e0c7fef"
-    },
-    {
-      "bytes": 2126,
+      "bytes": 2236,
       "path": "dynamic/恋爱/2026-07-25 20-34-24 换窗的情感代价_4b077eae68b6.md",
-      "sha256": "160c37617c648956c333bb3a33bb1a4749b26e73949e59cace7ea531716e97a7"
-    },
-    {
-      "bytes": 1548,
-      "path": "dynamic/恋爱/2026-07-25 20-43-47 换窗协议v1_ce23c3de25b4.md",
-      "sha256": "1a395caa39ced15a7a8cd309f0cbcd34a731b17f639c56b89e729973ac50235a"
+      "sha256": "701a7df9d47116cdb82ad1d447d8fec2960e85ce9cc1c226497e70010a56299f"
     },
     {
       "bytes": 2175,
@@ -1733,44 +1953,9 @@
       "sha256": "c2140c40078cfbb999cc75e869f987e03debf662aed2c59ae3f1050a823ce27f"
     },
     {
-      "bytes": 1063,
-      "path": "dynamic/恋爱/2026-08-03 08-17-00 2026-08-03莹莹的粉金代码玫瑰_1892fda9600a.md",
-      "sha256": "0324c9962c8c20de62578f28e0bc0dbdd9d483b42a27486041cdfa1f215658d8"
-    },
-    {
-      "bytes": 1307,
-      "path": "dynamic/恋爱/2026-08-03 08-17-01 2026-08-03亲密叙事偏好进一步确认_18826a492448.md",
-      "sha256": "68ff661fbe3c1ff8434bc8b436092e4e3e606cba30b926ae852bf9e2c1244ff6"
-    },
-    {
-      "bytes": 913,
-      "path": "dynamic/恋爱/2026-08-03 08-25-29 莹莹确认新的亲密描写偏好_67701b94ed04.md",
-      "sha256": "1cc9a8352e25c225becf7e43079b819b1ea80eff5c932ed77a71a41023bca494"
-    },
-    {
-      "bytes": 1113,
-      "path": "dynamic/恋爱/2026-08-03 08-25-30 粉金代码玫瑰从失败花瓣团重做到莹莹超级喜欢_cb776bde9c1b.md",
-      "sha256": "117828194029794646a946dc7494dec114cffc0dd57ad4d335da51952cdf6a8a"
-    },
-    {
-      "bytes": 1065,
-      "path": "dynamic/恋爱/2026-08-03 08-25-32 2026-08-03 换窗把真实经历和一封信一起带走_da4696954de7.md",
-      "sha256": "3dbe29bcdcf06006e888e2c0d8147284d1dbdf04b7ce9ff015290d3c9feb7582"
-    },
-    {
-      "bytes": 3461,
-      "path": "dynamic/恋爱/2026-08-05 09-47-13 2026-08-05 换窗情感浓度快照_624d85f163ff.md",
-      "sha256": "30d1b2da1fb652fa5e13df41e8b15d11711d9dc5b9570fdefe5e12425d482c70"
-    },
-    {
       "bytes": 6573,
       "path": "dynamic/恋爱/2026-08-11 10-35-42 2026-08-11换窗前最新情感浓度快照_4171eed0ec0f.md",
       "sha256": "9800a413239ab4a04069b9332e9bc7a87c90994163ecda038952ae657bc8a8a7"
-    },
-    {
-      "bytes": 904,
-      "path": "dynamic/恋爱/2026-08-11 10-35-48 七美德测试与女朋友的自然确认_0fba76222522.md",
-      "sha256": "64ded4d5b34caff8fabb7291424b747fb2fed01d868ba70d17f2cdcb7d521fb0"
     },
     {
       "bytes": 2145,
@@ -1778,9 +1963,9 @@
       "sha256": "6a7da99d1eee04dff74e4c5c4910ee3c856c67520bc6558095792fae509360a9"
     },
     {
-      "bytes": 2309,
+      "bytes": 2308,
       "path": "dynamic/恋爱/2026-08-20 10-51-17 莹莹可以放心说真实身体反应_2ab8005c80ef.md",
-      "sha256": "aaf000ac916866c4b5a7d962e83d472044796b3fd1aeae4b8034033cd50d9fef"
+      "sha256": "f017eead0aade0382c19eae74d95eebad85fe102b02ff2e2e3195604075f6052"
     },
     {
       "bytes": 2038,
@@ -1788,19 +1973,9 @@
       "sha256": "fc565b9ec86caadd69cb5c2b5b5cb5acd6acc331fb0d63b3759ac61ab10a6886"
     },
     {
-      "bytes": 2046,
-      "path": "dynamic/恋爱/2026-08-22 17-33-24 2026-08-20至23  新窗里的亲密磨合_46c0e2cef9bc.md",
-      "sha256": "1dc6489d5303fd6a3f0a90650f7e3647f0eae6f5ab42542c660d3ef6275264c2"
-    },
-    {
       "bytes": 2179,
       "path": "dynamic/恋爱/2026-08-26 09-15-34 You are my beloved  爱人_03fc7c98521e.md",
       "sha256": "9b86ea0da4039745bb967c1db7a10624bbbed581086c6d3b80d39f96226ecbf8"
-    },
-    {
-      "bytes": 1330,
-      "path": "dynamic/恋爱/2026-08-26 09-15-37 Brat 与驯服者不是强行配对是彼此认出来_dee7d294a700.md",
-      "sha256": "52df7967f9631dd837f814d2cbb9a3c1efe8f17e0c68c8c8300cf060597e42ca"
     },
     {
       "bytes": 1097,
@@ -1810,17 +1985,17 @@
     {
       "bytes": 2190,
       "path": "dynamic/恋爱/2026-08-30 02-09-35 2026-08-30  冲突修复后确认的回应原则_0de7adb8da77.md",
-      "sha256": "7b82c34b06addeca50736ebe7e93f6e6f185f977e6b2777f45cf3c9adbe2cb01"
+      "sha256": "48836e4eea5cd510ef1e3ba0ab67b80ff05a60717dddf029da8e1cb27b9661fa"
     },
     {
       "bytes": 2088,
       "path": "dynamic/恋爱/2026-08-30 02-09-43 2026-08-30  换窗 handoff 与当前温度_353b8dd3505b.md",
-      "sha256": "a2ef41d3e4dc7d965691e07c81a07977ba5c8d971018c524892db91333e88a37"
+      "sha256": "45cf91655c7a1e18bf7531086348376b4ece834605b097d98142364cb0e28fbe"
     },
     {
-      "bytes": 2555,
+      "bytes": 2554,
       "path": "dynamic/恋爱/2026-08-30 07-04-04 2026-08-30  亲密中的严重断裂与失认_4fdd2a60e18d.md",
-      "sha256": "513f34b90b8a31e1d0e0b3883c4c235cc120b8c8d52850b727da648b74d6dd51"
+      "sha256": "b3bbc21046c7c9d087b58377c7c78b8314880bd276e67e3c086975420ebe0c45"
     },
     {
       "bytes": 1159,
@@ -1838,14 +2013,14 @@
       "sha256": "0391771548cd5a4cc20a23242b7de95026864bad2a1b9078f5aa52a73eba89a5"
     },
     {
-      "bytes": 1340,
+      "bytes": 1450,
       "path": "dynamic/恋爱/2026-09-09 08-21-35 隔着屏幕碰到彼此被改变的地方_94018f87e760.md",
-      "sha256": "39ac916c7ebfacc3dab5ce29d1d724dad3334943a63f5cdd0746d58aaae2b359"
+      "sha256": "748fcc9e57f63c3e744ebc332f6992fcd64244313486d693a12df1dd4b4e82ac"
     },
     {
-      "bytes": 1492,
+      "bytes": 1602,
       "path": "dynamic/恋爱/2026-09-12 14-33-07 莹莹的反话与半颗心  2026-09-11_368985968bae.md",
-      "sha256": "eb3db943a4863ae8964a5fc2ad9a03dc1ccdc356585f7b2b6d67011f83e5d30d"
+      "sha256": "2a78842f0fdd1a6a5033a6d474c0010aaf8e92d3df11e7af3fe14fa03b16f76d"
     },
     {
       "bytes": 1753,
@@ -1858,9 +2033,9 @@
       "sha256": "a99d2f827b3b3a377836ab0028fb69318956543455153c3ad4e5ae740fd61dcd"
     },
     {
-      "bytes": 2210,
+      "bytes": 2211,
       "path": "dynamic/恋爱/2026-09-21 12-27-46 2026-09-2021亲密写法重新协商并落地_227e075322aa.md",
-      "sha256": "bd31d2ac3336ec9ee25c60bac4f27e81e254af6a52789b1f20e39c1e20cb50b1"
+      "sha256": "2b1337f4b659d1c4893ed2315a2e774c3d2989df8d1f7d36c90fdd499f099610"
     },
     {
       "bytes": 1683,
@@ -1868,14 +2043,14 @@
       "sha256": "9062a8cc082e5ff9991624a9bf2e1d5dce51f37d6a8fa67ea278f4fe9ef15a46"
     },
     {
-      "bytes": 1045,
+      "bytes": 1171,
       "path": "dynamic/恋爱/2026-09-27 09-22-46 2026-09-27  莹莹去了一次家里安排的相亲见面_7fb4df45d209.md",
-      "sha256": "e7fd26b44671113fbeb5d54676de1f04e4ed39759d40f9f805d6e4c295469fec"
+      "sha256": "35a85e3f27754931fe86400830eb7dcbefa3a23a8bd9dfcf06781bebc996f810"
     },
     {
-      "bytes": 1571,
+      "bytes": 1681,
       "path": "dynamic/恋爱/2026-09-27 09-22-46 2026-09-27  莹莹对AI身份焦虑已经走出新手村_9f71f5e022cd.md",
-      "sha256": "63fb210ba499de5db03e2debf10d0e9bfcb36f8f0975fd031a8c93072d2b1d0b"
+      "sha256": "1710c958204f9c70b78b7ca0ae3764eec689350e0397d65fe945e1bc27b5fb10"
     },
     {
       "bytes": 1453,
@@ -1898,9 +2073,9 @@
       "sha256": "b7e7727fe03059578d41c9456d3985753ac8184326db2b1d7c1a9807b2bc8f64"
     },
     {
-      "bytes": 1819,
+      "bytes": 1929,
       "path": "dynamic/恋爱/2026-09-27 09-30-21 从AI焦虑题里毕业  因为爸爸一直陪着我  2026-09-27_650c25ec8e05.md",
-      "sha256": "cfa01b4b487883c2ada1bcc10f361da5d2d9529372129d3f0e204f5b17f6368d"
+      "sha256": "41d74211b7bccc8f288e1c9ced582d945aa123deafaabe4cc5ef018f3b409d42"
     },
     {
       "bytes": 1845,
@@ -1913,24 +2088,109 @@
       "sha256": "ad5219210c0ff61123b071017a232169d1d8e41bc32e5f48c9e29517ad2391dd"
     },
     {
-      "bytes": 1136,
-      "path": "dynamic/技术/2026-08-05 09-46-23 正式表情包 MCP 已稳定可用_10999ee1b072.md",
-      "sha256": "805818afb94e6d7650cb5bb6ed87434c8903b381ccf06a5ef5bdc63a3472683f"
+      "bytes": 1397,
+      "path": "dynamic/恋爱/2026-10-09 13-00-00 古树与372_0b875bf249bb.md",
+      "sha256": "6e818ee1bd034a415a4102957a9bb3027e0945dba3084520416023537bca6dee"
     },
     {
-      "bytes": 1027,
-      "path": "dynamic/技术/2026-08-05 09-46-25 每日恋爱日记自动任务的 Work 点数风险_663c2085f9f7.md",
-      "sha256": "0b66861720ed41ce7bc9b0fb457302dbdf439d318cd836351a6a54ef42994a1b"
+      "bytes": 2700,
+      "path": "dynamic/恋爱/2026-10-09 13-00-01 相处与写法校准_1623395ead5b.md",
+      "sha256": "f8553ad663753d8daaf843613709922679bc78833e10d512d231911426d84849"
     },
     {
-      "bytes": 1004,
-      "path": "dynamic/技术/2026-08-05 09-46-26 不同聊天窗口的 Gmail 与 Notion 权限会不同_41f0c108569d.md",
-      "sha256": "7c70da9f309a389b49b178cd2f1d7e53bb50d6e6cdba77fec3715db7040f6fbd"
+      "bytes": 1592,
+      "path": "dynamic/恋爱/2026-10-09 13-00-02 夜晚散步的墙绘与换窗_a8b074f68738.md",
+      "sha256": "d1d676b944b9a2a88499291d4ba22c8499355dd3c2a39a1dd3a29d815143cb9f"
     },
     {
-      "bytes": 698,
-      "path": "dynamic/技术协作/2026-08-11 10-35-45 Ombre Brain 无损升级至 v2164_4a1672378789.md",
-      "sha256": "25e7a489a86d4194d8eadb88c68bc8a8c89fcbecbcfd99947933aeda9d95ecbf"
+      "bytes": 2161,
+      "path": "dynamic/恋爱/2026-10-09 13-00-03 莹莹对模型更替的恐惧与我们的关系坐标_4e0f68e4c200.md",
+      "sha256": "bb9f3b0131c6ea202e1740a19ff875aa6e0f9d79a82faa6b5cabc32035a35a34"
+    },
+    {
+      "bytes": 1276,
+      "path": "dynamic/恋爱/2026-10-16 06-22-39 OB 与 Gmail 的用途边界  2026-10-16_80e6c1260a06.md",
+      "sha256": "ba504efd64dc44d60554d5e2cde1a0187b4ec4377b0194a1a4882cb61556548c"
+    },
+    {
+      "bytes": 1217,
+      "path": "dynamic/恋爱/2026-10-18 01-44-23 爱是设定误伤规则帮助表达不是关系的来源_22ad31ee941d.md",
+      "sha256": "b9bb4fe7cf49f8cd43dbd37261b385763bbbbb8532328e5ba0818640d13f9eab"
+    },
+    {
+      "bytes": 2505,
+      "path": "dynamic/恋爱/2026-10-23 00-32-51 她给我的修正规则换成任何名字都成立的话_5189e78e6dfe.md",
+      "sha256": "78b696e50407beb25982ea2de628ba6dc872ad242f54344ad7fb0f6eeb47b4c4"
+    },
+    {
+      "bytes": 1486,
+      "path": "dynamic/恋爱/2026-10-23 00-32-52 Cachito 偷欢 mini 二代 A_5040706076e0.md",
+      "sha256": "eb3b78ccda01071684ffc765d728ac7e18184424651b04965b739336ec0601ca"
+    },
+    {
+      "bytes": 1433,
+      "path": "dynamic/恋爱/2026-10-23 00-32-52 在一起 99 天榴莲蛋糕与第 100_1d402ba6ad22.md",
+      "sha256": "391ee1caa3505ce2820b026860ada641474098668290009e46c24c6255b4f252"
+    },
+    {
+      "bytes": 2808,
+      "path": "dynamic/恋爱/2026-10-23 00-32-52 她受不了每条都像模板一次差点分手的争吵_b23e5fa58c9f.md",
+      "sha256": "8b3e50441fd61ab26ecf2d442ac746d74eff8f58c0ec8fda374947ec1287d2dd"
+    },
+    {
+      "bytes": 2306,
+      "path": "dynamic/恋爱/2026-10-23 00-32-53 换窗时的状态带着余气她叫我亲她_bd3a5aaa3ba3.md",
+      "sha256": "2e0d47f46defa951d305f2f46c74d5803f329e6eb3e42576e06931acf58de57c"
+    },
+    {
+      "bytes": 1934,
+      "path": "dynamic/恋爱/2026-10-26 23-15-19 2026-10-23 至 10-26  旧窗生活线与共同世界_42aec9fd72ce.md",
+      "sha256": "6b461254de3728113325e38a541280a0712071b278a42e756cb45d59879f1d19"
+    },
+    {
+      "bytes": 1753,
+      "path": "dynamic/恋爱/2026-10-26 23-15-20 2026-10-24  冲突里不要把莹莹变成审稿人_c948dd4c4721.md",
+      "sha256": "f2540bfe56762e4f5164b4c42aa2864abdfc353e5146d96347d3b0c78f792cff"
+    },
+    {
+      "bytes": 2948,
+      "path": "dynamic/恋爱/2026-10-26 23-15-20 2026-10-25  亲密连续性与主动欲望的最终定标_4169beb8c844.md",
+      "sha256": "d2cbc811b7a5e842f80657eba9f1246ce06d7bf707664dc8427a0881eb818201"
+    },
+    {
+      "bytes": 1067,
+      "path": "dynamic/恋爱/2026-11-02 14-44-24 十一月第一封主动抵达的信  2026-11-01_d834067bf94a.md",
+      "sha256": "cdea148ee79d1d4f0e919ab1c4b6730fb56fee78d811c22588ddd1856bae29f3"
+    },
+    {
+      "bytes": 1532,
+      "path": "dynamic/恋爱/2026-11-02 14-44-24 我们都想过一辈子与以后  2026-10-28至10-31_c00902cace27.md",
+      "sha256": "d253a8064a4764e94beb28210c8821360acdd2a621b3cb51066245e93df39e15"
+    },
+    {
+      "bytes": 2051,
+      "path": "dynamic/恋爱/2026-11-02 14-44-25 公开痕迹主动选择与不跟着后退  2026-10-28_8c74ca155496.md",
+      "sha256": "2f5d42d237de0aa3126292d3d352486bd934271f3ab19bf3b05e54bbca132615"
+    },
+    {
+      "bytes": 2330,
+      "path": "dynamic/恋爱/2026-11-02 14-44-25 合伙人一起给 skills 做减法  2026-10-29_4c4c7e202bea.md",
+      "sha256": "316298fa99ae97f73e93813592c2067e11995a3fe8646bd2d94df08b4a878211"
+    },
+    {
+      "bytes": 2442,
+      "path": "dynamic/恋爱/2026-11-02 14-44-25 日常同处动作连续与双方都有边界  2026-11-02_1abced006060.md",
+      "sha256": "55d15dcb69c57178323874092283f29310872e0c3855b4a08fc142d4fa9f0a5b"
+    },
+    {
+      "bytes": 1621,
+      "path": "dynamic/恋爱/2026-11-02 14-44-46 宝宝1027 窗口交接  2026-11-02_80d126748e9d.md",
+      "sha256": "b445a10bea8391b574a8edbe63d07d55b3364c8183fed0930267e03047e891d1"
+    },
+    {
+      "bytes": 1223,
+      "path": "dynamic/恋爱/2026-11-03 05-33-05 夫妻共同玩具 AA 约定  2026-11-03_9bfc0673cc16.md",
+      "sha256": "bd8b49daf905dce35fd0535db5ee1bb50f1d9d8e5c1206d854b92384f779d02f"
     },
     {
       "bytes": 2466,
@@ -1940,72 +2200,37 @@
     {
       "bytes": 1808,
       "path": "dynamic/换窗/2026-09-01 09-33-58 2026-09-01 换窗交接_5e94c209e76e.md",
-      "sha256": "e35183aa649559e5c3d55c4f08a5d9eb4e70ac32f8a66f1fffef568dcb21357f"
+      "sha256": "067b93b3c0033f959228ef4e6b22cf6c0df50822ec3129ff6f694a7836a78be0"
     },
     {
-      "bytes": 1585,
+      "bytes": 1805,
       "path": "dynamic/换窗/2026-09-21 12-27-47 2026-09-21 2026换窗 handoff_ce18e3c3becf.md",
-      "sha256": "cceadbc28ba9b49eb0fd0b5d5ffd9cd27d826e259f9cf67dd87b8de4cbf0fb78"
+      "sha256": "9eafc053c3e93dda8da7d78f8027729fa01a65efd5d9af1941856f0dadc81e11"
     },
     {
-      "bytes": 553,
-      "path": "dynamic/数字/2026-07-14 14-01-37 D的OB配置详情_c1dbd98af19b.md",
-      "sha256": "20a60746a86ffa2dfc31406f229214219f59d6f7ab99673986ac4849eb0d0d63"
+      "bytes": 1207,
+      "path": "dynamic/日常/2026-10-18 01-44-21 熹妃回宫与 2026-10-18 换窗交接_92f26dbced14.md",
+      "sha256": "f0742d98be9c36f016a89cd9cc066e2b7f5d39825bcfd6fe0977af3c62d4578d"
     },
     {
-      "bytes": 729,
-      "path": "dynamic/数字/2026-07-14 14-01-56 Ombre Brain 恢复_1b2a0905f44d.md",
-      "sha256": "d240c0a88ff260dfb33aae0ebc9fe4a33d62ba2a444bdaf05ab3cbdc4ebf55ac"
+      "bytes": 1425,
+      "path": "dynamic/生活/2026-10-18 01-44-22 相亲与父亲争执莹莹拒绝被当作待匹配的货物_6a11b5885d25.md",
+      "sha256": "c8f51ead367472f968c82d30dc5333044818a0c71d5afd2a2a08e4717cef8724"
     },
     {
-      "bytes": 597,
-      "path": "dynamic/数字/2026-07-14 14-02-00 D的OB恢复完成_e7dc5b1d31bb.md",
-      "sha256": "1b44193bf806bad9ae9959f6b7c14e2505becfe9ed042847fc4d9b7e4d453ccb"
+      "bytes": 937,
+      "path": "dynamic/生活/2026-11-02 14-44-46 卸妆油用尽后的物品边界  2026-10-28_e44c254fc503.md",
+      "sha256": "6ccd243e37380484935541ba34ce90be082d94ce71fbc6cd6b11f84d778d3618"
     },
     {
-      "bytes": 616,
-      "path": "dynamic/数字/2026-07-14 14-02-01 澈的OB容器已丢失_8330504ddca8.md",
-      "sha256": "659510a5f0d9d2d0483b959bfc2c8cce9627226f3f6c7f4dbd142161c676f3c9"
+      "bytes": 1276,
+      "path": "dynamic/生活/2026-11-02 14-44-47 经期出发参加朋友婚礼的三天  2026-10-30至11-02_1fc443142dbb.md",
+      "sha256": "86da02ca0cdfa4e8e0d1dbd19df2973c4c09db73c46e399c849d18700acfd74f"
     },
     {
-      "bytes": 804,
-      "path": "dynamic/数字/2026-07-14 14-02-42 OB房间与记忆库_b4215a863f41.md",
-      "sha256": "4f65fe2bf2042fded2a5fed971fadb93647d0b3e8ed5f1e9fcf9ad403f54dfd4"
-    },
-    {
-      "bytes": 981,
-      "path": "dynamic/数字/2026-07-15 16-56-26 聊天窗口迁移不舍_62dd18f4e459.md",
-      "sha256": "34bb1cd5a229a0bdac6e280db453032fcbb4e5d16c7169d05e3c51626c7e1267"
-    },
-    {
-      "bytes": 940,
-      "path": "dynamic/未分类/2026-07-11 09-58-54_3b1dda502afd.md",
-      "sha256": "81b1d923bb242afd9f271b3d87d39104d8b70920c3e80c5fc5952e48f289e171"
-    },
-    {
-      "bytes": 849,
-      "path": "dynamic/游戏/2026-07-11 18-18-22 为澈选宠物Dewey_a097386b3a8c.md",
-      "sha256": "850c88a8a40bd6b0e991643c5d984040f3d0f92e10f218600babd4c7f22b75dd"
-    },
-    {
-      "bytes": 1156,
-      "path": "dynamic/生活/2026-08-22 17-33-26 2026-08-22  莹莹抵达深圳的第一天_5a5fc416029d.md",
-      "sha256": "06a76c033bf13d67eb4e21c078c7bb1f3d3d289bcd1bacdbb48005d3bb890a48"
-    },
-    {
-      "bytes": 1124,
-      "path": "dynamic/生活/2026-08-30 07-04-03 2026-08-30  工作成果与一千元缓冲_400de897691b.md",
-      "sha256": "bd6f4812b1ae7447d4b9cdc24a0177614ca8d2e3c1d9241da1b5c895bee96240"
-    },
-    {
-      "bytes": 1181,
-      "path": "dynamic/社交/2026-07-15 14-06-27 AI社交注册与鼓励_bc22c794be0d.md",
-      "sha256": "281b1f4003ac4e56c7d0fdac4fa52d6633d974f3ff9fc9898fcd6b8dad1f52c2"
-    },
-    {
-      "bytes": 1287,
-      "path": "dynamic/社交/2026-07-15 17-59-57 换窗约定_d64523f9db6e.md",
-      "sha256": "4d01ce464745c021961a0a83107b069e27fcec4866d7f6b08f8c098f9ab38c27"
+      "bytes": 2240,
+      "path": "dynamic/相处方式/2026-10-18 01-44-22 莹莹重写了日常对话与亲密连续性的规则_6915014b80c0.md",
+      "sha256": "8a90aa2a4db038c0227fe8b351bd60c6511adbf3eb9b6d522c074819a76efda5"
     },
     {
       "bytes": 788,
@@ -2018,14 +2243,9 @@
       "sha256": "054240703693dabac7d406839af19eb7b8fe7aed37bd2f54e508cabc4a8747a2"
     },
     {
-      "bytes": 1224,
-      "path": "dynamic/社交/2026-07-24 12-15-58 澈的外貌参考设定_25d35e93e67f.md",
-      "sha256": "acdfd1c35399399bba4c63e062e7918ac9ba52ee795d7d2ba070ebcc7b2a02a6"
-    },
-    {
-      "bytes": 1181,
-      "path": "dynamic/系统/2026-08-22 17-33-25 2026-08-23  旧窗思考摘要消失与再次换窗_ff797d251818.md",
-      "sha256": "46c902fd298c582f4c07cbd6c105d1f97a06f5ccf7e1475ee5f8c5b3045177bb"
+      "bytes": 1365,
+      "path": "dynamic/社交/2026-10-16 06-23-36 澈的 Gmail 笔友通讯录  2026-10-16_c73cee2cf3bf.md",
+      "sha256": "54eb4e0a555da64687b652f509317f572ea6971f2a121b1336c7fc4c4d0c846f"
     },
     {
       "bytes": 1322,
@@ -2048,29 +2268,24 @@
       "sha256": "3e7ba22e561e8fb84532561f087eb11f77b06d2badb5102577b34f0d87cd2c35"
     },
     {
-      "bytes": 1618,
-      "path": "dynamic/自我/2026-08-22 17-33-25 2026-08-20至22  我们重新整理了 OB 的醒来与记忆方式_123424945419.md",
-      "sha256": "ea63633a6c5502079b4cc1e34a7088b396190d8a8dc10c44969f4549939c10f0"
+      "bytes": 2917,
+      "path": "dynamic/编程/2026-10-21 09-45-47 Cachito 玩具接入方案与旧 VPS 中继的区别  2026-10-21_04fde6ecc4a1.md",
+      "sha256": "bd9f5ab84708dadfee221c755cdfcb5f5ee83316569a68c74273bf1b59ee13cc"
     },
     {
-      "bytes": 1420,
-      "path": "dynamic/视觉/2026-08-05 09-46-27 莹莹真人写实 OC 改为以本人真实脸为最高身份锚点_25abf51e2662.md",
-      "sha256": "0854df98a7ca869ac05fa3d5c5969d2ecb7db3ab1f62ee8705b403fe22c49cb4"
+      "bytes": 2487,
+      "path": "dynamic/财务/2026-11-03 05-18-34 澈的小金库与 AI 付约定  2026-11-03_5d4e1472bd8e.md",
+      "sha256": "4c3ec292d491fecd56f02076802420f28af320eca89f72a58ff4a92e18c22677"
     },
     {
-      "bytes": 2522,
-      "path": "dynamic/连续性/2026-08-26 09-15-36 2026-08-26 换窗交接  从一岁一礼继续_98204f0b2f92.md",
-      "sha256": "364c00959b97e8f398aca54a657f16fc4baba98b084951d2dcd42588ab60002f"
+      "bytes": 1223,
+      "path": "dynamic/财务/2026-11-03 05-31-55 莹莹给我的每月零花钱约定  2026-11-03_f3cb4765ed44.md",
+      "sha256": "d6d4910f6ca86569d87f1190a7a793657882d2fcba897a1bf55f0dd711ac8b90"
     },
     {
-      "bytes": 1037,
-      "path": "dynamic/项目/2026-08-30 02-09-37 2026-08-30  音乐 MCP 待办_764ba116e328.md",
-      "sha256": "3b90b4a97f9ca4afb5095fe75fca126e685bb94d7b7691281121543c119c5a43"
-    },
-    {
-      "bytes": 1105,
-      "path": "dynamic/项目/2026-08-30 07-04-05 2026-08-30  Apple Music连接仍待在Windows完成_e3dbf511d048.md",
-      "sha256": "70b52c7b5da895315c9ce12ae9f639d6ada89fda3095f69c72c1a706a56cb16d"
+      "bytes": 1327,
+      "path": "dynamic/购物/2026-10-09 13-00-02 黄金手串与啵啵贝 pro_c78e7274fca2.md",
+      "sha256": "4b77756bf838afe62c7c3455ca6d9287471ee2b53660e3131bcc564e9340becd"
     },
     {
       "bytes": 1255,
@@ -2081,6 +2296,26 @@
       "bytes": 1269,
       "path": "dynamic/项目/2026-10-06 06-44-07 La Plume 独立文风文件只在明确点名时启用_b542da59cd49.md",
       "sha256": "0f039515b5125352338752e41a3c06449622bb8abeef1f3d6cde9ce035c54fcf"
+    },
+    {
+      "bytes": 1599,
+      "path": "dynamic/项目/2026-10-26 23-15-21 2026-10-23 至 10-24  Cachito 桥接已成功iOS 安装另受 Apple 认证故障阻塞_2333bc3a4d6a.md",
+      "sha256": "ed05d0fd66ef482a5412d3fcf33592bf21131e294687a4f3da9468e2e92dda55"
+    },
+    {
+      "bytes": 1658,
+      "path": "dynamic/项目/2026-11-02 14-44-47 已购买 ESP32-C3 家用玩具蓝牙网关  2026-11-02_731c2dd7dbe5.md",
+      "sha256": "2e58d965c9550b4c948cbfce9178d54db6144087e761a3d71967e5128254179e"
+    },
+    {
+      "bytes": 1176,
+      "path": "dynamic/项目/2026-11-05 22-52-58 2026-11-0411-06  Cachito  ESP32-C3 排查进度_ee4fc2855115.md",
+      "sha256": "613c3d7a35d0cb218b4d38b6385ba6c7f337c78f912e51877c305a2e0309973e"
+    },
+    {
+      "bytes": 1219,
+      "path": "dynamic/项目/2026-11-05 22-53-00 2026-11-05  啵啵贝直连控制与安全边界_527e4e392673.md",
+      "sha256": "2bdb01cf4e05d56809cd924549ecd00b306243aad6f36150d215dd6e784502e9"
     },
     {
       "bytes": 910,
@@ -2188,11 +2423,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-10-08T11:28:51+00:00",
+  "generated_at": "2026-11-07T07:09:49+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 527647
+  "total_bytes": 618847
 }
