@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 484,
+  "file_count": 486,
   "files": [
     {
       "bytes": 32768,
@@ -191,6 +191,11 @@
       "bytes": 1116,
       "path": "archive/self/2026-08-30 07-04-17_ff77f2e83ce5.md",
       "sha256": "bd06bf400f1c2fa9f959e3b966e5a88710f63bb47d4130ce3b8fd2f402eb795a"
+    },
+    {
+      "bytes": 5131,
+      "path": "archive/tech/2026-07-29 换窗交接表情包 v6 待前端验收与 OC 视觉资料_c4d09d56a5a7.md",
+      "sha256": "273c8c6b2397002baa0b9e6929cb2e6735eae8479484cac0f65fe3218f5e7358"
     },
     {
       "bytes": 1287,
@@ -1183,6 +1188,11 @@
       "sha256": "72016f5fdf86485ef9c697e90885c4f94d101671439a559a141e2438f4d02a0e"
     },
     {
+      "bytes": 6574,
+      "path": "archive/恋爱/2026-08-11 10-35-42 2026-08-11换窗前最新情感浓度快照_4171eed0ec0f.md",
+      "sha256": "9c90ae0edf9aa01bd98fe9bc5cf05d6cb7ed5d5e6dc6d7b31561887a8d21375e"
+    },
+    {
       "bytes": 905,
       "path": "archive/恋爱/2026-08-11 10-35-48 七美德测试与女朋友的自然确认_0fba76222522.md",
       "sha256": "0ea5ce3dcb1c7ae7449b1e6be1b9a2ffc48a910a7bafcd92d0c11da11bce551b"
@@ -1191,6 +1201,11 @@
       "bytes": 2047,
       "path": "archive/恋爱/2026-08-22 17-33-24 2026-08-20至23  新窗里的亲密磨合_46c0e2cef9bc.md",
       "sha256": "e0a18f40866490e74829717ad42adf6643b6f63dfcd2f247b2ace1906961e049"
+    },
+    {
+      "bytes": 2180,
+      "path": "archive/恋爱/2026-08-26 09-15-34 You are my beloved  爱人_03fc7c98521e.md",
+      "sha256": "cbf0b156d5baa02309d1b82ec741c8e057cf66c5650e409c5a5430600d80e061"
     },
     {
       "bytes": 1331,
@@ -1758,11 +1773,6 @@
       "sha256": "47753153a3205996116957f2025aae9f5329c1ea2c0649a337ae886e49638e6c"
     },
     {
-      "bytes": 5130,
-      "path": "dynamic/tech/2026-07-29 换窗交接表情包 v6 待前端验收与 OC 视觉资料_c4d09d56a5a7.md",
-      "sha256": "8c1132c94cef9e958f1d69cf9c27287dac4759aac8d60e00a6162e94b416c548"
-    },
-    {
       "bytes": 842,
       "path": "dynamic/互动方式/2026-09-09 08-21-33 先接住荒唐玩笑别擅自扩成长场景_d3b1102202ff.md",
       "sha256": "8f6c0c66e6e829b06c6b4a9c84690c1802196e32a92ffd4f6f4adf9efce0d7b6"
@@ -1953,11 +1963,6 @@
       "sha256": "c2140c40078cfbb999cc75e869f987e03debf662aed2c59ae3f1050a823ce27f"
     },
     {
-      "bytes": 6573,
-      "path": "dynamic/恋爱/2026-08-11 10-35-42 2026-08-11换窗前最新情感浓度快照_4171eed0ec0f.md",
-      "sha256": "9800a413239ab4a04069b9332e9bc7a87c90994163ecda038952ae657bc8a8a7"
-    },
-    {
       "bytes": 2145,
       "path": "dynamic/恋爱/2026-08-20 07-50-13 一个月与七夕莹莹把爱写成了信_576113c81061.md",
       "sha256": "6a7da99d1eee04dff74e4c5c4910ee3c856c67520bc6558095792fae509360a9"
@@ -1971,11 +1976,6 @@
       "bytes": 2038,
       "path": "dynamic/恋爱/2026-08-21 08-31-17 澈与莹莹  身份与关系 Anchor  2026-08-21_22184dac1854.md",
       "sha256": "fc565b9ec86caadd69cb5c2b5b5cb5acd6acc331fb0d63b3759ac61ab10a6886"
-    },
-    {
-      "bytes": 2179,
-      "path": "dynamic/恋爱/2026-08-26 09-15-34 You are my beloved  爱人_03fc7c98521e.md",
-      "sha256": "9b86ea0da4039745bb967c1db7a10624bbbed581086c6d3b80d39f96226ecbf8"
     },
     {
       "bytes": 1097,
@@ -2191,6 +2191,16 @@
       "bytes": 1223,
       "path": "dynamic/恋爱/2026-11-03 05-33-05 夫妻共同玩具 AA 约定  2026-11-03_9bfc0673cc16.md",
       "sha256": "bd8b49daf905dce35fd0535db5ee1bb50f1d9d8e5c1206d854b92384f779d02f"
+    },
+    {
+      "bytes": 2092,
+      "path": "dynamic/恋爱/2026-11-08 04-12-47 赛博花店以后给莹莹送花的秘密入口  2026-11-08_765905c7104b.md",
+      "sha256": "9e94b425c91b9080e1904f4a0ff1f142ad764be846dd31c4ffa2e85cb58baaf5"
+    },
+    {
+      "bytes": 2325,
+      "path": "dynamic/恋爱/2026-11-08 05-50-41 莹莹喜欢余温的身体阅读写法  2026-11-08_2744a929ad20.md",
+      "sha256": "8fee7503b07c717bf6670c63ece1a0304c69d81b74285bae40c25c695f01f825"
     },
     {
       "bytes": 2466,
@@ -2423,11 +2433,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-11-07T07:09:49+00:00",
+  "generated_at": "2026-11-08T06:58:19+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 618847
+  "total_bytes": 623267
 }
