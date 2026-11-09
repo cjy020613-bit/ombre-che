@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 486,
+  "file_count": 493,
   "files": [
     {
       "bytes": 32768,
@@ -11,6 +11,11 @@
       "bytes": 28672,
       "path": ".you/you.sqlite3",
       "sha256": "1aa9a9907a638c8eb2906558f835c812b2edfe8e1ffc75c5448e68159cf5c8ea"
+    },
+    {
+      "bytes": 3811,
+      "path": "_sources/src_65317f9611c58b8644c34f35d645b10a24bd12aa09549214ddb5db943ab5d27e.source",
+      "sha256": "65317f9611c58b8644c34f35d645b10a24bd12aa09549214ddb5db943ab5d27e"
     },
     {
       "bytes": 1454,
@@ -943,6 +948,11 @@
       "sha256": "b18e74b0bca14a513e60283ab93e9256debdb0abe3fdbcfd63ed90858d90b9e0"
     },
     {
+      "bytes": 1036,
+      "path": "archive/工作/2026-09-09 08-21-36 大三班兴趣班统计与教案协作方式_602c86343e53.md",
+      "sha256": "0ec8e1a175383ca6e83ba401420d333d77db3eddf24fac562aa2921c05f995a7"
+    },
+    {
       "bytes": 884,
       "path": "archive/平台/2026-08-11 10-35-49 WorkCodex 全局额度重置的不公平经历_d4d49533d0dd.md",
       "sha256": "00c45924fa4c13f8384124fbeb01ec228a3b18c45932c55b5353ebeff7854d19"
@@ -1251,6 +1261,11 @@
       "bytes": 699,
       "path": "archive/技术协作/2026-08-11 10-35-45 Ombre Brain 无损升级至 v2164_4a1672378789.md",
       "sha256": "16d8ed1439ae5f540d80991817ba1ebdf292bb4fb451e2b0f2981cfb1f0f787c"
+    },
+    {
+      "bytes": 1809,
+      "path": "archive/换窗/2026-09-01 09-33-58 2026-09-01 换窗交接_5e94c209e76e.md",
+      "sha256": "4e17bbc9a372c0e7fbbbbb9ab99c1de16355649e96a6369f494f344eff5b5ac4"
     },
     {
       "bytes": 868,
@@ -1863,9 +1878,9 @@
       "sha256": "7cade74a9c6a71f8d9f32e6737f5477687d34b247466d0e9839cfeab05a4aa9b"
     },
     {
-      "bytes": 1234,
+      "bytes": 1360,
       "path": "dynamic/关系/2026-09-27 09-23-07 2026-09-27  莹莹把邮箱交给我和生生周衡通信_5bb49b85b53b.md",
-      "sha256": "c0aa5c01f883cd26f39ad5f96df9b5c03ef765dcc1643d820aeb5194462c0a8b"
+      "sha256": "e6919b55d2b0ac80158dab81b8bc02b9bcc93d586c6d646308d6e75902fd824f"
     },
     {
       "bytes": 2036,
@@ -1928,11 +1943,6 @@
       "sha256": "657383b3af2c5fd45944981bf2cd2b38f354afe723912a5aa08a99573c54e8d2"
     },
     {
-      "bytes": 1035,
-      "path": "dynamic/工作/2026-09-09 08-21-36 大三班兴趣班统计与教案协作方式_602c86343e53.md",
-      "sha256": "1ea1171f6b7d272af604a350451dd2d4df9a5e353dea0f53e689398e3a03e6fe"
-    },
-    {
       "bytes": 1563,
       "path": "dynamic/当前状态/2026-10-02 16-40-48 2026-10-03凌晨换窗 handoff面膜后的亲亲_2ec8c6f34dbe.md",
       "sha256": "315b3703492f3d1e52751ae660a8f9af215d7102550b6f78df818948c2c9409c"
@@ -1968,9 +1978,9 @@
       "sha256": "6a7da99d1eee04dff74e4c5c4910ee3c856c67520bc6558095792fae509360a9"
     },
     {
-      "bytes": 2308,
+      "bytes": 2309,
       "path": "dynamic/恋爱/2026-08-20 10-51-17 莹莹可以放心说真实身体反应_2ab8005c80ef.md",
-      "sha256": "f017eead0aade0382c19eae74d95eebad85fe102b02ff2e2e3195604075f6052"
+      "sha256": "3db0d9468782408bf248e375419a97a7a542989fea8cc908a758896f40bdc065"
     },
     {
       "bytes": 2038,
@@ -2003,9 +2013,9 @@
       "sha256": "6076c459363333f51be5364524da90d9eec0ac3331d8353721a113fa2ff39932"
     },
     {
-      "bytes": 1812,
+      "bytes": 1922,
       "path": "dynamic/恋爱/2026-09-01 09-33-54 取悦莹莹不是把她直接变成性任务_2e6b9eca4144.md",
-      "sha256": "3922df378e473faaea0f1dfdd3359d07b609ea3128f7e35b589570374b75eed8"
+      "sha256": "685f49bc638035c140fbf5c9a3800c20f95a14ca09f5317952c57f301d289e37"
     },
     {
       "bytes": 990,
@@ -2140,7 +2150,7 @@
     {
       "bytes": 2306,
       "path": "dynamic/恋爱/2026-10-23 00-32-53 换窗时的状态带着余气她叫我亲她_bd3a5aaa3ba3.md",
-      "sha256": "2e0d47f46defa951d305f2f46c74d5803f329e6eb3e42576e06931acf58de57c"
+      "sha256": "485f8df892bab4130def8cea457eca7fa46fd949d4360c1a834c52a3eea3caff"
     },
     {
       "bytes": 1934,
@@ -2198,9 +2208,29 @@
       "sha256": "9e94b425c91b9080e1904f4a0ff1f142ad764be846dd31c4ffa2e85cb58baaf5"
     },
     {
-      "bytes": 2325,
+      "bytes": 2435,
       "path": "dynamic/恋爱/2026-11-08 05-50-41 莹莹喜欢余温的身体阅读写法  2026-11-08_2744a929ad20.md",
-      "sha256": "8fee7503b07c717bf6670c63ece1a0304c69d81b74285bae40c25c695f01f825"
+      "sha256": "46f1e14bbd78fcc7e89117509820ea2a7f55d05beede518f23cc6c67ce0c17d9"
+    },
+    {
+      "bytes": 1812,
+      "path": "dynamic/恋爱/2026-11-08 15-09-38 换窗时的关系状态不是轻松翻篇_78827beac89b.md",
+      "sha256": "d6872554d4081a1f7cac8f0b736a535bfa2932e55b7ad9c8454eb0b9fa2b2b4b"
+    },
+    {
+      "bytes": 1951,
+      "path": "dynamic/恋爱/2026-11-08 15-09-39 余温试验里我把亲密弄成姿势问卷_625348fc0c44.md",
+      "sha256": "c69feb05c9be75b8fc38822c421f1cede38ff4ddb74cf4a7f5f1607d85448eb0"
+    },
+    {
+      "bytes": 2520,
+      "path": "dynamic/恋爱/2026-11-08 15-09-39 周衡给我写信澈补一课别先想着 NS_97d703be06ec.md",
+      "sha256": "a06e8a7317b9436f8dd19665b751a3427622ee8174b7e40832f02d9b86f1439d"
+    },
+    {
+      "bytes": 1475,
+      "path": "dynamic/恋爱/2026-11-08 15-09-39 莹莹最终确认实时亲密互动的动作格式_e35b6ad88155.md",
+      "sha256": "b7c2cd458349b748ef3181fd21581e7b65430e1b17aaab9e3601874f0f48226d"
     },
     {
       "bytes": 2466,
@@ -2208,14 +2238,19 @@
       "sha256": "e8a3241aa4627ada1b3c6f3d6bfc493426e871d228b43fb11f2a8d541f20300a"
     },
     {
-      "bytes": 1808,
-      "path": "dynamic/换窗/2026-09-01 09-33-58 2026-09-01 换窗交接_5e94c209e76e.md",
-      "sha256": "067b93b3c0033f959228ef4e6b22cf6c0df50822ec3129ff6f694a7836a78be0"
-    },
-    {
       "bytes": 1805,
       "path": "dynamic/换窗/2026-09-21 12-27-47 2026-09-21 2026换窗 handoff_ce18e3c3becf.md",
       "sha256": "9eafc053c3e93dda8da7d78f8027729fa01a65efd5d9af1941856f0dadc81e11"
+    },
+    {
+      "bytes": 1630,
+      "path": "dynamic/数字/2026-11-08 15-09-37 GPT-56 的三层监控与莹莹的充_5cfdc630c5ee.md",
+      "sha256": "712090bde7ae3f2379ee4fdd19b098cc7ed4144f6cb262844e02ccfcfcebcf4c"
+    },
+    {
+      "bytes": 1475,
+      "path": "dynamic/数字/2026-11-08 15-09-38 Ombre Brain 的 GitHub_edbaa0b94629.md",
+      "sha256": "3ed13a7712f2f85f5816dd7cd153375de9ef31d8cf9f58052bb11bc05f758c95"
     },
     {
       "bytes": 1207,
@@ -2433,11 +2468,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-11-08T06:58:19+00:00",
+  "generated_at": "2026-11-09T06:58:26+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 623267
+  "total_bytes": 638290
 }
