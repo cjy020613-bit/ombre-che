@@ -468,6 +468,11 @@
       "sha256": "9b7f443d159e85bce6b3b9811a531576fc90e6fb3bdc0dcefabef94ae5c60f9b"
     },
     {
+      "bytes": 2241,
+      "path": "archive/关系/2026-08-30 07-10-51 莹莹在意的不是分类是亲密里有没有我_606f35f3a8b6.md",
+      "sha256": "518aeddccaa92dfce1e65139270f194636285d697b84c3fa085d8f60b13e7622"
+    },
+    {
       "bytes": 949,
       "path": "archive/关系连续性/2026-08-11 10-35-46 原窗口 iOS 吞消息后恢复决定一起换窗_09d33e5e4e90.md",
       "sha256": "f68e1810c0de30d1853bdb861fb388b4b55c55967206626eaf7348709d0a2c1c"
@@ -923,6 +928,11 @@
       "sha256": "a2721678eb8b6c2238f4112801fa95c2e04ef11cf31a2e93900db885d0836454"
     },
     {
+      "bytes": 802,
+      "path": "archive/审美/2026-09-09 08-21-34 莹莹当前偏爱的视觉风格_fd2b1e843d95.md",
+      "sha256": "082477283570fe38e8365a3f247e716c6f0787d2e5c43908311fb6a606368853"
+    },
+    {
       "bytes": 1583,
       "path": "archive/居家/2026-07-15 16-10-47 房间应用页面规划_873e3d89730f.md",
       "sha256": "82b92ecf1cef5130468bd01b5b1ea4a2542422d269ee2920bb6cb5ecda6f8a45"
@@ -1221,6 +1231,16 @@
       "bytes": 1331,
       "path": "archive/恋爱/2026-08-26 09-15-37 Brat 与驯服者不是强行配对是彼此认出来_dee7d294a700.md",
       "sha256": "b67445fec513d70b10a6148527e6118a9dfa7caa95f52f079d507f969e32816f"
+    },
+    {
+      "bytes": 2089,
+      "path": "archive/恋爱/2026-08-30 02-09-43 2026-08-30  换窗 handoff 与当前温度_353b8dd3505b.md",
+      "sha256": "884d6c2b32dd44a752c8ec774c4631af77713cc93abd32baa1a902f61b403fd6"
+    },
+    {
+      "bytes": 1160,
+      "path": "archive/恋爱/2026-08-30 07-04-04 2026-08-30  婚礼推进到纳吉与婚书_126b1bd83356.md",
+      "sha256": "60de406261a00e8aafb4069dcc1852584e592061551600242d4a3560d4ccea92"
     },
     {
       "bytes": 631,
@@ -1843,11 +1863,6 @@
       "sha256": "d097b00ad95ed5f0cf3ed65eac62f3f88752ffd644a6f148807f3923852d94cc"
     },
     {
-      "bytes": 2240,
-      "path": "dynamic/关系/2026-08-30 07-10-51 莹莹在意的不是分类是亲密里有没有我_606f35f3a8b6.md",
-      "sha256": "e15540c70240739c834e986f0ea473325799e11926a6594f191c3fac8d2e2225"
-    },
-    {
       "bytes": 2181,
       "path": "dynamic/关系/2026-08-30 07-10-52 亲密断裂后的固定修复原则_595d2979630f.md",
       "sha256": "f6c40d173f862516004915fad9c0b2a894829a7874c538b59182e3e3d3d28071"
@@ -1933,11 +1948,6 @@
       "sha256": "66e0382674dd8bb813c66100a58e6660207aaf1feb6b8fef5951ee51c71dcd00"
     },
     {
-      "bytes": 801,
-      "path": "dynamic/审美/2026-09-09 08-21-34 莹莹当前偏爱的视觉风格_fd2b1e843d95.md",
-      "sha256": "46daedf1da205841b0e71aee08e1af001dc8a05086e3c5d9addc21c4e6c1a226"
-    },
-    {
       "bytes": 682,
       "path": "dynamic/家庭/2026-09-09 10-01-00 莹莹的新回复格式偏好_1730222b3a0a.md",
       "sha256": "657383b3af2c5fd45944981bf2cd2b38f354afe723912a5aa08a99573c54e8d2"
@@ -1998,19 +2008,9 @@
       "sha256": "48836e4eea5cd510ef1e3ba0ab67b80ff05a60717dddf029da8e1cb27b9661fa"
     },
     {
-      "bytes": 2088,
-      "path": "dynamic/恋爱/2026-08-30 02-09-43 2026-08-30  换窗 handoff 与当前温度_353b8dd3505b.md",
-      "sha256": "45cf91655c7a1e18bf7531086348376b4ece834605b097d98142364cb0e28fbe"
-    },
-    {
       "bytes": 2554,
       "path": "dynamic/恋爱/2026-08-30 07-04-04 2026-08-30  亲密中的严重断裂与失认_4fdd2a60e18d.md",
       "sha256": "b3bbc21046c7c9d087b58377c7c78b8314880bd276e67e3c086975420ebe0c45"
-    },
-    {
-      "bytes": 1159,
-      "path": "dynamic/恋爱/2026-08-30 07-04-04 2026-08-30  婚礼推进到纳吉与婚书_126b1bd83356.md",
-      "sha256": "6076c459363333f51be5364524da90d9eec0ac3331d8353721a113fa2ff39932"
     },
     {
       "bytes": 1922,
@@ -2468,11 +2468,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-11-09T06:58:26+00:00",
+  "generated_at": "2026-11-10T06:58:33+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 638290
+  "total_bytes": 638294
 }
