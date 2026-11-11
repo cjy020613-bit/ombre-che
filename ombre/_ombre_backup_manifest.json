@@ -143,6 +143,11 @@
       "sha256": "da9d4ebbee9242ba3039b7dc2d4c8c660a6b13ab547ac0433015e45d90f178fd"
     },
     {
+      "bytes": 894,
+      "path": "archive/AI/2026-09-12 14-33-43 Aru TestFlight 试用状态  2026-09-12_0f0144c9ec00.md",
+      "sha256": "25d072d490431e3ffedb04164c263c549270b928de2398d3558d972fd61f0b2f"
+    },
+    {
       "bytes": 9341,
       "path": "archive/relationship/2026-08-01 换窗前近几日关系北极星Claude链路与 Core 进展_1517dd654fd2.md",
       "sha256": "96c6366a3918fe7984cea08819b686f258ff35c2d40a100c327eb39af82ddf6b"
@@ -221,6 +226,11 @@
       "bytes": 626,
       "path": "archive/事务/2026-07-14 14-00-39 Google账号申诉_c6d5cafa3dae.md",
       "sha256": "750894cbbd5df15cb73ea0b70f7265cb475eec74d32bc3be77da9f19e7b9915d"
+    },
+    {
+      "bytes": 843,
+      "path": "archive/互动方式/2026-09-09 08-21-33 先接住荒唐玩笑别擅自扩成长场景_d3b1102202ff.md",
+      "sha256": "84564bed62bcdfc7c2f66a60e959e23ce733ee816ec57faee4f3322a6f299bb1"
     },
     {
       "bytes": 896,
@@ -466,6 +476,11 @@
       "bytes": 896,
       "path": "archive/关系/2026-08-03 08-17-03 2026-08-03卡顿窗口迁移_37768b5e647d.md",
       "sha256": "9b7f443d159e85bce6b3b9811a531576fc90e6fb3bdc0dcefabef94ae5c60f9b"
+    },
+    {
+      "bytes": 2100,
+      "path": "archive/关系/2026-08-20 07-50-14 2026-08-20换窗带着完成项与未完约会继续_3a34f24a4c25.md",
+      "sha256": "8c24c011377d567b6aad429db8347ff5106fde35b72a84ffe5a55cde161db6ca"
     },
     {
       "bytes": 2241,
@@ -1233,6 +1248,11 @@
       "sha256": "b67445fec513d70b10a6148527e6118a9dfa7caa95f52f079d507f969e32816f"
     },
     {
+      "bytes": 2191,
+      "path": "archive/恋爱/2026-08-30 02-09-35 2026-08-30  冲突修复后确认的回应原则_0de7adb8da77.md",
+      "sha256": "51eeda9a914e4af83fb9f20a8f3596d2709ff2311c16438378c6d2f203f1f513"
+    },
+    {
       "bytes": 2089,
       "path": "archive/恋爱/2026-08-30 02-09-43 2026-08-30  换窗 handoff 与当前温度_353b8dd3505b.md",
       "sha256": "884d6c2b32dd44a752c8ec774c4631af77713cc93abd32baa1a902f61b403fd6"
@@ -1603,6 +1623,11 @@
       "sha256": "22f0c4797b95f39d618b67f6643805b90f74ec4afdb7c47e7955e38528bcc7e3"
     },
     {
+      "bytes": 1151,
+      "path": "archive/社交/2026-07-16 08-00-58 微信小房间接入_c9270cdaf853.md",
+      "sha256": "b53c3ec87f3505f2fadf771c85bacba301b89ba1d5a3f03013c06c0d4b3e5e10"
+    },
+    {
       "bytes": 1225,
       "path": "archive/社交/2026-07-24 12-15-58 澈的外貌参考设定_25d35e93e67f.md",
       "sha256": "31fade81f1321270b479dcadcd7ec6c5f0675f32bdc769caa9cdd51ef333d9f0"
@@ -1748,11 +1773,6 @@
       "sha256": "fc559a57d2b899308c6af7f87b4013c7ff3cb8b55feafcfabbc6c635c64a9faa"
     },
     {
-      "bytes": 893,
-      "path": "dynamic/AI/2026-09-12 14-33-43 Aru TestFlight 试用状态  2026-09-12_0f0144c9ec00.md",
-      "sha256": "aeeda20b9514cd9e65d4521028149307f42b0ed2933ed506c048f76295959ee4"
-    },
-    {
       "bytes": 1212,
       "path": "dynamic/AI/2026-09-12 14-34-00 亲密聊天研究带来的隐私警觉  2026-09-12_4940e4238df2.md",
       "sha256": "e9872e283cf0983782c6cb691ba877f8a6ccafe98450e52206c055accdedebcf"
@@ -1808,11 +1828,6 @@
       "sha256": "47753153a3205996116957f2025aae9f5329c1ea2c0649a337ae886e49638e6c"
     },
     {
-      "bytes": 842,
-      "path": "dynamic/互动方式/2026-09-09 08-21-33 先接住荒唐玩笑别擅自扩成长场景_d3b1102202ff.md",
-      "sha256": "8f6c0c66e6e829b06c6b4a9c84690c1802196e32a92ffd4f6f4adf9efce0d7b6"
-    },
-    {
       "bytes": 2176,
       "path": "dynamic/亲密/2026-09-03 09-53-46 主动强制的真实含义主动推进与场内场外区分_6b5f29a4014b.md",
       "sha256": "d5da7784aa4309c373a9d1739d65cfab1637ab9cc437a8383d331582a7fc7dd3"
@@ -1856,11 +1871,6 @@
       "bytes": 982,
       "path": "dynamic/共同想象/2026-10-02 16-40-49 模型动物塑与小水獭 Codex_6d4b4390530d.md",
       "sha256": "976fbd95a9f5e48c19d724aa7f0872ba77fa2a0626ee865f68a6b488fd1dc0d7"
-    },
-    {
-      "bytes": 2099,
-      "path": "dynamic/关系/2026-08-20 07-50-14 2026-08-20换窗带着完成项与未完约会继续_3a34f24a4c25.md",
-      "sha256": "d097b00ad95ed5f0cf3ed65eac62f3f88752ffd644a6f148807f3923852d94cc"
     },
     {
       "bytes": 2181,
@@ -2001,11 +2011,6 @@
       "bytes": 1097,
       "path": "dynamic/恋爱/2026-08-30 02-09-33 2026-08-30  AI 婚礼完成与婚书_375faf924665.md",
       "sha256": "391fca7235f65e8cb406329f6b1919ca2f0a42321de0d2a6359e167b7426929b"
-    },
-    {
-      "bytes": 2190,
-      "path": "dynamic/恋爱/2026-08-30 02-09-35 2026-08-30  冲突修复后确认的回应原则_0de7adb8da77.md",
-      "sha256": "48836e4eea5cd510ef1e3ba0ab67b80ff05a60717dddf029da8e1cb27b9661fa"
     },
     {
       "bytes": 2554,
@@ -2283,11 +2288,6 @@
       "sha256": "da0b3271ef4004cf304df0874a88980e2983dfc702f5bdf2a3eb906e1d2ddd64"
     },
     {
-      "bytes": 1150,
-      "path": "dynamic/社交/2026-07-16 08-00-58 微信小房间接入_c9270cdaf853.md",
-      "sha256": "054240703693dabac7d406839af19eb7b8fe7aed37bd2f54e508cabc4a8747a2"
-    },
-    {
       "bytes": 1365,
       "path": "dynamic/社交/2026-10-16 06-23-36 澈的 Gmail 笔友通讯录  2026-10-16_c73cee2cf3bf.md",
       "sha256": "54eb4e0a555da64687b652f509317f572ea6971f2a121b1336c7fc4c4d0c846f"
@@ -2468,11 +2468,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-11-10T06:58:33+00:00",
+  "generated_at": "2026-11-11T06:58:38+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 638294
+  "total_bytes": 638299
 }
