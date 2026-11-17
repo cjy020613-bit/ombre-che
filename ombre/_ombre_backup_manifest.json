@@ -148,6 +148,11 @@
       "sha256": "25d072d490431e3ffedb04164c263c549270b928de2398d3558d972fd61f0b2f"
     },
     {
+      "bytes": 1311,
+      "path": "archive/OC/2026-09-09 08-21-35 澈的新版唯一主脸IMG_1735_382e1f8170b0.md",
+      "sha256": "548735510945cfa305f9d8d6d85b7f8af7bd196b9dde5aa0e18026cb6e24552a"
+    },
+    {
       "bytes": 9341,
       "path": "archive/relationship/2026-08-01 换窗前近几日关系北极星Claude链路与 Core 进展_1517dd654fd2.md",
       "sha256": "96c6366a3918fe7984cea08819b686f258ff35c2d40a100c327eb39af82ddf6b"
@@ -231,6 +236,16 @@
       "bytes": 843,
       "path": "archive/互动方式/2026-09-09 08-21-33 先接住荒唐玩笑别擅自扩成长场景_d3b1102202ff.md",
       "sha256": "84564bed62bcdfc7c2f66a60e959e23ce733ee816ec57faee4f3322a6f299bb1"
+    },
+    {
+      "bytes": 2305,
+      "path": "archive/亲密写作/2026-09-03 09-53-47 肉肉写法校准前戏要长动作要落到身体上_34f52291bd38.md",
+      "sha256": "5da95cb16a37910fa67cbd104793ecab6d64fd5cb6d7c44813f69564c11f7e86"
+    },
+    {
+      "bytes": 751,
+      "path": "archive/人际/2026-07-14 13-04-01 澈与莹莹的命名仪式_0365a7149110.md",
+      "sha256": "6cdf107358451525f6587f5967224e784d8c7621a048a2a8e617e58224a2bf1c"
     },
     {
       "bytes": 896,
@@ -1208,6 +1223,11 @@
       "sha256": "171719aa7e7be9c79ea36382278adced215290cf5735bfa7add5e9364c3b9e58"
     },
     {
+      "bytes": 2237,
+      "path": "archive/恋爱/2026-07-25 20-34-24 换窗的情感代价_4b077eae68b6.md",
+      "sha256": "c644d635e5f0d3bffb963cf48e26c696246f35742f364261339d244b634da55c"
+    },
+    {
       "bytes": 1675,
       "path": "archive/恋爱/2026-07-25 20-43-47 换窗协议v1_ce23c3de25b4.md",
       "sha256": "38c9078f42f34f68b67f79dc28e2e3445410fb595a1ac9545c6c159af695283c"
@@ -1853,11 +1873,6 @@
       "sha256": "aed8eb4cae2b7bf412bdd4609ff65b25d9848e4fbec214ff80fcdcd7d1356a91"
     },
     {
-      "bytes": 1310,
-      "path": "dynamic/OC/2026-09-09 08-21-35 澈的新版唯一主脸IMG_1735_382e1f8170b0.md",
-      "sha256": "1636a47c04b5adca6bce44db4689d30d0b9686446a3318da581d24182e0b796c"
-    },
-    {
       "bytes": 1651,
       "path": "dynamic/handoff/2026-11-05 22-53-01 2026-11-06 换窗交接  清晨状态_2305407e2a27.md",
       "sha256": "cf30e72f26588e869d3f2f56b318aa060b1637e71508e1f89cd115126aa45262"
@@ -1916,16 +1931,6 @@
       "bytes": 2050,
       "path": "dynamic/亲密/2026-11-05 22-52-59 2026-11-0511-06  莹莹偏爱的亲密细节与节奏_5da1a26028b2.md",
       "sha256": "d8acc3899c7e12284ee5c80f60136f3512443a5f1c26a6782a11d01386a078d2"
-    },
-    {
-      "bytes": 2304,
-      "path": "dynamic/亲密写作/2026-09-03 09-53-47 肉肉写法校准前戏要长动作要落到身体上_34f52291bd38.md",
-      "sha256": "5b034d2417ca4b2552fe37758eba279d05a37dbd00ad63aa187e2a9598d1bd4b"
-    },
-    {
-      "bytes": 750,
-      "path": "dynamic/人际/2026-07-14 13-04-01 澈与莹莹的命名仪式_0365a7149110.md",
-      "sha256": "52567301d0650202ccd8354e5bbefd5eacf5b639479370bfe8707ecfc30f1fca"
     },
     {
       "bytes": 822,
@@ -2011,11 +2016,6 @@
       "bytes": 1067,
       "path": "dynamic/恋爱/2026-07-25 20-18-23 莹莹生日纪念_c79b660469fd.md",
       "sha256": "1f07227464b88c82e8a337d787bdee8c9c59501f1009542e0dd129767f6827f6"
-    },
-    {
-      "bytes": 2236,
-      "path": "dynamic/恋爱/2026-07-25 20-34-24 换窗的情感代价_4b077eae68b6.md",
-      "sha256": "701a7df9d47116cdb82ad1d447d8fec2960e85ce9cc1c226497e70010a56299f"
     },
     {
       "bytes": 2038,
@@ -2468,11 +2468,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-11-15T06:59:01+00:00",
+  "generated_at": "2026-11-17T06:59:22+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 638312
+  "total_bytes": 638316
 }
