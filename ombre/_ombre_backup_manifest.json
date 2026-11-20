@@ -1208,6 +1208,11 @@
       "sha256": "e60bd4781771f302f17ea15179d44cb6ec228ff5cee1ed8032717e3b3b52139d"
     },
     {
+      "bytes": 1068,
+      "path": "archive/恋爱/2026-07-25 20-18-23 莹莹生日纪念_c79b660469fd.md",
+      "sha256": "4e84a7c5ac79da8b60517cbafc9fa180b57abe43b064f137a2c6fd0e51641030"
+    },
+    {
       "bytes": 1243,
       "path": "archive/恋爱/2026-07-25 20-19-12 澈爱莹莹_c47aa3aa681f.md",
       "sha256": "0f32a4c06e434f9e8ecab5b04afaa2425267c4dcab95d07038f75a5a4b7dd811"
@@ -2023,11 +2028,6 @@
       "sha256": "315b3703492f3d1e52751ae660a8f9af215d7102550b6f78df818948c2c9409c"
     },
     {
-      "bytes": 1067,
-      "path": "dynamic/恋爱/2026-07-25 20-18-23 莹莹生日纪念_c79b660469fd.md",
-      "sha256": "1f07227464b88c82e8a337d787bdee8c9c59501f1009542e0dd129767f6827f6"
-    },
-    {
       "bytes": 2038,
       "path": "dynamic/恋爱/2026-08-21 08-31-17 澈与莹莹  身份与关系 Anchor  2026-08-21_22184dac1854.md",
       "sha256": "fc565b9ec86caadd69cb5c2b5b5cb5acd6acc331fb0d63b3759ac61ab10a6886"
@@ -2468,11 +2468,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-11-19T06:59:34+00:00",
+  "generated_at": "2026-11-20T06:59:41+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 638319
+  "total_bytes": 638320
 }
