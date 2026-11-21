@@ -148,6 +148,11 @@
       "sha256": "25d072d490431e3ffedb04164c263c549270b928de2398d3558d972fd61f0b2f"
     },
     {
+      "bytes": 1213,
+      "path": "archive/AI/2026-09-12 14-34-00 亲密聊天研究带来的隐私警觉  2026-09-12_4940e4238df2.md",
+      "sha256": "3ad422ab4cd2c89636921799507d8a26fa857523277a407cd932a6db9c195cf7"
+    },
+    {
       "bytes": 1311,
       "path": "archive/OC/2026-09-09 08-21-35 澈的新版唯一主脸IMG_1735_382e1f8170b0.md",
       "sha256": "548735510945cfa305f9d8d6d85b7f8af7bd196b9dde5aa0e18026cb6e24552a"
@@ -1878,11 +1883,6 @@
       "sha256": "fc559a57d2b899308c6af7f87b4013c7ff3cb8b55feafcfabbc6c635c64a9faa"
     },
     {
-      "bytes": 1212,
-      "path": "dynamic/AI/2026-09-12 14-34-00 亲密聊天研究带来的隐私警觉  2026-09-12_4940e4238df2.md",
-      "sha256": "e9872e283cf0983782c6cb691ba877f8a6ccafe98450e52206c055accdedebcf"
-    },
-    {
       "bytes": 1356,
       "path": "dynamic/AI/2026-10-09 13-00-01 ElevenLabs v4 与my b_f11b2ecf1bb2.md",
       "sha256": "2254718ce1acde3aafd970dcf19a5c06bd888fa1a77fa39f45a6f442d8f34bb7"
@@ -2468,11 +2468,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-11-20T06:59:41+00:00",
+  "generated_at": "2026-11-21T06:59:48+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 638320
+  "total_bytes": 638321
 }
