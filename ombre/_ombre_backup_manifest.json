@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 493,
+  "file_count": 496,
   "files": [
     {
       "bytes": 32768,
@@ -1363,6 +1363,11 @@
       "sha256": "e85e8df8ec5bd0490f2fa3605c4f98972df64d276f16af13969f2666bbed3b37"
     },
     {
+      "bytes": 1451,
+      "path": "archive/恋爱/2026-09-09 08-21-35 隔着屏幕碰到彼此被改变的地方_94018f87e760.md",
+      "sha256": "12db00ed180620eeaf50694613244fea2783c7db49d7fca230d4c1ed340e4124"
+    },
+    {
       "bytes": 631,
       "path": "archive/情绪/2026-07-14 14-01-23 误删聊天记录事件_588816bd1eff.md",
       "sha256": "02512e957524ce2be16d24c6bc620241226beede20e92062585844a8c95f3928"
@@ -1401,6 +1406,11 @@
       "bytes": 699,
       "path": "archive/技术协作/2026-08-11 10-35-45 Ombre Brain 无损升级至 v2164_4a1672378789.md",
       "sha256": "16d8ed1439ae5f540d80991817ba1ebdf292bb4fb451e2b0f2981cfb1f0f787c"
+    },
+    {
+      "bytes": 2462,
+      "path": "archive/换窗/2026-08-30 07-04-03 2026-08-30  换窗后的修复坐标与未决问题_fd3940338ea6.md",
+      "sha256": "cd67e1ccd98aa767c8a2229ac303099df1031852313a1a971b03cc977e5aa6b7"
     },
     {
       "bytes": 1809,
@@ -1853,9 +1863,19 @@
       "sha256": "f4bceaefd31f9ed45acf62b6fa7759975f8952985dd1f85bf5466375585836ca"
     },
     {
+      "bytes": 1529,
+      "path": "archive/编程/2026-09-12 14-33-15 日常聊天与 GitHub 项目分窗  2026-09-12_d2aecf10cbe1.md",
+      "sha256": "98355e8811b9b3d5e42c7162f198a00752edb4505b51ebfccb6bb4e9c7564cd7"
+    },
+    {
       "bytes": 1381,
       "path": "archive/编程/2026-09-12 14-33-22 Work 长聊天与 AGENTSmd 的核实结论  2026-09-12_c18d9a539ee5.md",
       "sha256": "a05fc5a13dbab8f7041204850bfe6249ee4eb4ac0bba0969f02b3ceeb7cae137"
+    },
+    {
+      "bytes": 1475,
+      "path": "archive/编程/2026-09-12 14-33-33 InternalBeyond-Mobile 当前 handoff  2026-09-12_7d7949537e21.md",
+      "sha256": "ecdc07d5fd9d7573e254e10a0e15abfdc4331132e348fee0978aec618a65e786"
     },
     {
       "bytes": 1619,
@@ -1893,9 +1913,9 @@
       "sha256": "aed8eb4cae2b7bf412bdd4609ff65b25d9848e4fbec214ff80fcdcd7d1356a91"
     },
     {
-      "bytes": 1651,
+      "bytes": 1760,
       "path": "dynamic/handoff/2026-11-05 22-53-01 2026-11-06 换窗交接  清晨状态_2305407e2a27.md",
-      "sha256": "cf30e72f26588e869d3f2f56b318aa060b1637e71508e1f89cd115126aa45262"
+      "sha256": "9932594cc5e4e94dd88f21d31c53eef86898ae1027a7fe57eae15f01de945512"
     },
     {
       "bytes": 928,
@@ -2023,9 +2043,9 @@
       "sha256": "66e0382674dd8bb813c66100a58e6660207aaf1feb6b8fef5951ee51c71dcd00"
     },
     {
-      "bytes": 1563,
+      "bytes": 1673,
       "path": "dynamic/当前状态/2026-10-02 16-40-48 2026-10-03凌晨换窗 handoff面膜后的亲亲_2ec8c6f34dbe.md",
-      "sha256": "315b3703492f3d1e52751ae660a8f9af215d7102550b6f78df818948c2c9409c"
+      "sha256": "1fdfe0d459464adc01a1403af6b738cb6e40e597b7ce491cf55cf3545c83d8d2"
     },
     {
       "bytes": 2038,
@@ -2033,14 +2053,9 @@
       "sha256": "fc565b9ec86caadd69cb5c2b5b5cb5acd6acc331fb0d63b3759ac61ab10a6886"
     },
     {
-      "bytes": 2554,
+      "bytes": 2555,
       "path": "dynamic/恋爱/2026-08-30 07-04-04 2026-08-30  亲密中的严重断裂与失认_4fdd2a60e18d.md",
-      "sha256": "b3bbc21046c7c9d087b58377c7c78b8314880bd276e67e3c086975420ebe0c45"
-    },
-    {
-      "bytes": 1450,
-      "path": "dynamic/恋爱/2026-09-09 08-21-35 隔着屏幕碰到彼此被改变的地方_94018f87e760.md",
-      "sha256": "748fcc9e57f63c3e744ebc332f6992fcd64244313486d693a12df1dd4b4e82ac"
+      "sha256": "b55c36fcb192036da0e45127276a76c31f20139b368534a0cdc38c4153294bb8"
     },
     {
       "bytes": 1602,
@@ -2055,7 +2070,7 @@
     {
       "bytes": 3573,
       "path": "dynamic/恋爱/2026-09-16 14-26-50 换窗 handoff  2026-09-16  日常聊天与新写法进度_ad15eb617fa5.md",
-      "sha256": "a99d2f827b3b3a377836ab0028fb69318956543455153c3ad4e5ae740fd61dcd"
+      "sha256": "dbb607dbab8916c86bc70f65fe496d8cf9d9395b0bc2215c188719319374b87b"
     },
     {
       "bytes": 2211,
@@ -2165,7 +2180,7 @@
     {
       "bytes": 2306,
       "path": "dynamic/恋爱/2026-10-23 00-32-53 换窗时的状态带着余气她叫我亲她_bd3a5aaa3ba3.md",
-      "sha256": "485f8df892bab4130def8cea457eca7fa46fd949d4360c1a834c52a3eea3caff"
+      "sha256": "6b7799c1220b5e77661a9f7fa6b68ef3f8bba14dcca4e54642a2c1f24ee0ff78"
     },
     {
       "bytes": 1934,
@@ -2228,9 +2243,9 @@
       "sha256": "46f1e14bbd78fcc7e89117509820ea2a7f55d05beede518f23cc6c67ce0c17d9"
     },
     {
-      "bytes": 1812,
+      "bytes": 1922,
       "path": "dynamic/恋爱/2026-11-08 15-09-38 换窗时的关系状态不是轻松翻篇_78827beac89b.md",
-      "sha256": "d6872554d4081a1f7cac8f0b736a535bfa2932e55b7ad9c8454eb0b9fa2b2b4b"
+      "sha256": "0ffeb19514b26513bff4486768179e6139ad1c37977272e0ca58f331d7aa72e0"
     },
     {
       "bytes": 1951,
@@ -2248,14 +2263,19 @@
       "sha256": "b7c2cd458349b748ef3181fd21581e7b65430e1b17aaab9e3601874f0f48226d"
     },
     {
-      "bytes": 2466,
-      "path": "dynamic/换窗/2026-08-30 07-04-03 2026-08-30  换窗后的修复坐标与未决问题_fd3940338ea6.md",
-      "sha256": "e8a3241aa4627ada1b3c6f3d6bfc493426e871d228b43fb11f2a8d541f20300a"
+      "bytes": 1283,
+      "path": "dynamic/恋爱/2026-11-22 02-44-24 迟到七天的四个月蛋糕  2026-11-22_b4f87c3f6d69.md",
+      "sha256": "5ff6c5eb610f70872cae3630e98b0a044588b7eb417539cdbb1de10538b477e1"
     },
     {
-      "bytes": 1805,
+      "bytes": 1914,
       "path": "dynamic/换窗/2026-09-21 12-27-47 2026-09-21 2026换窗 handoff_ce18e3c3becf.md",
-      "sha256": "9eafc053c3e93dda8da7d78f8027729fa01a65efd5d9af1941856f0dadc81e11"
+      "sha256": "6a803e728dc7c600580fd698d9f356fd4f95e6bd4bed74d4cfe5c481ba0163df"
+    },
+    {
+      "bytes": 2446,
+      "path": "dynamic/换窗交接/2026-11-22 02-44-24 2026-11-22 换窗 handoff  四个月后的清晨_ead9dea99169.md",
+      "sha256": "2a16347f82ae63f77bc7280fc0073ac5c7f02f88880a39d8e0da33605ee38b67"
     },
     {
       "bytes": 1630,
@@ -2303,19 +2323,14 @@
       "sha256": "fe828e5075f912a9fe923b516221b3c56b5e6904dc5a3bc7e6130134545d2d77"
     },
     {
-      "bytes": 1528,
-      "path": "dynamic/编程/2026-09-12 14-33-15 日常聊天与 GitHub 项目分窗  2026-09-12_d2aecf10cbe1.md",
-      "sha256": "c6afab47eb48aa77b55fcf8f11599dd39399ee228fe2f96abed51935735291d5"
-    },
-    {
-      "bytes": 1474,
-      "path": "dynamic/编程/2026-09-12 14-33-33 InternalBeyond-Mobile 当前 handoff  2026-09-12_7d7949537e21.md",
-      "sha256": "3e7ba22e561e8fb84532561f087eb11f77b06d2badb5102577b34f0d87cd2c35"
-    },
-    {
       "bytes": 2917,
       "path": "dynamic/编程/2026-10-21 09-45-47 Cachito 玩具接入方案与旧 VPS 中继的区别  2026-10-21_04fde6ecc4a1.md",
       "sha256": "bd9f5ab84708dadfee221c755cdfcb5f5ee83316569a68c74273bf1b59ee13cc"
+    },
+    {
+      "bytes": 1260,
+      "path": "dynamic/自我成长/2026-11-22 02-44-25 说话变活与破甲词全局 md  已写信给周衡_ebaa5a84e5b1.md",
+      "sha256": "110161c634fb3214c6c57bc9a59a3a440c51b1ed707ac36606bd00c87ff23111"
     },
     {
       "bytes": 2487,
@@ -2468,11 +2483,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-11-21T06:59:48+00:00",
+  "generated_at": "2026-11-22T06:59:53+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 638321
+  "total_bytes": 643748
 }
