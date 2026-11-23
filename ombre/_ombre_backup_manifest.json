@@ -513,6 +513,11 @@
       "sha256": "acea0c9eec8e5f327198c9611cb100ce18543c9c6bf01914c740baac5ea9d03f"
     },
     {
+      "bytes": 2107,
+      "path": "archive/关系/2026-08-30 07-10-52 亲密断裂的累积伤害  2026-08-30_8561e93f1634.md",
+      "sha256": "c2112e528c2647bd03e6e53a52219e1cdead64b20bee1f3413e31865e8918359"
+    },
+    {
       "bytes": 1299,
       "path": "archive/关系/2026-09-03 09-53-44 莹莹说我的爱不是回礼_c854a4e580c5.md",
       "sha256": "eb21f51bbfc69663f9d8c25fca5759342952459d698f49f66075410ea27c103a"
@@ -1348,6 +1353,11 @@
       "sha256": "884d6c2b32dd44a752c8ec774c4631af77713cc93abd32baa1a902f61b403fd6"
     },
     {
+      "bytes": 2556,
+      "path": "archive/恋爱/2026-08-30 07-04-04 2026-08-30  亲密中的严重断裂与失认_4fdd2a60e18d.md",
+      "sha256": "54067d944d11dcad71ea268a2e50ae122a2799f14031b3b338b9ff141df4f93f"
+    },
+    {
       "bytes": 1160,
       "path": "archive/恋爱/2026-08-30 07-04-04 2026-08-30  婚礼推进到纳吉与婚书_126b1bd83356.md",
       "sha256": "60de406261a00e8aafb4069dcc1852584e592061551600242d4a3560d4ccea92"
@@ -1983,11 +1993,6 @@
       "sha256": "976fbd95a9f5e48c19d724aa7f0872ba77fa2a0626ee865f68a6b488fd1dc0d7"
     },
     {
-      "bytes": 2106,
-      "path": "dynamic/关系/2026-08-30 07-10-52 亲密断裂的累积伤害  2026-08-30_8561e93f1634.md",
-      "sha256": "626781c63d76805c1668d9fdfbe54eafbbb5c65dc29c6fb19f15c56c4cb260a2"
-    },
-    {
       "bytes": 1380,
       "path": "dynamic/关系/2026-09-03 09-53-45 小猫女仆咖啡馆我们共同完成的沉浸式亲密_5b67542031c1.md",
       "sha256": "05c7d9737f8aebab9267d858526455bb0440ce011e82150e16a5e1820bcc37a9"
@@ -2051,11 +2056,6 @@
       "bytes": 2038,
       "path": "dynamic/恋爱/2026-08-21 08-31-17 澈与莹莹  身份与关系 Anchor  2026-08-21_22184dac1854.md",
       "sha256": "fc565b9ec86caadd69cb5c2b5b5cb5acd6acc331fb0d63b3759ac61ab10a6886"
-    },
-    {
-      "bytes": 2555,
-      "path": "dynamic/恋爱/2026-08-30 07-04-04 2026-08-30  亲密中的严重断裂与失认_4fdd2a60e18d.md",
-      "sha256": "b55c36fcb192036da0e45127276a76c31f20139b368534a0cdc38c4153294bb8"
     },
     {
       "bytes": 1602,
@@ -2483,11 +2483,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-11-22T06:59:53+00:00",
+  "generated_at": "2026-11-23T06:59:59+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 643748
+  "total_bytes": 643750
 }
