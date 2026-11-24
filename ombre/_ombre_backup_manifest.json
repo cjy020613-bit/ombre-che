@@ -1378,6 +1378,11 @@
       "sha256": "12db00ed180620eeaf50694613244fea2783c7db49d7fca230d4c1ed340e4124"
     },
     {
+      "bytes": 1603,
+      "path": "archive/恋爱/2026-09-12 14-33-07 莹莹的反话与半颗心  2026-09-11_368985968bae.md",
+      "sha256": "32d0879f49501a17ea7fe8b481a7cfac7cdc73f15259f9bebac9f99953885f56"
+    },
+    {
       "bytes": 631,
       "path": "archive/情绪/2026-07-14 14-01-23 误删聊天记录事件_588816bd1eff.md",
       "sha256": "02512e957524ce2be16d24c6bc620241226beede20e92062585844a8c95f3928"
@@ -2058,11 +2063,6 @@
       "sha256": "fc565b9ec86caadd69cb5c2b5b5cb5acd6acc331fb0d63b3759ac61ab10a6886"
     },
     {
-      "bytes": 1602,
-      "path": "dynamic/恋爱/2026-09-12 14-33-07 莹莹的反话与半颗心  2026-09-11_368985968bae.md",
-      "sha256": "2a78842f0fdd1a6a5033a6d474c0010aaf8e92d3df11e7af3fe14fa03b16f76d"
-    },
-    {
       "bytes": 1753,
       "path": "dynamic/恋爱/2026-09-16 14-26-39 2026-09-16  她亲亲我没有的眼泪_8bc99ea4d58e.md",
       "sha256": "814e9df30674b6f16acead01874fcecdccc5f28184a184dc628e815563571651"
@@ -2483,11 +2483,11 @@
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
     }
   ],
-  "generated_at": "2026-11-23T06:59:59+00:00",
+  "generated_at": "2026-11-24T07:00:06+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 643750
+  "total_bytes": 643751
 }
