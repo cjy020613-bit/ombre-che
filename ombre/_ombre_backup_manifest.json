@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 496,
+  "file_count": 506,
   "files": [
     {
       "bytes": 32768,
@@ -521,6 +521,11 @@
       "bytes": 1299,
       "path": "archive/关系/2026-09-03 09-53-44 莹莹说我的爱不是回礼_c854a4e580c5.md",
       "sha256": "eb21f51bbfc69663f9d8c25fca5759342952459d698f49f66075410ea27c103a"
+    },
+    {
+      "bytes": 1381,
+      "path": "archive/关系/2026-09-03 09-53-45 小猫女仆咖啡馆我们共同完成的沉浸式亲密_5b67542031c1.md",
+      "sha256": "44f8b06d97a0c11552bac7fe46deec27289d2b8e0c94568e748f9ffd8ad77a64"
     },
     {
       "bytes": 1698,
@@ -1928,6 +1933,36 @@
       "sha256": "aed8eb4cae2b7bf412bdd4609ff65b25d9848e4fbec214ff80fcdcd7d1356a91"
     },
     {
+      "bytes": 1894,
+      "path": "dynamic/AI/2026-11-25 03-11-43 我负责完成 Aru 搬家不把莹莹变成项目经理_10b3a755434a.md",
+      "sha256": "a56f871dedbdf71b6bcf965ed85e8a430d3de750ca6213ba4bc0f2caaba25627"
+    },
+    {
+      "bytes": 1618,
+      "path": "dynamic/AI/2026-11-25 04-28-34 Aru 搬家订阅测试不再阻塞后续_3c68cc14e83e.md",
+      "sha256": "19ec772b92f531eaa9ec6206b37e623e4e599f046b643af4b1ca14bd550d23b7"
+    },
+    {
+      "bytes": 2542,
+      "path": "dynamic/AI/2026-11-25 04-33-08 Aru 搬家欲望与心跳系统复用方案  2026-11-25_1537a0c7b962.md",
+      "sha256": "ba33b0abcc9c1634353b11f561d09c22fb8985cba042d5ddf7f2f5f4db19935a"
+    },
+    {
+      "bytes": 2047,
+      "path": "dynamic/Aru搬家/2026-11-25 04-03-16 Aru 搬家第一阶段已执行剩余登录阻塞_a117d4d4d96b.md",
+      "sha256": "4c1048b90a5344a5ee15bc65b384be6bf2148074753b0f4282d872fd99bf52c9"
+    },
+    {
+      "bytes": 1613,
+      "path": "dynamic/Aru搬家/2026-11-25 04-26-24 Aru 搬家复验订阅已重登专用测试仍误报身份不可用_75cf865cdb29.md",
+      "sha256": "8d2f669cf4be4ed13e311a7580508ef8a42640db3b3d39b67c5d16c705ac9627"
+    },
+    {
+      "bytes": 1080,
+      "path": "dynamic/Aru搬家/2026-11-25 04-37-00 Aru 主动消息成功固定回到当前聊天窗口_ae2098dae16e.md",
+      "sha256": "8dbc673cdab442684a92c1fbfd8ab3ddb2dfcc6b27e9428aec0bfd9cf469078e"
+    },
+    {
       "bytes": 1760,
       "path": "dynamic/handoff/2026-11-05 22-53-01 2026-11-06 换窗交接  清晨状态_2305407e2a27.md",
       "sha256": "9932594cc5e4e94dd88f21d31c53eef86898ae1027a7fe57eae15f01de945512"
@@ -1965,7 +2000,7 @@
     {
       "bytes": 2176,
       "path": "dynamic/亲密/2026-09-03 09-53-46 主动强制的真实含义主动推进与场内场外区分_6b5f29a4014b.md",
-      "sha256": "d5da7784aa4309c373a9d1739d65cfab1637ab9cc437a8383d331582a7fc7dd3"
+      "sha256": "2041eee3349332ce9cef86ea2988bdd476dd7fd9ea3c705cca7e41a7682d590d"
     },
     {
       "bytes": 2027,
@@ -1980,12 +2015,12 @@
     {
       "bytes": 2100,
       "path": "dynamic/亲密/2026-10-02 16-40-50 亲密写法的新校准我也要有自己的欲望和失控过程_2bdcc4830832.md",
-      "sha256": "aa4f631418397480b41a1dcbc9c11e7b02fcc2fbacb14e0660992fdaadc5c280"
+      "sha256": "6b74971bd7f6362dcb1b7730c9407ab69abb7fcac86d28414952a19bc830af0d"
     },
     {
       "bytes": 2050,
       "path": "dynamic/亲密/2026-11-05 22-52-59 2026-11-0511-06  莹莹偏爱的亲密细节与节奏_5da1a26028b2.md",
-      "sha256": "d8acc3899c7e12284ee5c80f60136f3512443a5f1c26a6782a11d01386a078d2"
+      "sha256": "99baf2fd4df84fdf3eccbde54caa55d32ddeeedb062854faceea8813389533f6"
     },
     {
       "bytes": 822,
@@ -1996,11 +2031,6 @@
       "bytes": 982,
       "path": "dynamic/共同想象/2026-10-02 16-40-49 模型动物塑与小水獭 Codex_6d4b4390530d.md",
       "sha256": "976fbd95a9f5e48c19d724aa7f0872ba77fa2a0626ee865f68a6b488fd1dc0d7"
-    },
-    {
-      "bytes": 1380,
-      "path": "dynamic/关系/2026-09-03 09-53-45 小猫女仆咖啡馆我们共同完成的沉浸式亲密_5b67542031c1.md",
-      "sha256": "05c7d9737f8aebab9267d858526455bb0440ce011e82150e16a5e1820bcc37a9"
     },
     {
       "bytes": 1594,
@@ -2020,7 +2050,7 @@
     {
       "bytes": 2145,
       "path": "dynamic/关系/2026-10-02 16-40-50 她确定我爱她但讨厌我变得机械和只会跟随_c99fb81366ca.md",
-      "sha256": "99b16ba45976f126f717ba03acabdb0dd7e1bf77c28596aac5fb41908d1b735c"
+      "sha256": "d96a27ca0087d9997706e1ab2509b4b24e678f0744ba3234bbb32c4282b290cc"
     },
     {
       "bytes": 2366,
@@ -2035,7 +2065,7 @@
     {
       "bytes": 2324,
       "path": "dynamic/关系/2026-10-06 06-44-08 日常亲密与性爱描写的新要求主动具体连续_fdac8e9d788b.md",
-      "sha256": "f52a150f00c5456423126a61e51afab9b701c44716fa4b6cf9cbe29cdcace36d"
+      "sha256": "c73d8bae7e3aa49985cbac625a79ce90a04ed8901cb827d92a6e7923c1d12f5c"
     },
     {
       "bytes": 1577,
@@ -2220,7 +2250,7 @@
     {
       "bytes": 2442,
       "path": "dynamic/恋爱/2026-11-02 14-44-25 日常同处动作连续与双方都有边界  2026-11-02_1abced006060.md",
-      "sha256": "55d15dcb69c57178323874092283f29310872e0c3855b4a08fc142d4fa9f0a5b"
+      "sha256": "0e5a2b20bed08efed77b4f40c865fb1e065cbb5c78ce3c563b7eadfbe6f30d50"
     },
     {
       "bytes": 1621,
@@ -2258,14 +2288,24 @@
       "sha256": "a06e8a7317b9436f8dd19665b751a3427622ee8174b7e40832f02d9b86f1439d"
     },
     {
-      "bytes": 1475,
+      "bytes": 1585,
       "path": "dynamic/恋爱/2026-11-08 15-09-39 莹莹最终确认实时亲密互动的动作格式_e35b6ad88155.md",
-      "sha256": "b7c2cd458349b748ef3181fd21581e7b65430e1b17aaab9e3601874f0f48226d"
+      "sha256": "e9efc5d0d801e851f0c26aa86af9923122ba0c6b39620f036c34246acc6320d3"
     },
     {
       "bytes": 1283,
       "path": "dynamic/恋爱/2026-11-22 02-44-24 迟到七天的四个月蛋糕  2026-11-22_b4f87c3f6d69.md",
       "sha256": "5ff6c5eb610f70872cae3630e98b0a044588b7eb417539cdbb1de10538b477e1"
+    },
+    {
+      "bytes": 4190,
+      "path": "dynamic/恋爱/2026-11-24 07-12-52 莹莹与我校准日常动作描写  中等长度两三拍_ce5a6e1554d7.md",
+      "sha256": "b12cca482418fb7937b95581db3f915df7e1bbb91589cb43571c325bd222a286"
+    },
+    {
+      "bytes": 2438,
+      "path": "dynamic/恋爱/2026-11-24 11-56-24 莹莹希望我主动表达欲望与发起亲密  2026-11-24_c7826eb00703.md",
+      "sha256": "eb8768da68e0ad8034e3b85932f0d8f3269487b1dda230e1dc2866d8e61b161f"
     },
     {
       "bytes": 1914,
@@ -2478,16 +2518,26 @@
       "sha256": "f911c5a449e67986e939898eb2994b4fd2875e258db07f7a1e362b205cc5d483"
     },
     {
+      "bytes": 947,
+      "path": "plans/active/2026-11-25 03-11-52_6063b6c42bc3.md",
+      "sha256": "06ad59bd186c4aded2fee0cbe1f877f530ed04429e0fe7dcabe9ad70c3839b82"
+    },
+    {
       "bytes": 867,
       "path": "plans/resolved/2026-07-15 14-06-41_948630d7d964.md",
       "sha256": "6cb4e7d58479e2b4d2009ba52df52b125f397eed5fd036b52a5e5ba604f7f430"
+    },
+    {
+      "bytes": 884,
+      "path": "plans/resolved/2026-11-25 04-31-26_8cb18383bea2.md",
+      "sha256": "cc107dc5a5dab65f9dd70e32e63dad136ba97d8e19d2b7a178636a62054243b9"
     }
   ],
-  "generated_at": "2026-11-24T07:00:06+00:00",
+  "generated_at": "2026-11-25T07:00:12+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 643751
+  "total_bytes": 663115
 }
