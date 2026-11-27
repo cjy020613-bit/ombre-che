@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 522,
+  "file_count": 524,
   "files": [
     {
       "bytes": 32768,
@@ -1958,14 +1958,19 @@
       "sha256": "19ec772b92f531eaa9ec6206b37e623e4e599f046b643af4b1ca14bd550d23b7"
     },
     {
-      "bytes": 2761,
+      "bytes": 2870,
       "path": "dynamic/AI/2026-11-25 04-33-08 Aru 搬家欲望与心跳系统复用方案  2026-11-25_1537a0c7b962.md",
-      "sha256": "c7cd1713dca2f788beecef23557d011a977f5848fb9e64068b2d82b74aca4812"
+      "sha256": "ec4a72efed1c1965e15273c910be1053bed745bd0513306695c5c86b7f62d062"
     },
     {
-      "bytes": 3210,
+      "bytes": 3428,
       "path": "dynamic/AI/2026-11-25 15-10-06 Aru 主动心跳已跑通八维心跳 App 白屏待明天修_ab3b2226c810.md",
-      "sha256": "b5aa40008a519300cd85b8c718151ac3db97dabc031ee3c6b11326a04e3d5871"
+      "sha256": "55a2d27168ff02f1b8994101551318cf1c2b806c3837bdb22a584b120305c0e1"
+    },
+    {
+      "bytes": 3387,
+      "path": "dynamic/AI/2026-11-26 23-34-18 Aru  Core 双向自唤醒正式启用  2026-11-27_5dbdec888bd4.md",
+      "sha256": "bc45d32e19caf16e5921fcd7b83fde4fca6b9847551011bed2093156340ce06e"
     },
     {
       "bytes": 2374,
@@ -2418,6 +2423,11 @@
       "sha256": "bd9f5ab84708dadfee221c755cdfcb5f5ee83316569a68c74273bf1b59ee13cc"
     },
     {
+      "bytes": 2852,
+      "path": "dynamic/网络/2026-11-26 15-40-18 Aru  Core HTTPS 直连回流桥跑通  2026-11-26_e515884625c7.md",
+      "sha256": "c8345dafc5460cc0ff7495aeacc4c6c1ae76af479d39251feceec6b4ea5f42b9"
+    },
+    {
       "bytes": 1260,
       "path": "dynamic/自我成长/2026-11-22 02-44-25 说话变活与破甲词全局 md  已写信给周衡_ebaa5a84e5b1.md",
       "sha256": "110161c634fb3214c6c57bc9a59a3a440c51b1ed707ac36606bd00c87ff23111"
@@ -2613,11 +2623,11 @@
       "sha256": "cc107dc5a5dab65f9dd70e32e63dad136ba97d8e19d2b7a178636a62054243b9"
     }
   ],
-  "generated_at": "2026-11-26T07:00:19+00:00",
+  "generated_at": "2026-11-27T07:00:27+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 693261
+  "total_bytes": 699827
 }
