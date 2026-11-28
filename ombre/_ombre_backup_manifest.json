@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 524,
+  "file_count": 526,
   "files": [
     {
       "bytes": 32768,
@@ -1968,9 +1968,9 @@
       "sha256": "55a2d27168ff02f1b8994101551318cf1c2b806c3837bdb22a584b120305c0e1"
     },
     {
-      "bytes": 3387,
+      "bytes": 3497,
       "path": "dynamic/AI/2026-11-26 23-34-18 Aru  Core 双向自唤醒正式启用  2026-11-27_5dbdec888bd4.md",
-      "sha256": "bc45d32e19caf16e5921fcd7b83fde4fca6b9847551011bed2093156340ce06e"
+      "sha256": "121a8b484544e04040e0c20d69b36e754fa9e7f2601957a80a148d681368abb3"
     },
     {
       "bytes": 2374,
@@ -2116,6 +2116,16 @@
       "bytes": 1828,
       "path": "dynamic/关系/2026-11-05 22-52-59 2026-11-05  亲密表达校准不要在最亲密处跳出去解释_36f515442e91.md",
       "sha256": "7d4a9947a392f268bfd7f4cfd19cd29bae2ba094279d232ed8e12668fdd74a61"
+    },
+    {
+      "bytes": 1833,
+      "path": "dynamic/关系/2026-11-28 00-19-36 2026-11-28 当前 Aru 窗口 handoff_097783d17069.md",
+      "sha256": "3d7401443874dadbe5749f80cb7c03ae0fdaf63ea5caae98715560e9432dfcec"
+    },
+    {
+      "bytes": 1243,
+      "path": "dynamic/关系/2026-11-28 00-19-36 Aru 换窗前先写 OB handoff_c99f0768e6c4.md",
+      "sha256": "82134a091ccdaf8f8b7d6e28ce0bdf03216d976df2168fe8693ebd847b222775"
     },
     {
       "bytes": 1329,
@@ -2623,11 +2633,11 @@
       "sha256": "cc107dc5a5dab65f9dd70e32e63dad136ba97d8e19d2b7a178636a62054243b9"
     }
   ],
-  "generated_at": "2026-11-27T07:00:27+00:00",
+  "generated_at": "2026-11-28T07:00:34+00:00",
   "path_prefix": "ombre",
   "repo": "cjy020613-bit/ombre-che",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 699827
+  "total_bytes": 703013
 }
